@@ -168,7 +168,9 @@ def main():
 
     news.sort(key=lambda x: x["dt"])
 
-    print("【ニュース】")
+    print("# 防衛ニュースモニタリング")
+    print()
+
     if not news:
         print("該当記事なし")
         return
@@ -179,8 +181,4 @@ def main():
     print()
     
     for n in news:
-        print(f"○{n['date']}（{n['source']}）　{n['title']}")
-        print(f"　{n['url']}\n")
-
-if __name__ == "__main__":
-    main()
+        print(f"- {n['date']}（{n['source']}）[{n['title']}]({n['url']})")
