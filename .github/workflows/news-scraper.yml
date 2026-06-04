@@ -1,35 +1,57 @@
-name: Run defence news scraper
+# .github/workflows/news-scraper.yml
+name: Defence News Watcher
 
+# GITHUB_TOKEN にリポジトリ内容への書き込み権限を付与
+permissions:
+  contents: write
+
+# 手動実行と定期実行（JST 10:00）
 on:
-  schedule:
-    # JST 10:00 = UTC 01:00
-    - cron: "0 1 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: '0 1 * * *'  # UTC 01:00 → JST 10:00
 
 jobs:
-  run-scraper:
+  run-monitor:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. コードをチェックアウト
       - name: Checkout repository
         uses: actions/checkout@v6
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
+      # 2. Python 環境をセットアップ
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
+      # 3. 必要ライブラリをインストール
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
-      - name: Run scraper and save result
+      # 4. スクリプトを実行して結果を result.md に書き出し
+      - name: Run defence-news.py
         run: |
-          python defence-news.py > result.md
+          python ./defence-news.py > result.md 2>&1
 
-      - name: Upload result
-        uses: actions/upload-artifact@v4
-        with:
-          name: defence-news-result
-          path: result.md
+      # 5. result.md をコミット＆プッシュ
+      - name: Commit & push result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add result.md
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update defence news results"
+            git pull --rebase --autostash origin ${{ github.ref_name }}
+            git push
+          fi
