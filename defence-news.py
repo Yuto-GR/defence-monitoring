@@ -59,7 +59,7 @@ FILTER_SOURCES = {
     "ブルームバーグ", "Bloomberg",
     "東京新聞", "中日新聞",
     "東洋経済",
-    "日刊工業",
+    "日刊工業","日刊工業新聞",
 }
 
 # ───────── 設定 ──────────────────────────────────────────
@@ -170,6 +170,8 @@ def main():
 
     print("# 防衛ニュースモニタリング")
     print()
+    print(f"更新日時: {datetime.now(JST).strftime('%Y年%m月%d日 %H:%M')}")
+    print()
 
     if not news:
         print("該当記事なし")
@@ -182,3 +184,7 @@ def main():
     
     for n in news:
         print(f"- {n['date']}（{n['source']}）[{n['title']}]({n['url']})")
+
+
+if __name__ == "__main__":
+    main()
