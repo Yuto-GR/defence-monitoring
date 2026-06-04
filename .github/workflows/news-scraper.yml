@@ -35,23 +35,28 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
-      # 4. スクリプトを実行して結果を result.md に書き出し
-      - name: Run defence-news.py
+      # 4. docs フォルダを用意
+      - name: Prepare docs folder
         run: |
-          python ./defence-news.py > result.md 2>&1
+          mkdir -p docs
 
-      # 5. result.md をコミット＆プッシュ
-      - name: Commit & push result
+      # 5. スクリプトを実行して docs/index.md に書き出し
+      - name: Run defence-news.py and save page
+        run: |
+          python ./defence-news.py > docs/index.md 2>&1
+
+      # 6. docs/index.md をコミット＆プッシュ
+      - name: Commit & push page
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add result.md
+          git add docs/index.md
 
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update defence news results"
+            git commit -m "Update defence news page"
             git pull --rebase --autostash origin ${{ github.ref_name }}
             git push
           fi
