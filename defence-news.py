@@ -204,6 +204,140 @@ def fetch_hits(keyword: str):
         }
 
 
+
+def escape_html_text(text: str) -> str:
+    """HTML本文用に特殊文字をエスケープする"""
+    return html.escape(html.unescape(text), quote=True)
+
+
+def render_page(news, updated_at: str) -> None:
+    """GitHub Pages向けに、GR Japan風の落ち着いた政策レポートUIで出力する"""
+    article_count = len(news)
+    latest_date = news[0]["date"] if news else "—"
+
+    print("""---
+layout: null
+---
+<html lang=\"ja\">
+<head>
+  <meta charset=\"utf-8\">
+  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
+  <title>防衛ニュースモニタリング</title>
+  <style>
+    :root {
+      --ink: #14233b;
+      --navy: #1f3a5f;
+      --blue: #2f5f8f;
+      --red: #b73a36;
+      --gold: #c7a057;
+      --paper: #f7f5ef;
+      --card: #ffffff;
+      --muted: #68758a;
+      --line: #e4ded0;
+      --shadow: 0 22px 60px rgba(20, 35, 59, 0.12);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at top left, rgba(199, 160, 87, 0.18), transparent 34rem),
+        linear-gradient(135deg, #fbfaf7 0%, var(--paper) 48%, #eef2f6 100%);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", "Hiragino Sans", "Yu Gothic", sans-serif;
+      line-height: 1.75;
+    }
+
+    .page { width: min(1120px, calc(100% - 32px)); margin: 0 auto; padding: 48px 0 64px; }
+
+    .hero {
+      position: relative; overflow: hidden; min-height: 300px; padding: clamp(32px, 6vw, 64px); border-radius: 28px;
+      background: linear-gradient(135deg, rgba(31, 58, 95, 0.96), rgba(47, 95, 143, 0.9));
+      box-shadow: var(--shadow); color: #fff;
+    }
+
+    .hero::after {
+      content: ""; position: absolute; inset: auto -12% -35% auto; width: 420px; height: 420px;
+      border: 1px solid rgba(255,255,255,0.22); border-radius: 50%;
+      background: radial-gradient(circle, rgba(199,160,87,0.18), transparent 62%);
+    }
+
+    .eyebrow { display: inline-flex; align-items: center; gap: 10px; margin: 0 0 18px; color: #f0dca6; font-size: 0.82rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; }
+    .eyebrow::before { content: ""; width: 34px; height: 2px; background: var(--red); }
+    h1 { max-width: 780px; margin: 0; font-size: clamp(2.1rem, 5vw, 4.4rem); line-height: 1.12; letter-spacing: -0.04em; }
+    .lead { max-width: 680px; margin: 20px 0 0; color: rgba(255,255,255,0.84); font-size: 1.05rem; }
+
+    .stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; margin: -36px clamp(18px, 5vw, 54px) 36px; position: relative; z-index: 2; }
+    .stat { padding: 22px; border: 1px solid rgba(228, 222, 208, 0.86); border-radius: 18px; background: rgba(255, 255, 255, 0.92); box-shadow: 0 12px 34px rgba(20, 35, 59, 0.09); backdrop-filter: blur(10px); }
+    .stat span { display: block; color: var(--muted); font-size: 0.78rem; font-weight: 700; letter-spacing: 0.08em; }
+    .stat strong { display: block; margin-top: 6px; color: var(--navy); font-size: clamp(1.25rem, 2.5vw, 1.85rem); line-height: 1.2; }
+
+    .section-head { display: flex; align-items: end; justify-content: space-between; gap: 24px; margin: 24px 0 18px; border-bottom: 1px solid var(--line); padding-bottom: 18px; }
+    h2 { margin: 0; color: var(--navy); font-size: clamp(1.35rem, 3vw, 2rem); letter-spacing: -0.03em; }
+    .note { margin: 0; color: var(--muted); font-size: 0.92rem; }
+    .news-list { display: grid; gap: 14px; margin: 0; padding: 0; list-style: none; }
+    .news-card { display: grid; grid-template-columns: 132px 1fr; gap: 20px; padding: 22px; border: 1px solid rgba(228, 222, 208, 0.9); border-left: 5px solid var(--gold); border-radius: 18px; background: var(--card); box-shadow: 0 10px 28px rgba(20, 35, 59, 0.06); transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease; }
+    .news-card:hover { transform: translateY(-2px); border-left-color: var(--red); box-shadow: 0 18px 42px rgba(20, 35, 59, 0.11); }
+    .meta { color: var(--muted); font-size: 0.88rem; font-weight: 700; }
+    .date { display: block; color: var(--red); font-size: 1rem; }
+    .source { display: block; margin-top: 6px; }
+    .news-card a { color: var(--ink); font-size: 1.05rem; font-weight: 700; text-decoration: none; }
+    .news-card a:hover { color: var(--blue); }
+    .empty { padding: 42px; border: 1px dashed var(--line); border-radius: 18px; background: rgba(255,255,255,0.72); color: var(--muted); text-align: center; }
+
+    @media (max-width: 760px) {
+      .page { width: min(100% - 20px, 1120px); padding-top: 20px; }
+      .hero { border-radius: 20px; }
+      .stats { grid-template-columns: 1fr; margin: 14px 0 28px; }
+      .section-head { display: block; }
+      .note { margin-top: 8px; }
+      .news-card { grid-template-columns: 1fr; gap: 10px; padding: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <main class=\"page\">
+    <section class=\"hero\">
+      <p class=\"eyebrow\">Policy Intelligence Monitor</p>
+      <h1>防衛ニュース<br>モニタリング</h1>
+      <p class=\"lead\">政策・防衛産業・安全保障領域の主要報道を、落ち着いたコーポレートトーンで一覧化します。</p>
+    </section>
+""")
+    print("    <section class=\"stats\" aria-label=\"更新情報\">")
+    print(f"      <div class=\"stat\"><span>UPDATED</span><strong>{escape_html_text(updated_at)}</strong></div>")
+    print(f"      <div class=\"stat\"><span>ARTICLES</span><strong>{article_count}件</strong></div>")
+    print(f"      <div class=\"stat\"><span>LATEST</span><strong>{escape_html_text(latest_date)}</strong></div>")
+    print("    </section>")
+    print("    <section>")
+    print("      <div class=\"section-head\">")
+    print("        <h2>Latest Coverage</h2>")
+    print("        <p class=\"note\">Google News RSSから取得・フィルタリングした記事です。</p>")
+    print("      </div>")
+
+    if not news:
+        print("      <div class=\"empty\">該当記事なし</div>")
+    else:
+        print("      <ol class=\"news-list\">")
+        for n in news:
+            title = escape_html_text(n["title"])
+            source = escape_html_text(n["source"])
+            url = escape_html_text(n["url"])
+            date = escape_html_text(n["date"])
+            print("        <li class=\"news-card\">")
+            print("          <div class=\"meta\">")
+            print(f"            <span class=\"date\">{date}</span>")
+            print(f"            <span class=\"source\">{source}</span>")
+            print("          </div>")
+            print(f"          <a href=\"{url}\" target=\"_blank\" rel=\"noopener noreferrer\">{title}</a>")
+            print("        </li>")
+        print("      </ol>")
+
+    print("""    </section>
+  </main>
+</body>
+</html>""")
+
 def main():
     news = []
     seen = set()
@@ -227,22 +361,8 @@ def main():
     # 新しい記事を上にしたい場合は reverse=True
     news.sort(key=lambda x: x["dt"], reverse=True)
 
-    print("# 防衛ニュースモニタリング")
-    print()
-    print(f"更新日時: {datetime.now(JST).strftime('%Y年%m月%d日 %H:%M')}")
-    print()
-
-    if not news:
-        print("該当記事なし")
-        return
-
-    print(f"取得記事数: {len(news)}件")
-    print()
-
-    for n in news:
-        title = escape_markdown_text(n["title"])
-        source = escape_markdown_text(n["source"])
-        print(f"- {n['date']}（{source}） [{title}]({n['url']})")
+    updated_at = datetime.now(JST).strftime("%Y年%m月%d日 %H:%M")
+    render_page(news, updated_at)
 
 
 if __name__ == "__main__":
