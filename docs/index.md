@@ -88,8 +88,8 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年06月17日 13:02</strong></div>
-      <div class="stat"><span>ARTICLES</span><strong>52件</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年06月17日 15:21</strong></div>
+      <div class="stat"><span>ARTICLES</span><strong>50件</strong></div>
       <div class="stat"><span>LATEST</span><strong>6月17日</strong></div>
     </section>
     <section>
@@ -101,9 +101,16 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">6月17日</span>
+            <span class="source">時事通信ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tcmE1N2t2el9jeHlDMDB6Z2xsendQelc2RFJPSFFScG9KMzd6UGJYbFA4dVlRNVkycU80X2tHWXNpNE8zd2ZBV1NpVGZITE94eUFpTg?oc=5" target="_blank" rel="noopener noreferrer">沖縄・辺野古新区域に土砂投入＝防衛省、普天間移設巡り</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">6月17日</span>
             <span class="source">毎日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fSk9lbS15YmNScHBKaTY3QXNNbDFmTG5TTWFwM1NpcDV0MTZPMTl4YWFaOHVuNnpXVnpFZV90eTNidHpWc3BNV1hCajFzNUFYdjFfM1JsalN1TGdlS1htRk5BQVMxYm0y?oc=5" target="_blank" rel="noopener noreferrer">名大祭の自衛隊ブース中止、防衛省「極めて遺憾」 SNSで抗議 [写真特集1/3]</a>
+          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wSm9pOTJ1MkoteHdodFV2YU5ad0doTUZQcVJxOVdYT3dNV1IxLUpsSk1IdVNfZGhhVzZ3UXZQWUZLRWxFR1ZaVVVNRjd4WlVXb3NIZ1VsU3RZakVzOWNlUDhZRVNOMXo0?oc=5" target="_blank" rel="noopener noreferrer">名大祭の自衛隊ブース中止、防衛省「極めて遺憾」 SNSで抗議</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -143,13 +150,6 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">6月16日</span>
-            <span class="source">朝日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zN3k5cWktUDF4SWlYSHpKU2xxeGJ3SWFnNVVQNEZUZm51VlJGZGpTbVRhSVBncjFGYVFTMnJTRjl2dTBaRENMdUVfVDh3aUhOeVZEX3ZPSjcwSUk?oc=5" target="_blank" rel="noopener noreferrer">スペースデータ、日EU初の「防衛産業対話」に参加</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">6月16日</span>
             <span class="source">毎日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiVzZScU1UMl9vUmtwMWhtR2h4MGdjMVByc0F0SXlIdWpCUlJjd01HVEYwT2E1NHJ2ZlhkM0QzQzRCYWhIaTRfcjFUb21qeDByaGNWaG5WLWNWVkUyWTJURFg2ejZ5TkdT?oc=5" target="_blank" rel="noopener noreferrer">維新「非核三原則、見直し検討を」 安保3文書提言案で</a>
@@ -174,13 +174,6 @@ layout: null
             <span class="source">産経ニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5HdURNNFkxbkNmNjhQUUxKbmFaTG5tUEZvaXdyRmZxMFlSb2tFRlphbm1RejhRZ1BOdmNSWTNTTEF0LU1mNXRqc3dnZmNoQ0FUS2VncGlRNHA3Q1o4cmhLcWZNRjlBS1BrVHhTRmZicjFqS3JGaXc?oc=5" target="_blank" rel="noopener noreferrer">米作戦目標で振り返る対イラン戦 核、ミサイル、海軍、防衛産業の4本柱に「海峡」加わる</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">6月15日</span>
-            <span class="source">ニュースイッチ by 日刊工業新聞社</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tam5RMzJFVzlzRmJVNE1Qb0JCMWdKbUVsV2M3UFU1SkNjZzlNV2ZFXy1fTC1DNnhCc0YtLUZ3RXpYQjFjUVZEV01Uek9zMGc?oc=5" target="_blank" rel="noopener noreferrer">防衛省、「迎撃ドローン」提案公募…要求性能は？</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -209,13 +202,6 @@ layout: null
             <span class="source">読売新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0dkN5MlpMTnkyYW42aG83ZjdtbDRPVGtLVHRIRmplY3ZHVHpJU0dGbUIzUW9EUXU5RmFkTmNkWnRDQWFCTE52MElsTmhMYzBzZ19wVllqZFUtaFRSMWtnY0ln?oc=5" target="_blank" rel="noopener noreferrer">イスラエル防衛装備品の輸出額、過去最高の３兆円…イランなどとの戦闘で「国際的な需要を押し上げた」</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">6月10日</span>
-            <span class="source">産経ニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5vY3AwZGQ5RVVVbTJHdHJCaEVQSVd4emozeFZwQkxTbkp0cGUxeFU1OXVjbzRiTld0dnB0dHlFMkZtdEpVUEk1MXJWSVJXVk9GNExCdU5yaUp1WHJ5aUk3VGRFVjVZTC0xZFBZbzdITW52RjRtQWc?oc=5" target="_blank" rel="noopener noreferrer">高市首相がマレーシアと首脳会談、LNG安定供給で一致 日本の武器輸出緩和を「歓迎」</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -339,6 +325,20 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">6月8日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCeU1mM0lGZG9TWW52azhFanQyeXhMYS0tUnlnWXpYem5wT3dFUDFjdW53YmthdUNiUElyTVUza3JhWmdiTnN1RU1qWVQ1ZVNsNFRxc3VVMTJwQUlGdWdDUWNyQ0VSVUk?oc=5" target="_blank" rel="noopener noreferrer">平和国家の転換に？ 改定が進む安保3文書、知っておくべきポイント</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">6月8日</span>
+            <span class="source">NHKニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XUlNoMW5sbW9Dc0tMak84Y25YV29fMHpxSUE2eHhGaHIzWmRhRlRENEh3UTI5aVJmUVNJX25MOExOb2tSZTZ4aGpqaTNxeWgxUG1HZC1ROVUwT29hQW80?oc=5" target="_blank" rel="noopener noreferrer">安保3文書の有識者会議 非核三原則の議論すべきか賛否</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">6月8日</span>
             <span class="source">日本経済新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBhaERBT3VCRWVVcUF3NVdfbVpENl9wbEM2TW93Vm9JOHZzSUtDVEJaQ0lIVUFSSFFnQVZmUHBUWXlhTjhjR2x4WmZ0TGozY2QxRUpNeS1JNDNldTRzZU5ZdThiNnBacVFDRzY4ZQ?oc=5" target="_blank" rel="noopener noreferrer">「非核三原則」見直しに賛否 安保3文書改定巡る有識者会議</a>
@@ -353,23 +353,9 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">6月8日</span>
-            <span class="source">NHKニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XUlNoMW5sbW9Dc0tMak84Y25YV29fMHpxSUE2eHhGaHIzWmRhRlRENEh3UTI5aVJmUVNJX25MOExOb2tSZTZ4aGpqaTNxeWgxUG1HZC1ROVUwT29hQW80?oc=5" target="_blank" rel="noopener noreferrer">安保3文書の有識者会議 非核三原則の議論すべきか賛否</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">6月8日</span>
             <span class="source">Reuters</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZOW15akhMeFNOcGMyVW1wRGtHSmdOVExHR1EwZTdpLXFER3FSSTZJM1NkdWNWcHZ4UGczV2tMMzlyY3EwdGc5UEo3dU9kWDg1bzBzV1ZERmd6VGhfZEN5Nzd6ZzFvbThtaEl5X05HMXZjS1F6X0JpX0FB?oc=5" target="_blank" rel="noopener noreferrer">「安保3文書」有識者会議で非核三原則を議論 見直し必要との意見も</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">6月8日</span>
-            <span class="source">朝日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCeU1mM0lGZG9TWW52azhFanQyeXhMYS0tUnlnWXpYem5wT3dFUDFjdW53YmthdUNiUElyTVUza3JhWmdiTnN1RU1qWVQ1ZVNsNFRxc3VVMTJwQUlGdWdDUWNyQ0VSVUk?oc=5" target="_blank" rel="noopener noreferrer">平和国家の転換に？ 改定が進む安保3文書、知っておくべきポイント</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -377,6 +363,13 @@ layout: null
             <span class="source">時事ドットコム</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KVGc2OVZwQmxkRkNBUlpyNjBPVmt5SWpaekt6MjJUZmdRbHBUX0hUVDI1YTZyN05reU1PUEs0N3V0WnRHaldNY3A0TXhjeE1IRnZDVlpjVGp6N0dvU1hGVWdtNWQ?oc=5" target="_blank" rel="noopener noreferrer">画像・写真：豪ＮＺ、防衛装備協力を強化：時事ドットコム</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">6月6日</span>
+            <span class="source">時事通信ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MR3VyZEdqX1NXM2w2Wllac3JSVXpKSV8zQVZyN1JwOU8tSG5YNmVDVVVaQ2t0bzJrZTNqRUtBN0NrMDhMMlpfdS1vOWNTeWhudzZFUg?oc=5" target="_blank" rel="noopener noreferrer">◎豪ＮＺ、防衛装備協力を強化</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -447,13 +440,6 @@ layout: null
             <span class="source">東洋経済オンライン</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0Tl9wYzhDbE8tVzBHakRyM1ZPOEl4b184ZE41VHlZbEhLN3ZWd09kbnJMbmVQRWZQOUNfQUlVbWVzb3V0ekJIX0g0MWY3XzJVVC0tUkNPNnNiT2M?oc=5" target="_blank" rel="noopener noreferrer">防衛費増額でも防衛省･自衛隊にはムダ金になってしまう理由､装甲車など装備調達でなぜ失敗と隠蔽を繰り返すのか</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">6月2日</span>
-            <span class="source">東洋経済オンライン</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wRkJ2bFM0X0UxWkZ1UEo0eWZNeFQ4enh2T0pCWHZyTkxZT3hfVHBnZE1mQkdwM2hhVkloMlZRcGNXLXpBYV8zank2NDl4Sm9NX1d3aFBIVzVnZUk?oc=5" target="_blank" rel="noopener noreferrer">防衛費増額でも防衛省･自衛隊にはムダ金になってしまう理由､装甲車など装備調達でなぜ失敗と隠蔽を繰り返すのか</a>
         </li>
         <li class="news-card">
           <div class="meta">
