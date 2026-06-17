@@ -218,7 +218,6 @@ def render_page(news, updated_at: str) -> None:
     print("""---
 layout: null
 ---
-<!doctype html>
 <html lang=\"ja\">
 <head>
   <meta charset=\"utf-8\">
