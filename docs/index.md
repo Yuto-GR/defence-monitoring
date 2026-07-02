@@ -88,9 +88,9 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年07月01日 14:27</strong></div>
-      <div class="stat"><span>ARTICLES</span><strong>62件</strong></div>
-      <div class="stat"><span>LATEST</span><strong>7月1日</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年07月02日 14:03</strong></div>
+      <div class="stat"><span>ARTICLES</span><strong>71件</strong></div>
+      <div class="stat"><span>LATEST</span><strong>7月2日</strong></div>
     </section>
     <section>
       <div class="section-head">
@@ -98,6 +98,48 @@ layout: null
         <p class="note">Google News RSSから取得・フィルタリングした記事です。</p>
       </div>
       <ol class="news-list">
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月2日</span>
+            <span class="source">Reuters</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFZCX19sQ3RPaksxdm0zSjczd1RLaWs0ajluVWpNUEJLRDJqbllBdG92Wkx4eXZpNy0zeE9oa2E4ODdMQl91dmtsMHg2cFNQalJMRElaeWJBUGtVdmhwV1lHcUdFZGVqeUlIajJIbk9EZkoyY0F1QWlNazB6RTF0UQ?oc=5" target="_blank" rel="noopener noreferrer">ウクライナ、戦時中の武器輸出へ枠組み発表 一部売上高を防衛基金に</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月2日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGNzVaWnFxNWQ4UFlTdl9jaHI4bkZsU25QNFhiVHl2emZqMElZNGU3Nm5iSEpidXI2ZzcyR014NkZyNFJtSkVLTFp5RURIV0NLaGtHdWhpMXJYT2xUT0pDd2xkOA?oc=5" target="_blank" rel="noopener noreferrer">防衛装備協力の推進期待 武器輸出解禁「歓迎」―印国防研究所トップ</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月2日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPNnBrWUVvUUhmUjhNVnp5UkNHOUZzZTlScmY1RFJMYlplZU8tdHBVYWJ0b0NzNndabGEyQXBfWEtJWGpwamVvNTJMQk1FV2VONGRveDZoalFrNDZLakhsdF85U0YxbkJMRFMyWENQOGRWLXFWdkVFcnJEaUpZWklVMmZR?oc=5" target="_blank" rel="noopener noreferrer">防衛装備協力の推進期待 武器輸出解禁「歓迎」―印国防研究所トップ</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月2日</span>
+            <span class="source">毎日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoSWZibVhjRFVMTEdBbGoyLVo2Rkl3RGp6Z29tVEV2WEhTVmluSnpORXlacVo5cjlHRDVOT3h3b2FORjJzSlFER21uaEhldnAwVVhySTFHQXNuNVVlR25sMFVSQkdqMHpF?oc=5" target="_blank" rel="noopener noreferrer">大学祭の自衛隊ブース中止騒動 職員組合と防衛省 双方の懸念</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月2日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vZXJHNDNuMkFOZVNaQXFsUExwbDhvVUZELWRkMXF5LTVkTlFmS1J3S09yc0Q1SGU3amlfWVEwZjUwVWRGei1CXzg5RkpWT2xyTEpPUTRjZEhDX1d0UVd5WENPSQ?oc=5" target="_blank" rel="noopener noreferrer">英、防衛力強化へ投資計画 日伊と戦闘機開発１．８兆円</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月1日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10VUY4eDJqdUluS2VyY1JWMXJSZk4tcEltb2oxTE5LVXhlQVBMb2pfNF9XckM2bGhIMEx3N0xBTUc4MlhHT2RSR0NpeVFvbGo1bEZ0YlYzTXNNQU1vcVVDQWE5XzJoekU?oc=5" target="_blank" rel="noopener noreferrer">小泉防衛相、防衛産業スタートアップと意見交換 技術活用に意欲 [高市早苗首相 自民党総裁]</a>
+        </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">7月1日</span>
@@ -125,6 +167,13 @@ layout: null
             <span class="source">産経ニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNc2lJWk0wME1zU1BoNkpuTkN2NUVlaGZRby1fWkdCaElYRmZ4UEpLazVTUWMzN2M4VkhUMFVTS092XzU4QUhXUzRyczlIUEdpTWx4TDNsQmNSLVBmUF9fM2pDR01YTFJOZmJZdFlrZ1FKSGxPRklON21XZ2dzb2ZFWk52SDZjTzZ4RE5LYkxfdFdBNjdBMDNjeFJrU2J1aTA1S3c?oc=5" target="_blank" rel="noopener noreferrer">防衛産業強化で戦い方を進化させ、日本企業が世界の中核で存在感発揮する基盤作りを（写真・画像 1/3）</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月1日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWp5WVMwbGZGVHBfSEh3aml3UWFjYWt6N1RxOUxpd0wxNjBHd1pCQ1dtVWU3LVdsMm5CeTg2eUlINWVFYUFZTGNGM3g2MV9VbkVyb1BoMmtsVEJmZFZlUzN1NHBuRGJkWG10dFN1VEFGS1A2SUlxVmJLSWp5WFVBdE53T2ZsM1N6emFQRVJOUlplNTJwYUFNYS03emJ0bnd6NWc?oc=5" target="_blank" rel="noopener noreferrer">講演を行う防衛省の滝澤豪防衛装備庁長官官房審議官＝5月30日午後、東京都千代田区（成田隼撮影）</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -234,9 +283,23 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">6月26日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxObEFjcHBuNU9kbnMxMTI1bzBHcWRhaDBCU2o4NENKUkVLRzdnZXVycTJQTGxGMHcyc0NMc1VrVzByc2REQi1YaWZ0Q1pyaFA3UTFpZE5wTktESG9fbzRzU0J6emtadk9pblJ3NnlfSHBqUTRCZEtIZzJtME1Hb1BHdGRnbzVsd1dtTDh1YWVHRUVyVEhDOGdNbjlfQk5XTnRmcHc?oc=5" target="_blank" rel="noopener noreferrer">参院本会議で改正防衛省設置法など関連法が可決、成立し起立する小泉防衛相＝6月26日午前</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">6月26日</span>
             <span class="source">時事ドットコム</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE4ydUVtcklmQ2tSTVhLdXpIbS02NjNGNjFtQi14Y3RuU3ZKb1ZWRkpWMkFrR0thbHJIWkt3VTFEMWdLNzAtUHF3MFdvanVqTEJBYlJQd2YwRWowYkdUUjdiMG1CWQ?oc=5" target="_blank" rel="noopener noreferrer">空自を「航空宇宙自衛隊」に改編 安全保障上、宇宙領域の重要性増加で―改正防衛省設置法成立</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">6月26日</span>
+            <span class="source">時事通信ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE14RDN4Y3RHbE1CcXBHSDZKUUVCMEZ4RVE4ZG42TmZqeU1yMTN6NlhZWjJkd3JYV2wteDNNaEVsSnhwLUVRMlRRUEhBRzhjV3hRZEItYQ?oc=5" target="_blank" rel="noopener noreferrer">空自「航空宇宙自衛隊」に＝改正防衛省設置法が成立</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -248,16 +311,16 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">6月25日</span>
-            <span class="source">時事ドットコム</span>
+            <span class="source">時事通信ニュース</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yZ0I0WV9YaUtaVV9ia3FTbGdfX0NQX2xEZ2tZemZqYkJKRm9zUkdmYnVPZHltQXA3SHlKQlc4MV9zYjhNaUVUb25WUEppVG5PR24xMTk5SjlncmdvaDZQQUsxQQ?oc=5" target="_blank" rel="noopener noreferrer">「ＡＩや重要鉱物で協力」 対日防衛装備協定で強み結集―カナダ国防相</a>
+          <a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE93SWZLSkc2UzlReFptVURtdDEyazV0ODZhSDVnbmRJRVBJVWVlXzk3bnhBQ2xUYUt0Y0lEQlpJZDR3WlE4RmRmMy1YWmJ2dms?oc=5" target="_blank" rel="noopener noreferrer">【動画】【ノーカット】「ＡＩや重要鉱物で協力」 対日防衛装備協定で強み結集 カナダ国防相</a>
         </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">6月25日</span>
             <span class="source">時事ドットコム</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPclltcXBjLVZDNWRQYWFsLUpKWjhabHFuZkZMRU9zck5VRFYyamFsRThxWTdreVZ1OW1lby1YWXZzMlk0V0E5ZXFmOFFWNW9XNDEyYk1LT2R2aFk1SGVvMTlCZWY0cFhxaVNxTjVDZkgtRmw3aWpsc3FRWTRUaklSRWNn?oc=5" target="_blank" rel="noopener noreferrer">「ＡＩや重要鉱物で協力」 対日防衛装備協定で強み結集―カナダ国防相</a>
+          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yZ0I0WV9YaUtaVV9ia3FTbGdfX0NQX2xEZ2tZemZqYkJKRm9zUkdmYnVPZHltQXA3SHlKQlc4MV9zYjhNaUVUb25WUEppVG5PR24xMTk5SjlncmdvaDZQQUsxQQ?oc=5" target="_blank" rel="noopener noreferrer">「ＡＩや重要鉱物で協力」 対日防衛装備協定で強み結集―カナダ国防相</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -304,6 +367,20 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">6月24日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1hTT2puMU0tWU5tUzBQUjhrNXd4Slc4bVRyQTVKVkhxY0tiSWRxZ2Y4ODRNTTZELXdsREZTY0dDMGkzejZVcnlUQXJqNU00SGVrSVZhWWhUUlBTcndmY3ZQanJnVk9zb29iVHZValVhcVptZE01TE9Bc2FFNXBOZnBLQktjOVNway1wVVFhempGZjZURjFQTmw5SFBXUWhlbFE?oc=5" target="_blank" rel="noopener noreferrer">安保3文書 自民、維新が提言提出 高市首相「これからが検討の正念場」（写真・画像 1/2）</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">6月24日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ0loYTRLTlFoUm5DT3psSWVvQ1d5MmVPRVJBMFZkM0JRQ0lWRTFQU1hIMWFXWl81SVFIdUM5dmx4blp0b1NSa0o4N09tZ2s4Wk1ySlRGNUhmeldrZjRDbGwwaE1YVjFiQTB4NUljWk5ibHNSQ3NlWXdUZGoyb2lZeTBJMHNab0Fub2VHUVlScE9WQkxEZWVSWC1WWVpSaGRxVUE?oc=5" target="_blank" rel="noopener noreferrer">安保3文書 自民、維新が提言提出 高市首相「これからが検討の正念場」（写真・画像 2/2）</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">6月24日</span>
             <span class="source">朝日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMQnZMQkR2YjFIZ0hOYmRXdWNGOVJheVFCaG9SeV8taGpDUUlIaTBjdy1BbDR2TTFQTGdQaWg4ZFdudHYxVVFLaGlQa3pHYmhRNUl6T2lENmtlVlRVMzUwY2lBb01HaE0?oc=5" target="_blank" rel="noopener noreferrer">安保3文書改定の提言、自民と維新が提出 首相「これからが正念場」</a>
@@ -341,7 +418,14 @@ layout: null
             <span class="date">6月24日</span>
             <span class="source">東洋経済オンライン</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE56X0t3VVIwclBWdTR1a3czU2YyZjZkUmF2SmE4bU1vZnp2bkhSZ1VsZG5nSzB4V09ldDVpYWJId1hwc25QUGFLMkJpeF8weWg3bWh6QVBTdDJqdW8?oc=5" target="_blank" rel="noopener noreferrer">税金を投じても日本の防衛産業は強くならない ｢防衛公社｣｢国営工廠｣構想が見落とす統廃合と改革への意識の欠如</a>
+          <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE10elVHb3dzM29XRlRlcUVzc3hoQ2xZQWxTQ2JNcEdCMFdXVzcwNk5pVHlfRzNfNlJ1bkNiZnZHQS1LQ2ZNZzVRVS1hb3Q1b2t6WWtRTmFwa3ctY1U?oc=5" target="_blank" rel="noopener noreferrer">税金を投じても日本の防衛産業は強くならない ｢防衛公社｣｢国営工廠｣構想が見落とす統廃合と改革への意識の欠如</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">6月24日</span>
+            <span class="source">東洋経済オンライン</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE80QmJQWG5lOGlUN0pITXFBR3hfVkNwRVpqX3R2M1lnNnVCb0N3YkVoaUJwd21xTkZpYXBNVWZNcVJHMHU1WWoxSjJvTElicllTOTh3eTZvdGF0T0E?oc=5" target="_blank" rel="noopener noreferrer">税金を投じても日本の防衛産業は強くならない ｢防衛公社｣｢国営工廠｣構想が見落とす統廃合と改革への意識の欠如</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -353,13 +437,6 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">6月23日</span>
-            <span class="source">毎日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBKbHgzMHJFLWRDLVFqVF9xN3JjUDZlVWVhZVBrdkJaTExlYkpTc0ZVeHRzNkx5Qk1td25fN2lyQTgwMDdRTndsNThXWm1LQ242Tl9CMk1lRFNrM1U5ZGdmeHd2cjdKNU05d3R5V0VFdzA?oc=5" target="_blank" rel="noopener noreferrer">安保3文書、維新が独自路線</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">6月23日</span>
             <span class="source">日本経済新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBULXRhdW0yeGloQ19FUnQ2SkExd19xTTJJMUk3QWpfWnl2aGZUb2s0OC01MVJtUkNzd29VNUtmNHFKdVQ1clA4RFRraDRGZm9hZzh2dy1OYnZvanFYaTZkQVRjSkt0UHhXUWVPYg?oc=5" target="_blank" rel="noopener noreferrer">小泉防衛相、装備輸出・日米同盟を語る インタビュー全編を動画で</a>
@@ -367,37 +444,37 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">6月23日</span>
+            <span class="source">毎日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBKbHgzMHJFLWRDLVFqVF9xN3JjUDZlVWVhZVBrdkJaTExlYkpTc0ZVeHRzNkx5Qk1td25fN2lyQTgwMDdRTndsNThXWm1LQ242Tl9CMk1lRFNrM1U5ZGdmeHd2cjdKNU05d3R5V0VFdzA?oc=5" target="_blank" rel="noopener noreferrer">安保3文書、維新が独自路線</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">6月22日</span>
             <span class="source">Reuters</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOREpIRWhjMGpFS1c3ZEZneVV6ZlFVQnVNUVJzQVFrZjI5QTBKb2h6M0d2TGt3cDBoTmFOOU9vMHhsWXFydzdVdzN6bENMbmRMUklsNk03VFRCZkhMQl9ONGlpSklrUU9RckZNbTkyeUJqLW1Mbk9HWV9jYTdZY3h3Yg?oc=5" target="_blank" rel="noopener noreferrer">印、ＵＡＥと防衛装備売却協議 超音速ミサイルなど＝関係筋</a>
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">6月22日</span>
+            <span class="date">6月21日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOSGRYT3hxUUhhVDdhaEJ1NEVLazJ3d3ljZWRpbVh2djhMa1JZUER6NkFYNXdudEk1STJvandKd0xvbU9DUVRZdVFrOGFYby1jOFRFVzYycDVLSUNRZnlJbG1ISVF0ZERaUlRWcnBXSGJEdXQ0SXR3NmNBVVYzdnhGYWJMbmYzYVFVczktR1hGNTNnYl8wWFo1SXVRenJVLU1sQkE?oc=5" target="_blank" rel="noopener noreferrer">独自＞安保3文書に「新しい守り方」明記へ 無人機やAI導入…軍事色抑えた表現に（写真・画像 1/2）</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">6月19日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnl1aGtSODk1NXRwN3dvajRlZVFEZnFsOU1pdUk1cnBFYlN6aGtWWS02ejZqNWxvT1JOSU1QQkltcGVrcUl3Y1BfSXhiQjhxT2pZcG9VR2tINzJKMk40WjhsVFRPcXYwX2kwNTRnSDY0UFoxQW9SQmdXWUkwS0ZWZkZwSkY5SXI0WnAxT3NB?oc=5" target="_blank" rel="noopener noreferrer">防衛力強化へ「特定利用」 新潟空港と新潟港、柏崎港が候補に [新潟県]</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">6月19日</span>
             <span class="source">NHKニュース</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vbHhkUzZLVV9rV25jaER0TDQtSlRGY3h5aUYyN1M4cUw3U0RYeU1EWm5mem9oOThfOFhsLUdrYnU5UkpxU1BwbkpWdEtXNmhXcnFmMmUtYkFxYTNfOE1Z?oc=5" target="_blank" rel="noopener noreferrer">中国海軍の空母 東シナ海に向けて航行 防衛省確認</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">6月19日</span>
-            <span class="source">朝日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NVnphSFBQSVZBdlJ0Z0R2azJpVjVCYzlzeGFPLWxKN2JBZDhpS2dmUTJHQ3BoSmZmcGpzVnlfTjVONERTWngxdm8wYVJxUDlCbWlPM2oycUZtVnM?oc=5" target="_blank" rel="noopener noreferrer">AIデータ社、防衛産業向けAI基盤「AI Defense on IDX」において、組織をAI Native Enterpriseへと進化させる「3層構造 AI Data Platform」を発表</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">6月19日</span>
-            <span class="source">朝日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMibkFVX3lxTFBPVldiWkVNamZORzhhZkZpRTlXM1V1enJvZE5Ea2R5OWNOY1FjUnJDVXdDSjR0MjZUbzZRbVB3a3Y1SEg5YlBtdXVIQTQzcDZwMUJEQ3FhT3hnMDdIaklYakF6dXdXckQwNUlFT0pR?oc=5" target="_blank" rel="noopener noreferrer">防衛力強化へ「特定利用」 新潟空港と新潟港、柏崎港が候補に [新潟県]</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">6月19日</span>
-            <span class="source">日本経済新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE52bnlNdy1ucmJUR0VzMjBTbWdRMlVzRHZSeGl6UFBPTTY5Z2FyVGtudTh1SGNNbmNZX0U4Z0JHbURSbWZpQkw3NVU5QU4xT2lRR3E1cmN6SlFwUFJhZ1J3ZjJhVk9aSDIxUTFsUQ?oc=5" target="_blank" rel="noopener noreferrer">自民党・日本維新の会、安保3文書提言確認 来週にも首相に手交へ</a>
+          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sTDFwX2dxa09DZTRKbkt2dV80YTZ6ZXpkYzVMQXItdFhJQkRRc2NKc0d5V19tSlJCZWpJbloycUFsVDRvdXllZ0VZbUlFZ1ZWeTdkV0FjbV9FVGRfcnAw?oc=5" target="_blank" rel="noopener noreferrer">自民 維新 安保3文書提言 来週にもそれぞれ政府に提出へ</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -409,16 +486,9 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">6月19日</span>
-            <span class="source">NHKニュース</span>
+            <span class="source">日本経済新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sTDFwX2dxa09DZTRKbkt2dV80YTZ6ZXpkYzVMQXItdFhJQkRRc2NKc0d5V19tSlJCZWpJbloycUFsVDRvdXllZ0VZbUlFZ1ZWeTdkV0FjbV9FVGRfcnAw?oc=5" target="_blank" rel="noopener noreferrer">自民 維新 安保3文書提言 来週にもそれぞれ政府に提出へ</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">6月18日</span>
-            <span class="source">朝日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04UnU0emdzUng0TWhlMkxfeEpTYllYNHMzNW5XQ25jYUNSN1V5c2NEUVUxeDk4dkNSUnczQ1V3ZnBNU29kSWk5aEtOajNoZHJET1ZzcnF6ZTMyakFYOTdZYV9TZUpFWTQ?oc=5" target="_blank" rel="noopener noreferrer">名大学園祭の自衛隊ブース、職員組合から抗議で中止 防衛省「遺憾」 [愛知県]</a>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE52bnlNdy1ucmJUR0VzMjBTbWdRMlVzRHZSeGl6UFBPTTY5Z2FyVGtudTh1SGNNbmNZX0U4Z0JHbURSbWZpQkw3NVU5QU4xT2lRR3E1cmN6SlFwUFJhZ1J3ZjJhVk9aSDIxUTFsUQ?oc=5" target="_blank" rel="noopener noreferrer">自民党・日本維新の会、安保3文書提言確認 来週にも首相に手交へ</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -439,14 +509,14 @@ layout: null
             <span class="date">6月18日</span>
             <span class="source">日本経済新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBkMldvMTJQTkt5Vzh1SE1TQWoxOU1qYUFnMDFjVVllMVBrbmlmbWdMWVZsVldlQXU4a1pfeDhxMUw5U3RrOXFKMUVNdmU1d3JwX1ZpNGhKQnFUdzhIeXIzUnhueExvQm5adlRhYw?oc=5" target="_blank" rel="noopener noreferrer">小泉防衛相、防衛装備「欧州の国」が要望 もがみ型11隻に意義 平時の最適化に警鐘</a>
+          <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXViTDljLXhtRGp3c1F5NWV1eV9rVWhMTF9Kc3dndkhlV1FxRTdiVXEzVW9ZLTV2OWlJT0pNX1NKSGlxdkRCTVEtMnFSMnJpNk43Wm1YUVdpMmJvWE1Pc29XNzh1d0tHNGluN0pPUHo1cThxZjFXcVNvOFBGdGFUNjZtZ0JtRUxIX0JSZ3RQY1V6aFRUMTh0UFlZLW00UTFVazFXaDU3TFI?oc=5" target="_blank" rel="noopener noreferrer">小泉防衛相、防衛装備「欧州の国」が要望 もがみ型11隻に意義 平時の最適化に警鐘</a>
         </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">6月18日</span>
             <span class="source">日本経済新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXViTDljLXhtRGp3c1F5NWV1eV9rVWhMTF9Kc3dndkhlV1FxRTdiVXEzVW9ZLTV2OWlJT0pNX1NKSGlxdkRCTVEtMnFSMnJpNk43Wm1YUVdpMmJvWE1Pc29XNzh1d0tHNGluN0pPUHo1cThxZjFXcVNvOFBGdGFUNjZtZ0JtRUxIX0JSZ3RQY1V6aFRUMTh0UFlZLW00UTFVazFXaDU3TFI?oc=5" target="_blank" rel="noopener noreferrer">小泉防衛相、防衛装備「欧州の国」が要望 もがみ型11隻に意義 平時の最適化に警鐘</a>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBkMldvMTJQTkt5Vzh1SE1TQWoxOU1qYUFnMDFjVVllMVBrbmlmbWdMWVZsVldlQXU4a1pfeDhxMUw5U3RrOXFKMUVNdmU1d3JwX1ZpNGhKQnFUdzhIeXIzUnhueExvQm5adlRhYw?oc=5" target="_blank" rel="noopener noreferrer">小泉防衛相、防衛装備「欧州の国」が要望 もがみ型11隻に意義 平時の最適化に警鐘</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -500,9 +570,9 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">6月17日</span>
-            <span class="source">朝日新聞</span>
+            <span class="source">毎日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WWWhUODg5dHZNZ2JZbEFNRklVZFByN01PWlprU3JoUGp3T2lkNTh6N1Z0bmpQT1l0T3ZMN2tXWklwTFV1V0V2bzg0cUJDWXlZb3B0VFA3NlEwZ2tvYTlxY2UtUGhhWjA?oc=5" target="_blank" rel="noopener noreferrer">維新の安保3文書提言、非核三原則や原潜で独自色 実現性には疑問も</a>
+          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QdHA3M2dMbnk0a3NLWFpvMFdGRld2d1Vsc3dsd3BpYTJ4eFdsUjJQQmdpc2ptczZJRUQyTkVWY2ZDWEtqNTd2SFRhY2ZYV3cteUNGeXJ2Q1YzMHNlWlY4X0RSTTlKcnRP?oc=5" target="_blank" rel="noopener noreferrer">「独りよがり」「勇み足」安保3文書の維新案、自民から冷めた声</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -516,21 +586,14 @@ layout: null
             <span class="date">6月17日</span>
             <span class="source">朝日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xcjN6VGNlNTFrWklsTUJpbzhUVm5pbDg3ajRXOUY4Q1Rad0VFTkZpLWtZVlNQbW1nb3RwMTBUdk4yWjRtRzRQSUE2Q0tScWJsMmxVME1SWkdKV2FRV0p0WjZVNlhZTTg?oc=5" target="_blank" rel="noopener noreferrer">非核三原則のあり方「現実的検討」 維新、安保3文書提言を大筋了承</a>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WWWhUODg5dHZNZ2JZbEFNRklVZFByN01PWlprU3JoUGp3T2lkNTh6N1Z0bmpQT1l0T3ZMN2tXWklwTFV1V0V2bzg0cUJDWXlZb3B0VFA3NlEwZ2tvYTlxY2UtUGhhWjA?oc=5" target="_blank" rel="noopener noreferrer">維新の安保3文書提言、非核三原則や原潜で独自色 実現性には疑問も</a>
         </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">6月17日</span>
-            <span class="source">毎日新聞</span>
+            <span class="source">朝日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QdHA3M2dMbnk0a3NLWFpvMFdGRld2d1Vsc3dsd3BpYTJ4eFdsUjJQQmdpc2ptczZJRUQyTkVWY2ZDWEtqNTd2SFRhY2ZYV3cteUNGeXJ2Q1YzMHNlWlY4X0RSTTlKcnRP?oc=5" target="_blank" rel="noopener noreferrer">「独りよがり」「勇み足」安保3文書の維新案、自民から冷めた声</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">6月16日</span>
-            <span class="source">産経ニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5FMmhCRnMyX1RpLTJSdXlhR1hiVjFZMjhLelkzdGJIR09RRV95bmdfNWVDeUJYMzgtWVprUE9EeFJ4RTNnTUVRU09JSlRVTFMta3dzckdaV1pOUFQyeVluMF9wQnl4Q3I3VGNVNTV3QjBIZ1FveGc?oc=5" target="_blank" rel="noopener noreferrer">維新「安保3文書改定」提言 概要判明 核「持ち込ませず」現実的検討を</a>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xcjN6VGNlNTFrWklsTUJpbzhUVm5pbDg3ajRXOUY4Q1Rad0VFTkZpLWtZVlNQbW1nb3RwMTBUdk4yWjRtRzRQSUE2Q0tScWJsMmxVME1SWkdKV2FRV0p0WjZVNlhZTTg?oc=5" target="_blank" rel="noopener noreferrer">非核三原則のあり方「現実的検討」 維新、安保3文書提言を大筋了承</a>
         </li>
       </ol>
     </section>
