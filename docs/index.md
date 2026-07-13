@@ -88,8 +88,8 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年07月12日 13:29</strong></div>
-      <div class="stat"><span>ARTICLES</span><strong>53件</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年07月13日 13:34</strong></div>
+      <div class="stat"><span>ARTICLES</span><strong>54件</strong></div>
       <div class="stat"><span>LATEST</span><strong>7月12日</strong></div>
     </section>
     <section>
@@ -185,13 +185,6 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">7月8日</span>
-            <span class="source">ニュースイッチ by 日刊工業新聞社</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDNDNmV1FIUTQzNW5oQ0tNSzcybW1jVkR1ZXdKVW50d1hyZ3JxdGM0VmNLWlNycmFUMWo0ZjQxRnZZUQ?oc=5" target="_blank" rel="noopener noreferrer">三菱重工が引き渡し、防衛省向け護衛艦「ながら」の仕様</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">7月8日</span>
             <span class="source">朝日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFTDZ1QmtzcHZJb1FXb2pMRkJ1X1RVdGhwaXBpbmdYZTJkS1p1aXp5WTBRbnVjWm1weFpNcDVBUnJ3elFtaFYxbjNMRlY2RnUyY0d3SFl5SVdaMGty?oc=5" target="_blank" rel="noopener noreferrer">欧州防衛、負担増応じる構え 米から圧力 防衛産業と大型契約発表 ＮＡＴＯサミット</a>
@@ -271,7 +264,7 @@ layout: null
             <span class="date">7月6日</span>
             <span class="source">時事ドットコム</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfWUFoOGUzNXU0X3ZydWZYZFRad2F5cmdWWGRZcml6aWMyU2Z1Y1NQWTRoNDRiNXZHalFfX0dTVWpOQloyNlRySEQyeUlxUE9aZkFkbllna3JFRjd1dUhVSExUOA?oc=5" target="_blank" rel="noopener noreferrer">防衛省「ＬＵＵＰ」を導入 市ケ谷庁舎に、ＳＮＳで懸念</a>
+          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfWUFoOGUzNXU0X3ZydWZYZFRad2F5cmdWWGRZcml6aWMyU2Z1Y1NQWTRoNDRiNXZHalFfX0dTVWpOQloyNlRySEQyeUlxUE9aZkFkbllna3JFRjd1dUhVSExUOA?oc=5" target="_blank" rel="noopener noreferrer">防衛省「ＬＵＵＰ」を導入 市ケ谷庁舎に、ＳＮＳで懸念：時事ドットコム</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -311,6 +304,13 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">7月4日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUlEcEp5c0dzdUpTSmFsZTlWdGdHQ3RjcndfQWVTRmdtX0J5VEtQdlNwVDNpWkd5Q2REek1GLUtMNEJwZmRvWVRlQTdUZWhxSE5IdVgzZTFzMHRmSXJVQTVrQXlfT0djV0Z6YkwtR01td0xzVms5QWIzcXkyU1VKSmFpVjczeUtQdjI4SjhsTjdpS2tWZXZjZllKNkNnVWxCaGJGZnNUbHk?oc=5" target="_blank" rel="noopener noreferrer">防衛装備の工場「国有民営」 政府、法改正へ調整 有事の緊急増産に備え</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月4日</span>
             <span class="source">中日新聞Web</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHQjJLdVJsY21KeWFYbmZzMVNuLTlyOFN0T0o5VWpmbFlmLXVjT1J1bkx0emtYN2FrQWFSRjZKeGI1MDBkQll1ZEhNNGlEeTJqMW01Tg?oc=5" target="_blank" rel="noopener noreferrer">空襲の地で感じた防衛産業展の“熱気” メ～テレのドキュメンタリーが放送文化基金賞受賞</a>
@@ -327,7 +327,7 @@ layout: null
             <span class="date">7月4日</span>
             <span class="source">日本経済新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1LbUFWOXc2M01lZ25WcGxsaVYzbE1xWXNGWGIwWG1qYjAyOFpjZXJVVGhPSGRjblVSUEliMzNrbV9OU3VfUFNIeDI2SGhYRHl2cjJBQ3lrelhQN1hDX2kySkVGdWZRMWZDRU83eg?oc=5" target="_blank" rel="noopener noreferrer">防衛装備の工場「国有民営」 政府、法改正へ調整 有事の緊急増産に備え</a>
+          <a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVk3blF1ZXJqYmdIbWY4V1JjT1JHUU56cUtYd1NiOEVlT3Ria2xieXcyTk1jQm40WTM1bjNSZUF4NXNpbWhyLTlYbjdRUldYSVN2LWkwbU9sZlFVdE1BNDM5Q3AySGk1Vm4tZ1hXUVhPS0dNWjJxMGlDeGdHcVdTRGFEV0wxQ0FnTmdCbUZhTEdQUW9STWhzOQ?oc=5" target="_blank" rel="noopener noreferrer">防衛装備の工場「国有民営」 政府、法改正へ調整 有事の緊急増産に備え</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -339,20 +339,6 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">7月3日</span>
-            <span class="source">朝日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DbTk0dTBDU0t3eU44eUVyWktqb1hreHdIdEZ1S2dta2YxOThUMFY3dGUtejhGOUNER1dmRlc0UUwyTk8tY1VYQ0pCNzVWZnQwZ2pLODZ4a0YxdmxpWTRMbVhhdFh0clU?oc=5" target="_blank" rel="noopener noreferrer">防衛省にLuupの電動キックボード 小泉氏「情報保全上問題ない」 [高市早苗首相 自民党総裁]</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">7月3日</span>
-            <span class="source">毎日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzcXBYSGFqQ1ctbGNqeDl0d2o4MGtNck1PM3NoOEFMalhsRWI3SnlRa3g5cUtjTk45UG9PX1d4LUd4SzMyUFhUa1VIWlNyUFpIMUJnQ1M3RjM1UHdJSVpxT1ZFc0hGTm1E?oc=5" target="_blank" rel="noopener noreferrer">「当事者」台湾の視点を忘れるな 防衛力強化論の前にすべきこと</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">7月3日</span>
             <span class="source">産経ニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE1XQ1hMU0FJNUpNc09yMTZqalZDNllTMGtKU2NKeGFKVXA4NkxrbHhiOFdna2lxTjJHQTJDbERLVXRiUlI3N3hpY2prdXFmVFNGMlhjekU3cHIwWXc4eG4wVi1mRHp3VXpLV29veENwVDhmcXhsWmc?oc=5" target="_blank" rel="noopener noreferrer">防衛省、広い敷地移動にLuup導入 位置情報流出の懸念に小泉防衛相「保全上問題ない」</a>
@@ -360,9 +346,23 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">7月3日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DbTk0dTBDU0t3eU44eUVyWktqb1hreHdIdEZ1S2dta2YxOThUMFY3dGUtejhGOUNER1dmRlc0UUwyTk8tY1VYQ0pCNzVWZnQwZ2pLODZ4a0YxdmxpWTRMbVhhdFh0clU?oc=5" target="_blank" rel="noopener noreferrer">防衛省にLuupの電動キックボード 小泉氏「情報保全上問題ない」 [高市早苗首相 自民党総裁]</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月3日</span>
             <span class="source">日本経済新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0ppSEYwWWthT0I5Y3JKV3cxamx6TlpPVTUzbEtUTWRLcm5KTUl1LTlfVjE4TGd3RTlyaVBPa1FrYVlXNXdnOFpVT2FQdDd1OFdmUm5jVlIwdjlka3dvdzN5akc4RDBBcnJsOE5RR2prZmlyeDVPYnkxNVh4MDl1a2t1UHFhOVNvMjhtdm9KSkFISTZaQ1ROTzBzaENYYk5XUTRyN2J6OWs?oc=5" target="_blank" rel="noopener noreferrer">防衛装備の生産能力維持へ｢公設民営｣ 法改正調整、輸出促進に新法人</a>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBOaGktTERBUmpoQzI4cTdsQllIYnhyczNHZTVCN0Y1N082QVVJaXo4dW5Memo5ZkxOTGU0LVo2NnB5UXg2dEtwcllYWGI0MUZJQ0JObXF6SmZSbWdmajNpaWVCMzZUS1h4V0dzbg?oc=5" target="_blank" rel="noopener noreferrer">防衛装備の生産能力維持へ｢公設民営｣ 法改正調整、輸出促進に新法人</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月3日</span>
+            <span class="source">毎日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzcXBYSGFqQ1ctbGNqeDl0d2o4MGtNck1PM3NoOEFMalhsRWI3SnlRa3g5cUtjTk45UG9PX1d4LUd4SzMyUFhUa1VIWlNyUFpIMUJnQ1M3RjM1UHdJSVpxT1ZFc0hGTm1E?oc=5" target="_blank" rel="noopener noreferrer">「当事者」台湾の視点を忘れるな 防衛力強化論の前にすべきこと</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -425,7 +425,14 @@ layout: null
             <span class="date">7月1日</span>
             <span class="source">産経ニュース</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOSlE2VUgzMEticTd4RjFkRGk4eUE3d2RmQkpycGZ4WlBuaVR3SmFlekpPSmJSaDgwT0R5RXZCd00wUGZVMG80Y2N1RThCUDVLSDBDcFFSX0RsQTFONzZHUDktVUtvZ0lPSzdaeFVGNENhb3VidHA0SmJfazliNEJrcWNDN20ydXlBVmRucU90cTZIUlhXZzQ0TWlFZzRNM2MyZUE?oc=5" target="_blank" rel="noopener noreferrer">元防衛装備庁長官の土本英樹氏＝5月30日午後、東京都千代田区（成田隼撮影）</a>
+          <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNTkxXWHdrbVpBWExlTWtPN0VxUGFoOHUwQVVrMDhqaFNMZVV3MTFXU2w4UjQ3aVB4OVA4QjhxV1BuTG9lV1M4UHBOZWFRX296VGhIWXpoM1IwbXJhbUMyOC03bkNqdkZ5TjB2S2JWaS1yTnBzTU5GS2ZVX192WDVJR3JBcWk1cC1wN3BWa2dkSFRrVGxYRDB5UmVvUU9ZcEtUamc?oc=5" target="_blank" rel="noopener noreferrer">防衛装備移転は国際社会の安定に貢献 民間の技術は国境超える必要不可欠な社会インフラ（写真・画像 5/11）</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月1日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWp5WVMwbGZGVHBfSEh3aml3UWFjYWt6N1RxOUxpd0wxNjBHd1pCQ1dtVWU3LVdsMm5CeTg2eUlINWVFYUFZTGNGM3g2MV9VbkVyb1BoMmtsVEJmZFZlUzN1NHBuRGJkWG10dFN1VEFGS1A2SUlxVmJLSWp5WFVBdE53T2ZsM1N6emFQRVJOUlplNTJwYUFNYS03emJ0bnd6NWc?oc=5" target="_blank" rel="noopener noreferrer">講演を行う防衛省の滝澤豪防衛装備庁長官官房審議官＝5月30日午後、東京都千代田区（成田隼撮影）</a>
         </li>
         <li class="news-card">
           <div class="meta">
