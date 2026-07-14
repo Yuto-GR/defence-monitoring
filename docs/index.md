@@ -88,9 +88,9 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年07月13日 13:34</strong></div>
-      <div class="stat"><span>ARTICLES</span><strong>54件</strong></div>
-      <div class="stat"><span>LATEST</span><strong>7月12日</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年07月14日 13:08</strong></div>
+      <div class="stat"><span>ARTICLES</span><strong>58件</strong></div>
+      <div class="stat"><span>LATEST</span><strong>7月14日</strong></div>
     </section>
     <section>
       <div class="section-head">
@@ -98,6 +98,41 @@ layout: null
         <p class="note">Google News RSSから取得・フィルタリングした記事です。</p>
       </div>
       <ol class="news-list">
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月14日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyV1VzYkJhWUhkR2taZ2lQd1lmREFCM2FJVllWWmhFMTNaYzhaVjBUWmFpcERRYndpR2xfbk5jU3VxY3RtNVJiRDFSMFpJWkxNOXRPQ1hmaE9MR3JYLXlsNlVzbw?oc=5" target="_blank" rel="noopener noreferrer">防衛産業で対日協力 「共同生産」にも言及―アゼルバイジャン大統領：時事ドットコム</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月14日</span>
+            <span class="source">時事通信ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEMlFqRTFEZUtiR2V1QzlRektRMDJPWkZnLW8zdFZJMGRnVWtxZmhFTXNXa2ZIcHlfdWdFbU9xNm1LUTVFWmNSNmFUSHJXcVpCQ3dRRg?oc=5" target="_blank" rel="noopener noreferrer">◎防衛産業で対日協力</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月13日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibkFVX3lxTFB3blhuZ0ZfOXN1Qk9Tc0VHcjdEWGMzT2Q4bUxPLXZVbnhJdTJidU55d1BVS056MDFuQV9FZXU3SDZwc1c0ZUpUOUdJd2tvSXVuQ2s1bU9ncFFqYUM1dFRIQ3RZUXJjNUZwZ20xRXlR?oc=5" target="_blank" rel="noopener noreferrer">日米安保条約調印 米ワシントンのホワイトハウスで…：安保闘争の時代 写真特集：時事ドットコム</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月13日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tdFR6VWM3SEZfdzJCcWhaXzdxM1NRQU9hWnNQSTMtWnpKdVZqRDlFdk90SEFxdmpPejhmRWtBWDMwSVpkcnRSamo5ZzE1dWVpVjdCTlRaOVI1WW9haHQ1cFRBRGp4WE0?oc=5" target="_blank" rel="noopener noreferrer">小泉防衛相、来日のベトナム国防相と会談 防衛装備などの連携を協議</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月13日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE9VMjNiNFRTNDNoRHV4UklnVXcyVEdlN2U0M3lfWE82YlJ0NGxBZ2VzXzdPSEFnMm1FaFRDazNpQzZUV1EyTUwtRGdCN25Ca2ljWkRSblF2TFo4a1VEeU85MGZ3MEc5ZGg3OGhlM0xn?oc=5" target="_blank" rel="noopener noreferrer">７０年安保 首相官邸で日米安保条約の自動延長に関…：安保闘争の時代 写真特集：時事ドットコム</a>
+        </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">7月12日</span>
@@ -118,6 +153,20 @@ layout: null
             <span class="source">東洋経済オンライン</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqUE5uS05oTVNiTms0QXJVSXRYT1JBdGdMb2dHYW9pYWZERjhyMWJ4ZXp0UDJHVkNmYjNyenV3R3ZDa21JaDlseVpSTVYyR2xJck1RVm1HdHVTckE?oc=5" target="_blank" rel="noopener noreferrer">中国が日本を｢新型軍国主義｣と呼び始めた真意は？ 日本の防衛力強化を阻止しようとしている中国の｢認知戦｣</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月11日</span>
+            <span class="source">東洋経済オンライン</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE82djhjQzV3UnVlb1ZZZnp5LVVsVy1GaFBJWHJHanJhb2dIa1ZkUHBfcEZTWXp6Rzh4THNaNkhFd2ZqUXd6TDRQLUdWTy1zaks5WHc?oc=5" target="_blank" rel="noopener noreferrer">中国が日本を｢新型軍国主義｣と呼び始めた真意は？ 日本の防衛力強化を阻止しようとしている中国の｢認知戦｣</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月11日</span>
+            <span class="source">東洋経済オンライン</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TYml3XzZXWUZzSTIxZTI0NnZDQkFjMkNkY0FqcURfelg5RzhKTXRjLXd4VjdfUXU4MzExX21nV3dVVUkzV3JURnBDVzhzd1dZMDV3UklSMA?oc=5" target="_blank" rel="noopener noreferrer">画像 | 中国が日本を｢新型軍国主義｣と呼び始めた真意は？ 日本の防衛力強化を阻止しようとしている中国の｢認知戦｣</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -304,9 +353,9 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">7月4日</span>
-            <span class="source">日本経済新聞</span>
+            <span class="source">朝日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUlEcEp5c0dzdUpTSmFsZTlWdGdHQ3RjcndfQWVTRmdtX0J5VEtQdlNwVDNpWkd5Q2REek1GLUtMNEJwZmRvWVRlQTdUZWhxSE5IdVgzZTFzMHRmSXJVQTVrQXlfT0djV0Z6YkwtR01td0xzVms5QWIzcXkyU1VKSmFpVjczeUtQdjI4SjhsTjdpS2tWZXZjZllKNkNnVWxCaGJGZnNUbHk?oc=5" target="_blank" rel="noopener noreferrer">防衛装備の工場「国有民営」 政府、法改正へ調整 有事の緊急増産に備え</a>
+          <a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoMjJNaEhTRHQzZ2czTWRIdXMzNU43TzdjemJJMU5ZWHRyeXVLZk5OQWtwQUFBZkppczJFWDVkTDR5WFJvOUhaVmlXdm1DekNHUzdwSjY3b2VKdWgt?oc=5" target="_blank" rel="noopener noreferrer">防衛省、職員移動にＬｕｕｐ 東京ドーム５個分、市ケ谷庁舎で</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -318,23 +367,9 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">7月4日</span>
-            <span class="source">朝日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoMjJNaEhTRHQzZ2czTWRIdXMzNU43TzdjemJJMU5ZWHRyeXVLZk5OQWtwQUFBZkppczJFWDVkTDR5WFJvOUhaVmlXdm1DekNHUzdwSjY3b2VKdWgt?oc=5" target="_blank" rel="noopener noreferrer">防衛省、職員移動にＬｕｕｐ 東京ドーム５個分、市ケ谷庁舎で</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">7月4日</span>
             <span class="source">日本経済新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVk3blF1ZXJqYmdIbWY4V1JjT1JHUU56cUtYd1NiOEVlT3Ria2xieXcyTk1jQm40WTM1bjNSZUF4NXNpbWhyLTlYbjdRUldYSVN2LWkwbU9sZlFVdE1BNDM5Q3AySGk1Vm4tZ1hXUVhPS0dNWjJxMGlDeGdHcVdTRGFEV0wxQ0FnTmdCbUZhTEdQUW9STWhzOQ?oc=5" target="_blank" rel="noopener noreferrer">防衛装備の工場「国有民営」 政府、法改正へ調整 有事の緊急増産に備え</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">7月3日</span>
-            <span class="source">東京新聞デジタル</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE91Q2tGX0dueVpyUHNXeUhhMHNTdk5hYVEzVmlzaF9iWG11Skd6dEJQaTlhRVRQWktZcE5MOEN2N21jeFQ2U2pjU0haMzRtV1FWTm1B?oc=5" target="_blank" rel="noopener noreferrer">「一切の武器輸出禁止を」署名約12万筆 高市政権が武器輸出ルールを緩和してから急増</a>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1LbUFWOXc2M01lZ25WcGxsaVYzbE1xWXNGWGIwWG1qYjAyOFpjZXJVVGhPSGRjblVSUEliMzNrbV9OU3VfUFNIeDI2SGhYRHl2cjJBQ3lrelhQN1hDX2kySkVGdWZRMWZDRU83eg?oc=5" target="_blank" rel="noopener noreferrer">防衛装備の工場「国有民営」 政府、法改正へ調整 有事の緊急増産に備え</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -353,16 +388,23 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">7月3日</span>
-            <span class="source">日本経済新聞</span>
+            <span class="source">毎日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBOaGktTERBUmpoQzI4cTdsQllIYnhyczNHZTVCN0Y1N082QVVJaXo4dW5Memo5ZkxOTGU0LVo2NnB5UXg2dEtwcllYWGI0MUZJQ0JObXF6SmZSbWdmajNpaWVCMzZUS1h4V0dzbg?oc=5" target="_blank" rel="noopener noreferrer">防衛装備の生産能力維持へ｢公設民営｣ 法改正調整、輸出促進に新法人</a>
+          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzcXBYSGFqQ1ctbGNqeDl0d2o4MGtNck1PM3NoOEFMalhsRWI3SnlRa3g5cUtjTk45UG9PX1d4LUd4SzMyUFhUa1VIWlNyUFpIMUJnQ1M3RjM1UHdJSVpxT1ZFc0hGTm1E?oc=5" target="_blank" rel="noopener noreferrer">「当事者」台湾の視点を忘れるな 防衛力強化論の前にすべきこと</a>
         </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">7月3日</span>
-            <span class="source">毎日新聞</span>
+            <span class="source">東京新聞デジタル</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzcXBYSGFqQ1ctbGNqeDl0d2o4MGtNck1PM3NoOEFMalhsRWI3SnlRa3g5cUtjTk45UG9PX1d4LUd4SzMyUFhUa1VIWlNyUFpIMUJnQ1M3RjM1UHdJSVpxT1ZFc0hGTm1E?oc=5" target="_blank" rel="noopener noreferrer">「当事者」台湾の視点を忘れるな 防衛力強化論の前にすべきこと</a>
+          <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE91Q2tGX0dueVpyUHNXeUhhMHNTdk5hYVEzVmlzaF9iWG11Skd6dEJQaTlhRVRQWktZcE5MOEN2N21jeFQ2U2pjU0haMzRtV1FWTm1B?oc=5" target="_blank" rel="noopener noreferrer">「一切の武器輸出禁止を」署名約12万筆 高市政権が武器輸出ルールを緩和してから急増</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月3日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbU1OQjJtcU1kR1E3aDI4V0xSeE5LNXNVY0luQVhyUVVMZEhQODUyX0xqbmNXeFNzUHhkS25fNTAyR3IwUGM1RkJFQ1ltSkM0eWlPVXFsMG9yOUZwYjRjMkluZUxnV01uQTVUcERIck83QUIwQ1VvVFd2anFBSlEyNXBtT0MxNGRRSTdHMHZVWkFWTU9XVHhtRVI4bWozUXRjYnIyajh1TUM?oc=5" target="_blank" rel="noopener noreferrer">防衛装備の生産能力維持へ｢公設民営｣ 法改正調整、輸出促進に新法人</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -437,7 +479,7 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">7月1日</span>
-            <span class="source">Reuters</span>
+            <span class="source">ロイター</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFZCX19sQ3RPaksxdm0zSjczd1RLaWs0ajluVWpNUEJLRDJqbllBdG92Wkx4eXZpNy0zeE9oa2E4ODdMQl91dmtsMHg2cFNQalJMRElaeWJBUGtVdmhwV1lHcUdFZGVqeUlIajJIbk9EZkoyY0F1QWlNazB6RTF0UQ?oc=5" target="_blank" rel="noopener noreferrer">ウクライナ、戦時中の武器輸出へ枠組み発表 一部売上高を防衛基金に</a>
         </li>
@@ -461,20 +503,6 @@ layout: null
             <span class="source">朝日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE80cUZ2c1FJcmhIclluR3B5aXdjbjJ2YW1jS3cyd29yQ3phblNFN3JxZEd1a1RjaERQTHZrMHRGNVl3azFuZGowbUkwZTlQUTAzb3NCbExKRWxIOHdm?oc=5" target="_blank" rel="noopener noreferrer">（Ａｎｏｔｈｅｒ Ｎｏｔｅ）ご機嫌取り外交、理念失う日米同盟 藤田直央</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">6月28日</span>
-            <span class="source">読売新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LNUcxNXRTX2xjSnE2c3RKZmJ5aWxXOENYVXg4M3ZIemV2TFp2OG5sQVhkNWNyWVhtaUhJM0l2MG5nOFE0eDFsanEyWjZLRUNaNVgzMF9WT085X21ZV3NxTTMybHhGUQ?oc=5" target="_blank" rel="noopener noreferrer">日韓防衛相会談、防衛装備・技術協力の議論で一致…移転３原則見直し踏まえ</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">6月28日</span>
-            <span class="source">朝日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zeUJSZWZpcnotbVdjOEFXRE5ZbmNoTGxwdVVWN2t3RENTWjhsUUJpNnZUTXFPTlB2TEExQ1pxT2Etakd0bEJabDg2SFJRalhfMlRPQlBXaXkxbS1zWjZtekF5U3VzVGM?oc=5" target="_blank" rel="noopener noreferrer">武器輸出で台頭する韓国、参考例にする日本 国内世論には大きな違い [高市政権の安保見直し][安全保障関連3文書]</a>
         </li>
       </ol>
     </section>
