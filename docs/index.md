@@ -88,8 +88,8 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年07月28日 13:14</strong></div>
-      <div class="stat"><span>ARTICLES</span><strong>55件</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年07月29日 13:17</strong></div>
+      <div class="stat"><span>ARTICLES</span><strong>60件</strong></div>
       <div class="stat"><span>LATEST</span><strong>7月28日</strong></div>
     </section>
     <section>
@@ -101,9 +101,23 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">7月28日</span>
-            <span class="source">時事ドットコム</span>
+            <span class="source">日本経済新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE1HU2w3Ny0xN2JDalRjNEhlQnFiRWZQSTBjYkN3dWtZZ1BleTdjeEpTM3o5N3VuRHBQc0VSamYxdFJjYlVsZzlRWEZ5dkhuRmFPd1A2S1VDY3J6eGV3N0ctcllXTlVHWHhWSGdR?oc=5" target="_blank" rel="noopener noreferrer">NEXA、防衛予算と予算要求の「仕組み・時期」を解説する防衛産業参入ウェビナー第3回を8月10日に開催</a>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE84X2h2Y25VU2E3eXV6NHRvaVlwdTd2ZVhrSmYwOGt0dWhtWENRbmg5cVNkQzJwMWRsVTljU2dyaFBsV2hCMDg3TzJ2a2tLTFpFSmdHaGZVa1BHMXlxWmdDNmRYNy01RHFBUWpEMg?oc=5" target="_blank" rel="noopener noreferrer">防衛省、JTカンパニーを13カ月指名停止 高機動車の不正輸出未遂</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月28日</span>
+            <span class="source">毎日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WYmFsRXgybjZneEUxVjdtNXRtaTRJX1IyZnN2aTBSYWM1d183MHRTc1RNeHFsVDRTX0laMUFGNURlTnBnQlJQZ25TMHpFNHEzUF80ckpvVFlLblR0NkNhSHJ2Ykg1Yy01?oc=5" target="_blank" rel="noopener noreferrer">防衛省、熊本に自衛隊派遣 県からの災害派遣要請受け</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月28日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBiOG43dHp5Um1YdWxXZVZVT2xLc2FlYW56YjhIQ2pySnFQWUh3bjQ4c1NxTnR6Y1NaTDV4R3lTUV8xT2JpZWJIQ3d3RmpYMzZTTmxuYm5vb2RfdWdQWldLVnNXZkR4RXRpUWFjdQ?oc=5" target="_blank" rel="noopener noreferrer">OKI、防衛装備を海外移転 豪護衛艦向けに</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -132,6 +146,13 @@ layout: null
             <span class="source">産経ニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPdE10amVhbHUwOHA3Nkd6S3oyRlNDVk1PSC1kd24tcTZ4UUQ3emhPZnlNeXlUTmR6R2txUTROQ2ZpdWNHRThVaVNpNmU5aUlEUDVjLWlYaWZseTBYOFlwb0FsRlFHa3BYMENQQnBEVUJvLWZ1SDctckN4cEZWQmxLVXNMdnFadjJNTmdVQkx5Sk4yVzRQLU1DRmVkejdSN05FYVE?oc=5" target="_blank" rel="noopener noreferrer">NATOで高まる日本への期待 武器輸出解禁では限界と課題も 世界を知るキーワード（写真・画像 1/2）</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月27日</span>
+            <span class="source">NHK</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMickFVX3lxTE0tbE96RHB3ZUpGVVpSODMwcENUaWRMMUsyZm5RNnd6WjBiRzAzOE5QNGx1bVg0NWNabzJ2R3JibkhodmdQZDRtYmNMcTJMZlJCUWhnWmp4RlVlVElmQTRsTjRYNXFsVEYzVnFiVS1OMlExUQ?oc=5" target="_blank" rel="noopener noreferrer">月曜6時台前半 ニュース・気象情報/存在感が高まる韓国防衛産業/何の日</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -177,6 +198,13 @@ layout: null
         </li>
         <li class="news-card">
           <div class="meta">
+            <span class="date">7月23日</span>
+            <span class="source">ロイター</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPRENudjhYR1htMmlIN08xUkNUUEZIcE8wVlpnX0VreW5UeHR2Q1RseGZJdnE5cUk5SVpuejhCMW5aQ1NDcldRMUVMa05ZZG90OXV5TUpUQ2trdFZ0a1ZoaWd5dGpXV2d3emV4MUMwT3JVSERRMTVIeUlXMlZUZUFGbw?oc=5" target="_blank" rel="noopener noreferrer">ロシア通販大手倉庫に再び攻撃、1人死亡 防衛装備品物流拠点とゼレンスキー氏</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
             <span class="date">7月22日</span>
             <span class="source">東京新聞デジタル</span>
           </div>
@@ -195,6 +223,13 @@ layout: null
             <span class="source">毎日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RNi1ydVZrekNnMDM2N0tmYURUYmROVjVscnExd1JPZi1FcXJGejFzQklsaDQ5TU1hOXozRk9RT3JIMENlVU91VGlOdlZMMGYwREw3Z2hhYXJHdnhlZDBrbTR3MmlMM29a?oc=5" target="_blank" rel="noopener noreferrer">英国：英財務相にヒーリー氏 元国防相、防衛力強化か</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月21日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZM2dDcGhkZXZqZFYycHlHYjVpRW5BQU9aakdqd1lMdHEzcFpKWktyVV9majFsbVhQZDhFMF9KUE5WSV9CbEE3SHFyN2x3QnRHZWV3V1VHUmM0cGpLRFhEdVZCUDY0UnZIbTZzXzEyRnVjcVdyd1E?oc=5" target="_blank" rel="noopener noreferrer">中露が共同軍事活動を活発化 「脅威レベル上がる」 防衛省、認知戦への対抗で積極発信</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -262,13 +297,6 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">7月19日</span>
-            <span class="source">日本経済新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBNd29xWmJ6dy1kenk5XzN0STllQ3lvZ3ROSm1seklXM0xEaTJxemFCVk1HdzVuNDg2S3lOYVE1Nm1VS0xHaUphekpsbG8zVGpSUndDUGdGd01mdVlQVjJkR0VyaWtFRmg5Y25iUA?oc=5" target="_blank" rel="noopener noreferrer">政府、カンボジアに防衛装備品を供与 通信機材や警備艇</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">7月19日</span>
             <span class="source">時事ドットコム</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RVV9VUEc3aHMzWWU5RTE4UlJtUDYtR1RIZEh3MWFzankzZ25jTnp4bnFlUjBsUnNMVXg5NUVaT0pqSkFFMlRvdVFqcHRsOUNha0x0WHd4N01ZM1NocGFZZE1lTQ?oc=5" target="_blank" rel="noopener noreferrer">Ｘ開設、中国認知戦に対抗 防衛省幹部立て続け―即時反論、信頼性がカギ</a>
@@ -283,16 +311,23 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">7月19日</span>
-            <span class="source">日本経済新聞</span>
+            <span class="source">時事ドットコム</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9aT1VvaG1RZXhJQVQxY3BUQjRhX2hicHczMHh4MTN3ZVYtMy1VRGt3YUJmUGstVkpqenVVWkNPVjBRX09PdVZMZDZra3hDWEs1bGFiUmdlaHRJemhsZzlRaGc4UE5DSXdmNmNrTA?oc=5" target="_blank" rel="noopener noreferrer">英航空ショー20日開幕、次期戦闘機の進捗に関心 防衛装備庁が初出展</a>
+          <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxOVy1Gb2Q3ekJUa0dTM0xGNlpvZmdsMEdLaGoyS29VYkg2ekJmLVNhNnd2M2ExXzVBeVplMktLQ1FHdkpIcENWX29Va3Jnc0RwUlZIb2hVR1F2dUZLZDRvM3FGVlVCZ1RoQkdNN0RBLUNpT0xKYnRydmwyVUEwQkRnNmRB?oc=5" target="_blank" rel="noopener noreferrer">Ｘ開設、中国認知戦に対抗 防衛省幹部立て続け―即時反論、信頼性がカギ</a>
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">7月18日</span>
-            <span class="source">NHKニュース</span>
+            <span class="date">7月19日</span>
+            <span class="source">日本経済新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tMkhQYzlfVF93eXJKWEtCaHVSMU9xWDdXUE1yX0cwNXVSLWR3dnV2TlFxeHVQcnFiVlhCQ3RVVENzMDdhcUlxUXpFOXdDU1VBaXVRS2hkMkU?oc=5" target="_blank" rel="noopener noreferrer">熊本市に配備の長射程ミサイル 防衛省が住民への説明会実施へ</a>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBNd29xWmJ6dy1kenk5XzN0STllQ3lvZ3ROSm1seklXM0xEaTJxemFCVk1HdzVuNDg2S3lOYVE1Nm1VS0xHaUphekpsbG8zVGpSUndDUGdGd01mdVlQVjJkR0VyaWtFRmg5Y25iUA?oc=5" target="_blank" rel="noopener noreferrer">政府、カンボジアに防衛装備品を供与 通信機材や警備艇</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月19日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9aT1VvaG1RZXhJQVQxY3BUQjRhX2hicHczMHh4MTN3ZVYtMy1VRGt3YUJmUGstVkpqenVVWkNPVjBRX09PdVZMZDZra3hDWEs1bGFiUmdlaHRJemhsZzlRaGc4UE5DSXdmNmNrTA?oc=5" target="_blank" rel="noopener noreferrer">英航空ショー20日開幕、次期戦闘機の進捗に関心 防衛装備庁が初出展</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -307,6 +342,20 @@ layout: null
             <span class="source">NHKニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BMTU5Sk9CcV9HdDZDMVVESDVWMVk1Ymp3RFExRGI5YWtEN3J6U1dZaW56RkdNVkd2Z3ZBRUlQOUlHTllFWmVOVm5PUmE1ZVNqSFNKZzhyY3paMlRVZDZR?oc=5" target="_blank" rel="noopener noreferrer">熊本市に配備の長射程ミサイル 防衛省が住民への説明会実施へ</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月18日</span>
+            <span class="source">NHKニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tMkhQYzlfVF93eXJKWEtCaHVSMU9xWDdXUE1yX0cwNXVSLWR3dnV2TlFxeHVQcnFiVlhCQ3RVVENzMDdhcUlxUXpFOXdDU1VBaXVRS2hkMkU?oc=5" target="_blank" rel="noopener noreferrer">熊本市に配備の長射程ミサイル 防衛省が住民への説明会実施へ</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月18日</span>
+            <span class="source">東洋経済オンライン</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QM2ZnbUY1VTlvdTBvQVoxYXZUTDE4ZnpvNGlFclhhTUVYcEwzM3JiYXJDZWU5dEp6bjhvRU1CanRnOEdYd2plaU5MRXZ4Xzd2dXo2UEpqeEQ4Rmc?oc=5" target="_blank" rel="noopener noreferrer">自衛官に降伏より死を迫る高市首相に盲従する防衛省･自衛隊､経歴疑惑も調べず｢戦艦｣答弁も訂正しない組織は大丈夫か</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -367,13 +416,6 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">7月16日</span>
-            <span class="source">時事通信ニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE54cFR6cmdnbjRpYndSTm83SkV6d052TDlxejVacFBLOFlBcUw5VjdTM3dXQmVhakJyc3B1WDFSQU1Obk0zbERDS2ZuSXJEMkh4U2x2Zm9UQXh3RkNGbXc?oc=5" target="_blank" rel="noopener noreferrer">ＥＵ、ウクライナと防衛産業協力＝ドローン共同生産へ新枠組み</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">7月16日</span>
             <span class="source">日本経済新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9QQkVfdHJPMERUQkpxY3dieUVYcDRCVWxNRUpOaHJvalhFNFNFMFFUT3d6aFBtX3V1T3JzNTBZWTJ6M1ItRmszMUlFVE5FRFJPb0RHQzBUX1E0cGJ0Ql9XWjlWQThpZ215d055OQ?oc=5" target="_blank" rel="noopener noreferrer">中国とロシアの艦艇、沖縄・宮古島間を太平洋へ通過 防衛省発表</a>
@@ -398,6 +440,13 @@ layout: null
             <span class="source">時事ドットコム</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTFHZzE1Tk1MWjllZzYtNTZueVkwUzJWVl9SQklGcjRWbUV5Q2hMZXFaOS10ZklJUlhPeTlhR2RSelVqMjBQckRtYk5EdS1ITk1MbXdwMWVCTm5Na1lfLUZOeXdGTktzUTN5QU9KWk55NGVHaERzbWpzTXF5MkpuNw?oc=5" target="_blank" rel="noopener noreferrer">ＥＵ、ウクライナと防衛産業協力 ドローン共同生産へ新枠組み</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月16日</span>
+            <span class="source">時事通信ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE54cFR6cmdnbjRpYndSTm83SkV6d052TDlxejVacFBLOFlBcUw5VjdTM3dXQmVhakJyc3B1WDFSQU1Obk0zbERDS2ZuSXJEMkh4U2x2Zm9UQXh3RkNGbXc?oc=5" target="_blank" rel="noopener noreferrer">ＥＵ、ウクライナと防衛産業協力＝ドローン共同生産へ新枠組み</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -451,6 +500,13 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">7月14日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPZVNEYXZfbzk1OGt2SDdmaWYyV2JvbFhHamJmSTJmV3hNYklHcjhqazd5TGRjUWhxR29hQjVEMEFkekZfZzN3NWdUWlFEMU14SmticVhHS2d5b0VtSmVhZWhVcjVzeDZVX1ZsZHVDaVIzbDA1Vm9XenE1a3hIV0JsNGxR?oc=5" target="_blank" rel="noopener noreferrer">防衛産業で対日協力 「共同生産」にも言及―アゼルバイジャン大統領</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月14日</span>
             <span class="source">産経ニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNRm5oOS1WLW9BYVlONWJLc3pwVG5hSElnRXVUdzBlVmIxdVZpTGtGcDJSQmFWbGxveHhvNkhja0JtSDVRU2lLMFB3R242YjNMbVdzbThtSDF1enVzZHVGc0ZET0hHSVhJUDQtM0F4MTBoMzBuSWU2eGdPTXBOQW54NWpNMHpCaTRwMkdySnFTUGxOSVQ3WGZUUGJONTlZSktOakE?oc=5" target="_blank" rel="noopener noreferrer">韓国防衛産業好調も「欧州の壁」に苦しむ 受注合戦で相次ぎ敗北…ウクライナ特需は終焉か（写真・画像 1/1）</a>
@@ -461,27 +517,6 @@ layout: null
             <span class="source">産経ニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9EeVRORzhnRVdDeVlHM1BLVW12ak4zcWJQVDBWR2Rka0JSaFJNVGhjcnlKVk84bjktbEdyYXdJYllnS2g4cFhFR2FSV29OczFtMndXZkdEbXlwRVoycnRDYng4TDNUTHJ0eU9VczhYNWlhZnVwZ2c?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮に「特需」、対ロシア武器輸出で年間GDPに迫る 戦後にらみ対中接近も</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">7月13日</span>
-            <span class="source">時事ドットコム</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMibkFVX3lxTFB3blhuZ0ZfOXN1Qk9Tc0VHcjdEWGMzT2Q4bUxPLXZVbnhJdTJidU55d1BVS056MDFuQV9FZXU3SDZwc1c0ZUpUOUdJd2tvSXVuQ2s1bU9ncFFqYUM1dFRIQ3RZUXJjNUZwZ20xRXlR?oc=5" target="_blank" rel="noopener noreferrer">日米安保条約調印 米ワシントンのホワイトハウスで…：安保闘争の時代 写真特集：時事ドットコム</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">7月13日</span>
-            <span class="source">時事ドットコム</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE00LU1QTzRJbXd6cUlkbHlWS19HYUZLN21ZSF90WDFtX0JlRzlDNTExU0FFdy04dDZMYVQ3Y0tmTWpxMF9lZVBqY0pjRkp1X2gtM1hGaGs4RXVjT1AtZTZjVjVvZFVNSmw5TUphRkRn?oc=5" target="_blank" rel="noopener noreferrer">７０年安保 首相官邸で日米安保条約の自動延長に関…：安保闘争の時代 写真特集：時事ドットコム</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">7月13日</span>
-            <span class="source">朝日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tdFR6VWM3SEZfdzJCcWhaXzdxM1NRQU9hWnNQSTMtWnpKdVZqRDlFdk90SEFxdmpPejhmRWtBWDMwSVpkcnRSamo5ZzE1dWVpVjdCTlRaOVI1WW9haHQ1cFRBRGp4WE0?oc=5" target="_blank" rel="noopener noreferrer">小泉防衛相、来日のベトナム国防相と会談 防衛装備などの連携を協議</a>
         </li>
       </ol>
     </section>
