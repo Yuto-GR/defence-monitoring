@@ -88,9 +88,9 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年08月05日 13:15</strong></div>
-      <div class="stat"><span>ARTICLES</span><strong>43件</strong></div>
-      <div class="stat"><span>LATEST</span><strong>8月5日</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年08月06日 13:18</strong></div>
+      <div class="stat"><span>ARTICLES</span><strong>42件</strong></div>
+      <div class="stat"><span>LATEST</span><strong>8月6日</strong></div>
     </section>
     <section>
       <div class="section-head">
@@ -100,10 +100,24 @@ layout: null
       <ol class="news-list">
         <li class="news-card">
           <div class="meta">
+            <span class="date">8月6日</span>
+            <span class="source">毎日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE11ZFdzNXZpMnNiNU1XaDlOQ2x2RHZZUFRFeWpXM3JxVUVCUzFidlZqMEpHTjhmWXVZTXM5aHFPUWs5QWktS0JSNk9YMkJWWm5OcXQ3bEJZcGNXMkpGS0tzQTdrRk5PNEtr?oc=5" target="_blank" rel="noopener noreferrer">安心はどこに：京丹後・米軍基地 発電機騒音 防衛省「重く受け止める」 専門家入れ対策検討へ ／京都</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
             <span class="date">8月5日</span>
             <span class="source">産経ニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFAxWGFHUEVkak9RUGdwOG1uUFJVc2hLNDFHdjNTXzJIS0tWVWxBaVA5ZWdqRlpzZU84N3FieDV5b3doV0xHWXdGdGUzRHJ2VlB0YTJxdzlxYWhsNDFneUlYSWxlcENGdEl0Umw5NGktWkktX0tuZkE?oc=5" target="_blank" rel="noopener noreferrer">防衛省チャーター舶「はくおうⅡ」が入浴や医療提供 断水や猛暑に苦しむ熊本の被災者支援</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月5日</span>
+            <span class="source">日刊工業新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRTU5Kd1JQZmx2bXNGVkR5RHdoeFVjVVp6TGU4MFoxSk1yR2ktQ3V1b1MwbHFKSmdaa0poVFE5Q3Y5RExNbW1pWkR0SUZJcVByajVwbXRVNmNhamM?oc=5" target="_blank" rel="noopener noreferrer">防衛省幹部人事／防衛審議官に安藤敦史氏</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -160,13 +174,6 @@ layout: null
             <span class="source">時事ドットコム</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hc1N4ZmN6d2FXSlVXNmdRUjFhWi1KZ1M2dmpWODdsOUlhWFBmN3I4UkJPRXRabEJmNnJmSmRwa01LQ0N1MUZNS1RlbTZIM00zUk1ZWmF4djl5WmFFRUgyNmhhTQ?oc=5" target="_blank" rel="noopener noreferrer">インド、イスラエルに武器輸出２５００件超 「虐殺加担の恐れ」と国際人権団体</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月3日</span>
-            <span class="source">時事ドットコム</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQWEFYWWlSWHZ5bzgtNWUyMWl5YVlLQXAyamdkRlNaNnJwNEROTGQtamVJNEVWMTJIOXNFUzRSZkdLQkZLUGttbl9aZWhXV0wxY2lnTUZMZjlBY3hRZXQ1QVJxWWNCOXZEb1MtWVNiYmtpdU1TdktxWTcxRXR0U002LVd3?oc=5" target="_blank" rel="noopener noreferrer">インド、イスラエルに武器輸出２５００件超 「虐殺加担の恐れ」と国際人権団体</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -247,13 +254,6 @@ layout: null
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">7月30日</span>
-            <span class="source">東洋経済オンライン</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tSWRkOGcwS3FfYldxMXdHRF9mN1hVRDRPcUtGcHdnbnJsbFdGRkF3aFpCbmhwaVJ4MEY2ZXdUeXNKSzZhbVpYYXBkSHd0amItb1ZETkVTRUlsQ1NDenc?oc=5" target="_blank" rel="noopener noreferrer">画像 | 自動車の次は建機､そして防衛産業も…セレンディップが｢1000億円ものづくり企業｣に向けて構築した斬新な仕掛け</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
             <span class="date">7月29日</span>
             <span class="source">日本経済新聞</span>
           </div>
@@ -265,6 +265,13 @@ layout: null
             <span class="source">NHKニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE10dkVDQ2FyeGdxdDZvTnRWbEc5SFRzeVJWaEVlR3NaZkZ6WGNxS3doME9VeVRDQlRCT0ZGTUlSN0lWa1V6TmlxMzFmbk9Oejk4S3VmUDdmWXdPS3lMY01r?oc=5" target="_blank" rel="noopener noreferrer">ゼレンスキー大統領 米防衛産業大手幹部と会談 連携強化を協議</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月28日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBiOG43dHp5Um1YdWxXZVZVT2xLc2FlYW56YjhIQ2pySnFQWUh3bjQ4c1NxTnR6Y1NaTDV4R3lTUV8xT2JpZWJIQ3d3RmpYMzZTTmxuYm5vb2RfdWdQWldLVnNXZkR4RXRpUWFjdQ?oc=5" target="_blank" rel="noopener noreferrer">OKI、防衛装備を海外移転 豪護衛艦向けに</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -283,9 +290,9 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">7月28日</span>
-            <span class="source">日本経済新聞</span>
+            <span class="source">東京新聞デジタル</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBiOG43dHp5Um1YdWxXZVZVT2xLc2FlYW56YjhIQ2pySnFQWUh3bjQ4c1NxTnR6Y1NaTDV4R3lTUV8xT2JpZWJIQ3d3RmpYMzZTTmxuYm5vb2RfdWdQWldLVnNXZkR4RXRpUWFjdQ?oc=5" target="_blank" rel="noopener noreferrer">OKI、防衛装備を海外移転 豪護衛艦向けに</a>
+          <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zR00wdG55MlJLU3dhNWVzbUNoMk90enA1aFlBUlZwbkRlaXdoX25MVVFfTGs1T0cyYXl2bGJ5LW8wMWh5a09pRkZlejJLaXVzY2Zn?oc=5" target="_blank" rel="noopener noreferrer">「核戦力に触れざるを得ない」小泉進次郎防衛相の発言が波紋 安保3文書改定を前に踏み込んだ意図は何か</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -303,17 +310,17 @@ layout: null
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">7月28日</span>
-            <span class="source">東京新聞デジタル</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zR00wdG55MlJLU3dhNWVzbUNoMk90enA1aFlBUlZwbkRlaXdoX25MVVFfTGs1T0cyYXl2bGJ5LW8wMWh5a09pRkZlejJLaXVzY2Zn?oc=5" target="_blank" rel="noopener noreferrer">「核戦力に触れざるを得ない」小泉進次郎防衛相の発言が波紋 安保3文書改定を前に踏み込んだ意図は何か</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
             <span class="date">7月27日</span>
             <span class="source">NHK</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMickFVX3lxTE0tbE96RHB3ZUpGVVpSODMwcENUaWRMMUsyZm5RNnd6WjBiRzAzOE5QNGx1bVg0NWNabzJ2R3JibkhodmdQZDRtYmNMcTJMZlJCUWhnWmp4RlVlVElmQTRsTjRYNXFsVEYzVnFiVS1OMlExUQ?oc=5" target="_blank" rel="noopener noreferrer">月曜6時台前半 ニュース・気象情報/存在感が高まる韓国防衛産業/何の日 - マイあさ!</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">7月27日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9STnJvdzR2Q2syTktlM2YtdkdZNUs4ajBuck1HYmJjYnpmQnhnWWg2UXdJYVVVSUtRbnRUekJ6T0pvOGR4OHJ5QUI5cGhIVWgycU9ybEJoSVhzSW5hR0Vuek54eGZXSkUtRDZEeHhOa1NrSm1LMnc?oc=5" target="_blank" rel="noopener noreferrer">NATOで高まる日本への期待 武器輸出解禁では限界と課題も 世界を知るキーワード</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -367,7 +374,7 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">7月22日</span>
-            <span class="source">ロイター</span>
+            <span class="source">Reuters</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPRENudjhYR1htMmlIN08xUkNUUEZIcE8wVlpnX0VreW5UeHR2Q1RseGZJdnE5cUk5SVpuejhCMW5aQ1NDcldRMUVMa05ZZG90OXV5TUpUQ2trdFZ0a1ZoaWd5dGpXV2d3emV4MUMwT3JVSERRMTVIeUlXMlZUZUFGbw?oc=5" target="_blank" rel="noopener noreferrer">ロシア通販大手倉庫に再び攻撃、1人死亡 防衛装備品物流拠点とゼレンスキー氏</a>
         </li>
@@ -384,20 +391,6 @@ layout: null
             <span class="source">東京新聞デジタル</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QQmdqN21ZYjBQcHNaWFprel9VbzNMTGFaMnNzZVBYaDBwRFoxWTNaT3JQUHRJcFNVaFg4WmZFX09LSXphSVNXMlJ2Wmx5WkJZS0o4?oc=5" target="_blank" rel="noopener noreferrer">加速する武器輸出、歯止めは？ 「軍産学複合社会」へ崖っぷち NAJAT代表・杉原浩司さんに聞いた</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">7月21日</span>
-            <span class="source">朝日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrTXkwU0pkeTVQUUY1di1YUjVZQVloOUMydEFSeVJ2T1A4TGRSNTEtQkxfQXZ1bThmWWpXV200RkFLbDNaSUxiWGRNTmt6b1pSYnFmOGZfQ0dsVFo4b1p5emlWeFlMVkE?oc=5" target="_blank" rel="noopener noreferrer">トランプ氏、防衛産業に中国産など排除要求 大統領令「供給網守る」</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">7月21日</span>
-            <span class="source">日本経済新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBJN1NvejRMUFdRMkdiblloczc2SWVfMjdZWGhoR1pPWXktVGtfbmNraUpkOEhLMk9RdTlXd0E5MVVTbkQxSUlrWmNhM3lzZVdtUlFza1BEb3lyRW1Sc0Z1Uk9INHdNdnNGQ2JiUg?oc=5" target="_blank" rel="noopener noreferrer">防衛省、年内に防衛装備の総合戦略を策定へ 安保3文書改定にあわせ</a>
         </li>
       </ol>
     </section>
