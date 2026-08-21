@@ -88,9 +88,9 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年08月20日 11:19</strong></div>
-      <div class="stat"><span>ARTICLES</span><strong>30件</strong></div>
-      <div class="stat"><span>LATEST</span><strong>8月20日</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年08月21日 11:24</strong></div>
+      <div class="stat"><span>ARTICLES</span><strong>42件</strong></div>
+      <div class="stat"><span>LATEST</span><strong>8月21日</strong></div>
     </section>
     <section>
       <div class="section-head">
@@ -100,10 +100,115 @@ layout: null
       <ol class="news-list">
         <li class="news-card">
           <div class="meta">
+            <span class="date">8月21日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFbzVJdnJtQUt0TjZ4aDktOVM1RW1JT1dHWDVpTjlkeF9ta0lLRGY1UXlDREM3YUE3dWlPc21Nc0t3b0l2QnlWRTE2ZVZJbU4yejRCQk9UdnhKb1RTZC1vQXhEdlQtZw?oc=5" target="_blank" rel="noopener noreferrer">防衛事業を再編する企業に国が出資、「継戦能力」確保へ業界効率化や生産体制拡充図る…防衛省</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月21日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2TkdKUGVwZFc3WkZQLTh2cWRPNXpWQ2F2YlA0RE5jUEtuZU9iQkowSHVpZzhrWnFiOTVEVFpwOEx1SUZvUHBmcExMbUN2MnhpSUtNM2J3RmhYMWpqT01nb0YyZw?oc=5" target="_blank" rel="noopener noreferrer">日印海洋安保 覚書署名 防衛装備品 協力深化で一致</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月21日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTFB6T1pYUVk1a1owNVNZNGRYbEJQbG5IS25qZlg4emtCR05oZmlUeFZibko3RXYwTVNkMEM4UjcwWlkxVzVOT2dnVTUtNG5mNW8yRHhhcVFzeWlIbF9OMURtTmlPMXEzOWNsR3c?oc=5" target="_blank" rel="noopener noreferrer">日印海洋安保 覚書署名…防衛装備品協力深化で一致</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月20日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE8xV2RjRVV6dWdLR1BTYXJnQWFmLXlkOUNOakZiS216MnZZZVZ5ZjVwamc2c0VEakFkTm9UbUhrZTdocHNVTlUtVDlqc3B3MmpkMDllaTZwaVdzUGVUc21hLTkxTk1PVGVaNEx4akoyM0xGYzRBWXc?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮の弾道ミサイルすでに落下か 防衛省発表</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月20日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tQnhOWVRfNzl2ZkN5YkNiUlpYcmhQUzBoMko0ejUzdlRYaFJVMUszUFdtUDlJYkUtS25VcWpVTVpDUXQ3Tk9tZ0tEeTFfUWM5N3EySmxINVFLUkJzREM2RVFub0M5UQ?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮の「弾道ミサイル」、すでに落下と推定…防衛省発表</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月20日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVcTg2U0EzT3BMVlBhVnVHUU9zLXlhSVgwOGpKbnNjd2xQVlBvazJDYUtYX1hOc08tMC1fTXZyUmhUZUpYRHpvWWt2VU5OMXRnYjVpRXloRE5uREFiS0RwcDA5OWhwZw?oc=5" target="_blank" rel="noopener noreferrer">【速報】防衛省によると、弾道ミサイルの可能性のあるものは既に落下したとみられる</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月20日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMickFVX3lxTE5KdkFQTUdpTzlTYkN3QXJPMGN2djEwX3ZVMldSQTZsdkdGM2xLRFlOanA0Uk54d0RlVXd1SjlrZ2RFSVRNM0o3Z0VmY3R6bE41cnRrWWdoWEc0OWFmQkRxbzMwWUR2dEl6YWt5REF1dWpIdw?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮が弾道ミサイルの可能性のあるものを発射 防衛省発表</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月20日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Nai12VHJCZElKaGxHd1lsSXZiaFV2MjBFbmpvLV9YUTJUSFhiS055R3ZIalRydFU0YWxkbkRHQ0ZoNE9fQ2hOc1lnOWxDSHpWR1RaeE1JUXJMeWxIazhOTE5fanBmdw?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮、弾道ミサイルの可能性があるもの発射…防衛省発表</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月20日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBHaElSUmFBaklyTzlXQzhldkNnQVpHR1Y1X1ZlMXV2Sjl0ZVl1NGU1cVZxaWtpMEdOSC16d0JHRjZPQ0RRT1h6WG9jWXZ6cnJfS3N2WF9PMklHWGZWcWF5TEUtNi02MFNNTWlYTWpYM2ZmNG95WVE?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮が弾道ミサイル発射か 防衛省発表</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月20日</span>
+            <span class="source">NHKニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HeWdoXzhPVlFMS0s4V1RKei1YVWZkUjl2ZFoxSjdydHoySjRKS2hnd0xOd0pvVDVQdmdYNWUtYU5vXzdMM1ptQldlczc0WGVLaHM4MFo4ZEFMTGZQQWNn?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮が複数の弾道ミサイル発射 日本のEEZ外に落下か 防衛省</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月20日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE95Vko1UTExSzNUaGhLOWlIdm9LX0NJeEF3Y21fUmVMclRZVmNFM1Q0MUdGaXNXYi1DMnd2ODZlc2Q2ZV9FczQ2Y1oyYzFaMFpLdHM5cVBnVVdRQ2V1SEVEbHBtTk5rWFJ3TlUwVg?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮が弾道ミサイルを発射、日本のEEZ外に落下 防衛省</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月20日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SMWZXdF9xQlViVkl4a2Z5MkR1TFYzbFU2eE1MaENNYlB5YXdLVHNPSHdBMS1pbG0zVDRrUngzd2I1aWRjXzVJS0lfYzNNNTJha3haLVZSdTM0MVN0YWdnS2JNcUpJdw?oc=5" target="_blank" rel="noopener noreferrer">【速報】防衛省によると、北朝鮮から弾道ミサイルの可能性があるものが発射された</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月20日</span>
+            <span class="source">ニュースイッチ by 日刊工業新聞社</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiQkFVX3lxTFBYRkQyUnJLYzVTeG9tTkd4QTNwNXB1ZFg5dUIwVy1ObWRiWUxFVFBiaDNUMk1mdkp6ZHRRVlA0SGd4UQ?oc=5" target="_blank" rel="noopener noreferrer">防衛装備庁と開発…NEC、軍民両用の水中音響基盤構築へ</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月20日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNTElMbWtKNktzcU5nczl4YXZuR0NZYko1aEtWNHFQZW1rUVIycXlkNnVCT09WNVAwOV91Z0doZXZfMGQzYXVIQzlpekJySE5kWHM0TGh4bUNHaVZPWTRfZ3ZQc3pTbTlDbVJ1OXBuSkwweWQ5MEdzZGd1Z202cFNFUmh4V0U3WHRHWlNOV3BvekZQV1UwQVlQeXFn?oc=5" target="_blank" rel="noopener noreferrer">防衛省が組織改編、退職自衛官らの「支援庁」や3局増設を概算要求へ</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
             <span class="date">8月20日</span>
             <span class="source">毎日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVZmw5dl94bURSSTJVZWdKM0pMSFRXN2F6Y1FaNndPX0Y1d0lmNVMzNkRDZU45RjlYYWI0d2dqYjJwaXFxVVdQUnM3ZnJtNHRpS3JQVGVwWkdKTE1NRTdEUm9qajROLXdk?oc=5" target="_blank" rel="noopener noreferrer">揺らぐ「平和」：武器輸出で影響強化 戦前戦後に通じる狙い 色濃い米国の影響</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月20日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtRjI0UWNWcmMtODFpZVZaREZ1cDJJaWl4SGVJZ2tyZ0Y2VEUyMW9DTlNpRGw3eHpzWWUxOFp4bk1WV3otWUFEZGRxd2VtUm01cVRWRkoydHF4bUwyWnpEUkd1WUlhdw?oc=5" target="_blank" rel="noopener noreferrer">防衛省の来年度予算概算要求、過去最大８・９兆円…長距離攻撃できる無人機の開発盛り込む</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -136,13 +241,6 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">8月18日</span>
-            <span class="source">産経ニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE4xQ0Mydm5LUEdTeUNyYlp1VFFUSUhFQWxURlVrYzNJNGVDOVBtUEJYTVFheXRLOC1fNEpwMHI4aTFtcThIOHJhT2I2Yk1fbjQ2NE9md01DWkdrdmVERWVwVi1DMlVCZUxHTVc4NlNLX29RdEU4Rnc?oc=5" target="_blank" rel="noopener noreferrer">中国機2機、長崎の男女群島沖や沖縄沖の東シナ海を飛行 防衛省、スクランブル対応</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月18日</span>
             <span class="source">やさしい朝日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uNXFfLW9rV2RnYUJkZWtQaEZDZE9Tc1VNTl95RHpuUkkxWjdJOW5PcUFfeGhYeWtsdWRWRzhNS3hTcnFjNVBPQ1lKTkhjX0h6R0UyNUx5UEhVN2dvSVdNRGtUNkNxSEE?oc=5" target="_blank" rel="noopener noreferrer">楽天、ドイツの新興企業と攻撃用ドローンで提携、防衛省への納入を目指します</a>
@@ -171,6 +269,13 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">8月17日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQXhraFBFNDRkRVE4d2djWGJZaV9tM3Q5SGNyOEsxc2NRQm1weHdWWjdaWUtqUDJWZjF5d3V6NURmTTB0QThuTU5tbTlENDFwaTdhbzg3bGIwdnV3bTZNaWh2bVY?oc=5" target="_blank" rel="noopener noreferrer">楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月17日</span>
             <span class="source">時事通信ニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MSTc1VVgyLThGUThERGdRdm5Gd0l2LUY4ZWNaeDlza0xpR0ZRN09yVzV0Z2pfQ2w4bXBQVzFwUjltLWhvYlZIMGZEQ1dodE5aVnVXag?oc=5" target="_blank" rel="noopener noreferrer">楽天、独ドローン新興と提携＝攻撃型、防衛省納入に向け</a>
@@ -181,13 +286,6 @@ layout: null
             <span class="source">朝日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14LVZpdklSS3ZqaTgta0hxbGNzVjZmVEMyOGtDS1p4cUMwM0RnaXM5U0ktNlh3MzN2TkhCQzJoZnNaTDV2bDczU1dIZ1U1b3h2TXpXT0JnX0pSZFR2OXdvUW5TbnRiVDA?oc=5" target="_blank" rel="noopener noreferrer">楽天、ドイツの新興企業と攻撃用ドローンで提携 防衛省への納入目指す</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月17日</span>
-            <span class="source">朝日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNNFRXMGE3QW53SUZ2MXRzRTNoUVh0Z0lIS1JRclY5WWxkUVhoaVBUU2wyX3h5SXlrTmNCSUpqWG15bkwweE1HSlVpN2RZOUFJQXFpdFJuYkZZZnl4aEU3Y1V4R0tvN3RQYjV3MDJkRmhNNFVReFlFbGQ1Q0dfZHVqWGdFZTRoME0?oc=5" target="_blank" rel="noopener noreferrer">楽天、ドイツの新興企業と迎撃ドローンで提携 防衛省への納入目指す</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -236,42 +334,7 @@ layout: null
             <span class="date">8月14日</span>
             <span class="source">毎日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nY0txOW50Z1AxaW1jTHFBVVRkR1MzRFIzOWRYZ1FvVkw2dVFOaXktRXVPQnpfUHdUVElGZ3FTa0Z1c2NSQzhxaWVUdWIzSzB1YnBJWnJXOTZERWxvOVJCaHVuSC1EWlg1?oc=5" target="_blank" rel="noopener noreferrer">ポッドキャスト：日本の平和主義は守れるか 拡大する防衛産業の行方は</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月14日</span>
-            <span class="source">毎日新聞</span>
-          </div>
           <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE13eS0tWUQ1ZkJsUHktNWlZcDV4d0Y3UFk4alc2dExUWkFPNVNaTThVYUhaMW5HMUhaTjhTTEhyZkpad0U3cUNvOTFHX1ZJS0JPQlk0b0EtVG5KU2NiS3lZQmJFbkpDd0la?oc=5" target="_blank" rel="noopener noreferrer">「平和都市」か「防衛産業」か 揺れる長崎が選択した道</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月12日</span>
-            <span class="source">Bloomberg.com</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5nTFdqb1F3WVhkQUwzMGJocmxUVVAwaUFZMzV4dGMwWjhnUVROUGFFY1ctSG9Qdk1nbmdURktMUWdZeGFKRkJFVHZKMVlYQ3lOaURpREtMOFczZ2ZJcGR1cGF6QVJRanJqaW5WdmJtR29TcldOMzdZ?oc=5" target="_blank" rel="noopener noreferrer">金融庁が防衛産業への投融資を聞き取り、メガバンクや生保に実態照会</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月12日</span>
-            <span class="source">時事ドットコム</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSWWdXcHBxLVJoR1B0QjdnamNiX2lIdHJaUXlqSGhLV3Z2SFlZeDZBWDR0amo4WG93SkZjOHNGcG40TzZoMHZiYl9Fbm9FSm55bURvOHVvRU5VWWp4NnlJdGJ5NW8zUQ?oc=5" target="_blank" rel="noopener noreferrer">【速報】防衛省関係者によると、弾道ミサイルの可能性があるものは日本のＥＥＺ外に落下したとみられる</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月12日</span>
-            <span class="source">時事ドットコム</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IM3NKRm1DQ3BqX195bmsxWmM5RnlYUnFiSUdDVTF6QmtUbzVqSVpXMGVMODlZeWJqdG94QW81cGJ6NTlJM1N3YXM2WkpDb0FEOExxRjA3TWRKTi1NS0tteVZjMGo4UQ?oc=5" target="_blank" rel="noopener noreferrer">【速報】防衛省によると、北朝鮮から発射された弾道ミサイルの可能性があるものは、既に落下したとみられる</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月12日</span>
-            <span class="source">時事ドットコム</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oWVhDVzNTbzJ6OXZRR285MjNKZ3Y1U3VyLXdXUmZvS2xBWHhoNHhlaU13X24ta1lyVzZDejRwZGpqRV9kckFPUWsxYzhEbWVqRUxPakRRQ0E5bUZVSG1TVEVIVmdQQQ?oc=5" target="_blank" rel="noopener noreferrer">【速報】防衛省は、北朝鮮から弾道ミサイルの可能性があるものが発射されたと発表した</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -279,6 +342,13 @@ layout: null
             <span class="source">NHKニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yQXdLTmp6NnZORW9ua0dSZjdQMVRrZ19DdjBiYlk4YkxJNkRoT3lrajBZN0FvODNuZnVsSTVudDJmTzJiQU9SemZ4dXdBZmpobk1ZMU1JcUQzZVd0WWxF?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮 弾道ミサイルの可能性あるもの EEZ外側に落下か 防衛省</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月11日</span>
+            <span class="source">Bloomberg.com</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5nTFdqb1F3WVhkQUwzMGJocmxUVVAwaUFZMzV4dGMwWjhnUVROUGFFY1ctSG9Qdk1nbmdURktMUWdZeGFKRkJFVHZKMVlYQ3lOaURpREtMOFczZ2ZJcGR1cGF6QVJRanJqaW5WdmJtR29TcldOMzdZ?oc=5" target="_blank" rel="noopener noreferrer">金融庁が防衛産業への投融資を聞き取り、メガバンクや生保に実態照会</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -290,9 +360,23 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">8月10日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ta3NfQ1p4dGpjT0JVTHRpSVhGZDA0WFhKbEpKOUd2V1NOSUxLZ0xBTElST2dZSUlxOVVTd1FfcVE3dkNuTjBaUmpjNnR5SU9hZ3BEOWRPdzRJV2FlREFrUUQ5NEdpUQ?oc=5" target="_blank" rel="noopener noreferrer">［政策点検 高市政権］＜３＞防衛装備品の輸出、抑止力向上に…同志国とネットワーク構築</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月10日</span>
             <span class="source">日本経済新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBPQzc3T2hramdaSDZic2VCN3dkbjRhRVZJdWVvYzBxQlgwajctaU9vYS12Sm5EekFMX2xtWlgwWG1zcE9DZWNkdTVvMWtBNURGOVgyWkZVLTFSVmtvSVBKakg3UWh5NWh0M0JvcA?oc=5" target="_blank" rel="noopener noreferrer">円安防止の日米同盟に組み込まれる日銀 27年春にかけ金利1.5%へ</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月10日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hSVhlR2pJVF9HOVhxUXVGUVljV3BuTmFacHJwcTkwOWNTbXBoQTNoNXpjR05OMG5lUWlrdldYUXZMX21SeFJHTDBWWUd4STN5LXlPRHNMQTEtcEdvblZ2SGIzWi1fdw?oc=5" target="_blank" rel="noopener noreferrer">在日米軍が熊本で支援活動開始、グラス駐日大使「一瞬の迷いもなかった」「日米同盟は鉄壁だ」</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -304,9 +388,9 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">8月6日</span>
-            <span class="source">朝日新聞</span>
+            <span class="source">読売新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE1YYXFmaEhfdmtQV1NuRjRrQjE3UDFvQldwNjFvU3pZNzdLVnZwNHBKTzJ1MUhQRmltTVNlM05BSmVmRW90dG0xbHlhN1JMZjU0YkxxTlNJd1B2Q0cxdlIxQV9SVmJUTlBqZUE?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮が弾道ミサイル発射か 防衛省関係者「EEZ外に落下」</a>
+          <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0UzhpcGpna0JlTDRrZ2NacVhINHFMb0NTdHR4NUc0bHQ4MDNpeEZ5blRZWXo1RmNmRmlzSFI3MTFKNzNDUC1MRkZIc3Mxc1ZzZGNsaUpZdjBDZFU?oc=5" target="_blank" rel="noopener noreferrer">高市首相「我が国は非核三原則堅持している」安保3文書改定で見直すかについては明言避ける 広島「原爆の日」</a>
         </li>
       </ol>
     </section>
