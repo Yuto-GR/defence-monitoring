@@ -88,7 +88,7 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年08月22日 11:17</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年08月23日 11:25</strong></div>
       <div class="stat"><span>ARTICLES</span><strong>46件</strong></div>
       <div class="stat"><span>LATEST</span><strong>8月22日</strong></div>
     </section>
@@ -98,6 +98,13 @@ layout: null
         <p class="note">Google News RSSから取得・フィルタリングした記事です。</p>
       </div>
       <ol class="news-list">
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月22日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hRFhvSGsxZWROZ2M5U3BZZjNLM0VCMWVmWXAwMG95S0FOdGY2WEV6NXpLeGhOSEdwX0MzTXJNMmRkdTBKWEZfVnA3ZDlGWHpoc0UzWXBwRXFxQ0NKdFhFWVpRWmlUUQ?oc=5" target="_blank" rel="noopener noreferrer">通常は数年要する防衛装備、「迎撃用無人機」は公募から３か月で納入へ…大量ドローン攻撃への対処急務</a>
+        </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">8月22日</span>
@@ -111,6 +118,13 @@ layout: null
             <span class="source">日本経済新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5WeTFDRDRobWFWalktZTlfenhHQkwxeUFPNG4yT3A2UlBCS19MSlpHWlpIRHVwSWFUZF9KY3pmR0NfWVJfb1EycERFdENiSTYxZWx5Y0NJMXBSX1FlOXFpdWJmYTA2VEFnYlEzMw?oc=5" target="_blank" rel="noopener noreferrer">防衛省、AI指揮統制へ政府クラウド導入 27年度概算要求</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月21日</span>
+            <span class="source">毎日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE95MGM3S25YbEowb0szdXoyRUtsVTdQbmtTUG9vbGtEZzliTzNtTG9nS1drMTNwOFNKZHlGUXpLVXlmOVpYeFBqbkNDMWxqNk01Y2ZYWFpSeldYVzRhWkk3YkUzaGpFTEdM?oc=5" target="_blank" rel="noopener noreferrer">海外製AI依存にリスク 安保3文書改定へ「国内開発力維持を」</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -180,7 +194,7 @@ layout: null
             <span class="date">8月20日</span>
             <span class="source">朝日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMickFVX3lxTE5KdkFQTUdpTzlTYkN3QXJPMGN2djEwX3ZVMldSQTZsdkdGM2xLRFlOanA0Uk54d0RlVXd1SjlrZ2RFSVRNM0o3Z0VmY3R6bE41cnRrWWdoWEc0OWFmQkRxbzMwWUR2dEl6YWt5REF1dWpIdw?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮が弾道ミサイルの可能性のあるものを発射 防衛省発表</a>
+          <a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxOamc3bUxGZ2pTUnFScnZ0eFhHTlptZ01YYk1YcjF4SEg3bzJLM1p2T0htRzg1RmVWTXZHQWJNS0NQWmpWRy1McTc5MkR0S3l5WVhEeHBkXzVNTkFOOHZhQzJWQmU3d3RSbTBxYjU3ZElVMVBRTTVJSUZuYmUxREp6TnlZT21HZw?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮が弾道ミサイルの可能性のあるものを発射 防衛省発表</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -250,7 +264,7 @@ layout: null
             <span class="date">8月19日</span>
             <span class="source">NHKニュース</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWHpRajlZdWZDYUpkcC1heC02RHRNRHVzWVFtbDVIVnIxdmpjQ0NlVHlqY1AtTGxIY0VLZkdsZXMtR1B1X3dNdXFwQzlLZVd5ZmM4TEx5aUtnSlBrWnhF?oc=5" target="_blank" rel="noopener noreferrer">防衛省 令和9年度予算案 過去最大 約9兆円要求の方向で調整 | NHKニュース | 防衛、防衛省・自衛隊、安全保障</a>
+          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWHpRajlZdWZDYUpkcC1heC02RHRNRHVzWVFtbDVIVnIxdmpjQ0NlVHlqY1AtTGxIY0VLZkdsZXMtR1B1X3dNdXFwQzlLZVd5ZmM4TEx5aUtnSlBrWnhF?oc=5" target="_blank" rel="noopener noreferrer">防衛省 令和9年度予算案 過去最大 約9兆円要求の方向で調整</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -276,13 +290,6 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">8月18日</span>
-            <span class="source">産経ニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE4xQ0Mydm5LUEdTeUNyYlp1VFFUSUhFQWxURlVrYzNJNGVDOVBtUEJYTVFheXRLOC1fNEpwMHI4aTFtcThIOHJhT2I2Yk1fbjQ2NE9md01DWkdrdmVERWVwVi1DMlVCZUxHTVc4NlNLX29RdEU4Rnc?oc=5" target="_blank" rel="noopener noreferrer">中国機2機、長崎の男女群島沖や沖縄沖の東シナ海を飛行 防衛省、スクランブル対応</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月18日</span>
             <span class="source">やさしい朝日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uNXFfLW9rV2RnYUJkZWtQaEZDZE9Tc1VNTl95RHpuUkkxWjdJOW5PcUFfeGhYeWtsdWRWRzhNS3hTcnFjNVBPQ1lKTkhjX0h6R0UyNUx5UEhVN2dvSVdNRGtUNkNxSEE?oc=5" target="_blank" rel="noopener noreferrer">楽天、ドイツの新興企業と攻撃用ドローンで提携、防衛省への納入を目指します</a>
@@ -300,6 +307,13 @@ layout: null
             <span class="source">時事ドットコム</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyTUJrdzJ3MG1ZM1BXNmFnSzZRRXFkTnd1Nm1YOGJFT3NnVmd1UjJqY3lwWjdZYTlIV2NSZ05iTWRXczI2UzBWcnlDNDBXaUw4OEdyZHhVeVFlYmNOREJKZUpOYw?oc=5" target="_blank" rel="noopener noreferrer">楽天、独ドローン新興と提携 攻撃型、防衛省納入に向け</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月17日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQSmtaZ3ZnNTBoXzhYQ1I3QjM5QmFVdGF2QVhaeGpZS3R5R0MydUhDcHlXd19ZQlloNTRSN3VGRHcyX0I0ZlVsdEYxRGVGdkRzbEl3RkJ0UUZWM3Q0MHZPYURCV2VpbDJfRzBIQnFFNlRDLU05SWxwcnlxVzRYSmFfcA?oc=5" target="_blank" rel="noopener noreferrer">楽天、独ドローン新興と提携 攻撃型、防衛省納入に向け</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -370,20 +384,6 @@ layout: null
             <span class="source">毎日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE13eS0tWUQ1ZkJsUHktNWlZcDV4d0Y3UFk4alc2dExUWkFPNVNaTThVYUhaMW5HMUhaTjhTTEhyZkpad0U3cUNvOTFHX1ZJS0JPQlk0b0EtVG5KU2NiS3lZQmJFbkpDd0la?oc=5" target="_blank" rel="noopener noreferrer">「平和都市」か「防衛産業」か 揺れる長崎が選択した道</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月12日</span>
-            <span class="source">NHKニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yQXdLTmp6NnZORW9ua0dSZjdQMVRrZ19DdjBiYlk4YkxJNkRoT3lrajBZN0FvODNuZnVsSTVudDJmTzJiQU9SemZ4dXdBZmpobk1ZMU1JcUQzZVd0WWxF?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮 弾道ミサイルの可能性あるもの EEZ外側に落下か 防衛省</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月11日</span>
-            <span class="source">Bloomberg.com</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5nTFdqb1F3WVhkQUwzMGJocmxUVVAwaUFZMzV4dGMwWjhnUVROUGFFY1ctSG9Qdk1nbmdURktMUWdZeGFKRkJFVHZKMVlYQ3lOaURpREtMOFczZ2ZJcGR1cGF6QVJRanJqaW5WdmJtR29TcldOMzdZ?oc=5" target="_blank" rel="noopener noreferrer">金融庁が防衛産業への投融資を聞き取り、メガバンクや生保に実態照会</a>
         </li>
         <li class="news-card">
           <div class="meta">
