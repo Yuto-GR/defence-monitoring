@@ -88,9 +88,9 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年08月27日 20:04</strong></div>
-      <div class="stat"><span>ARTICLES</span><strong>44件</strong></div>
-      <div class="stat"><span>LATEST</span><strong>8月27日</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年08月28日 21:37</strong></div>
+      <div class="stat"><span>ARTICLES</span><strong>52件</strong></div>
+      <div class="stat"><span>LATEST</span><strong>8月28日</strong></div>
     </section>
     <section>
       <div class="section-head">
@@ -100,10 +100,73 @@ layout: null
       <ol class="news-list">
         <li class="news-card">
           <div class="meta">
+            <span class="date">8月28日</span>
+            <span class="source">NHKニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RbFJ4WWk2d0hvM1FvbHdTZkphSnJ5R0t5S3lJb3V5bXBSX0pxQ25xM3ZNUkJUaTAxU2NoZVJxQmRReUd2NlRmVFl1LVRzSWdHZlFiNklKc2RvT0h0UE40?oc=5" target="_blank" rel="noopener noreferrer">広島 呉の日鉄跡地 防衛省が売買契約締結 複合防衛拠点整備へ</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月28日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFByQ1hPZEhtTFFTU3FOZVQ0OUR5WlQxQTQ4aHRyN0lVS2FkY1pBVFlwQ0ZiTXRPcDlJR3lZX0VacnJncEpIOC1oNVVLQjhLVjBIX3VVMi04SmJRUWtNdFJra1M4Yw?oc=5" target="_blank" rel="noopener noreferrer">防衛省、呉の日鉄跡地取得 「多機能拠点」整備へ</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月28日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE0yMUgybFBubU5uUVRtLXI5MktrbXRvOEZGM2M3V3R3dnN0dk5HemVqeWtDQ0JaQU11UkVub090ajlJWlNHYVJWdklBYzFTREV5WjBWMF9PaWkzMXlfTVg5NjBVOWpLODltVWhUTw?oc=5" target="_blank" rel="noopener noreferrer">防衛省、日本製鉄と呉跡地の売買契約を締結 装備品製造の複合拠点へ</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月27日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tQW80dzRDeEg4SURoRTNod0pOcTFNQlRfcW9lbGtKbnA5YXNLSnFCVHNZclZvbEdLZFFHU2RIUTYzRHJyY0RMZXBUaERDd21MZTRsODA3cUVielF5Q1ktWGtnaw?oc=5" target="_blank" rel="noopener noreferrer">防衛力強化反対に高市首相反論 障害者団体から手紙受け取る</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月27日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxOcUZSMXByVnd0YjdsUUFHRHNmZEtkZHFqZHQ0am55SVdrQldvUFlUMEp5V0Y4Yy1BbmVhSHdkX0ZCWHVZOF9EM0RYY2JLb2gxTklqV1c0emRBb19SelpfWmRLUDY5NVB6dk9PazBwQUJvdl9CeFp2SzJfOTRpQVpxWlpB?oc=5" target="_blank" rel="noopener noreferrer">防衛力強化反対に高市首相反論 障害者団体から手紙受け取る</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月27日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5PLWVXTGFScE5qTkVOSnJjal81WUlyV2ZsVTM4MUJrcFptOUstRm80YVpmd0ZzMVJ2TmNCNktpU1BxbW56cmRObFV2cHZRS08taEJ2Z1k2Z3p4NjRXYUV2Ym5EQUZrTU9kZUZQUw?oc=5" target="_blank" rel="noopener noreferrer">防衛装備品の供与先、新たにベトナムやパラオ シーレーンを補強</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月27日</span>
+            <span class="source">日刊工業新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE8wWmZxanJ4U01ST0paNEJVelRNblFwSzBFdEVMOEFUcllFVV9HTGo0MnFLMXRGSmVkZzJKZWlpcXVfaVBxWG5mVjlvZ0tfMS14TWtGM2dyNjlHYkhDUVN4ZGdjdHhBcHk5VGNJeUR0MA?oc=5" target="_blank" rel="noopener noreferrer">富士通・防衛省、予備自衛官の管理効率化 オンラインで手続き</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月27日</span>
+            <span class="source">日刊工業新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE85Q1FydzRHOFg1bmVubjNOWlQ3NkFDbGRnRVpLT1FUMWl3LXF0cFlHdGszNnZKOEIxY0tPcWtHN0E4VzRmN25ENHlGV2RnTTRiZzBfMmwxQkg?oc=5" target="_blank" rel="noopener noreferrer">防衛省幹部人事／防衛審議官に安藤敦史氏</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
             <span class="date">8月27日</span>
             <span class="source">日本経済新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5nRUpLT3A3OEgzSk1qWWN1ZVVWVll6UjBjVEh3OG5fcXVQa2g1SGhMZ0NtNnhKbnBTeDBQazNJNUlDR3RPR2lXNVo4cS0xUGQtUS1nTF9FQWgyTDl4TzlWUUdManEySG5JRFFhUw?oc=5" target="_blank" rel="noopener noreferrer">日米同盟不信は国益にあらず ICC赤根所長制裁で浮かぶ最悪シナリオ</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月27日</span>
+            <span class="source">日刊工業新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE80Qi05YmZ5VVA2cGIxd2dubHBXWkkzcFZmUXF3S0N3bklhRHo0b29sVW1qS3UxWWZfd3VNYVNuS3QyTEdfREVPVk1BQVg4OEFRQVB4c0kzRlM?oc=5" target="_blank" rel="noopener noreferrer">政府、防衛装備品の輸出緩和 移転三原則・運用指針改定、「5類型」規制撤廃</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -118,6 +181,13 @@ layout: null
             <span class="source">日刊工業新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE1kbXdKZFpjay0zZkp2MXhyNGpXSXVZeEdwcnA2ZkctRTNzOERSUDlhODNWTlVrVmFZRVZrZy1kamdhQ3hQOEFFTTVXeTkzV0NCRGw5am5uY0lrT2xya1VnU2ttMFRrcVBqblV6WW1uNA?oc=5" target="_blank" rel="noopener noreferrer">自民政務・安保の合同会議 防衛装備品の輸出規制 撤廃を了承</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月26日</span>
+            <span class="source">東京新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiZU9paWlZaWZNZ0xmQVY5NGpOT29XdlFyYjc5Y2tHTUpGWkJEdHU4ZUZYUXhHdk9IeFFKanl6TWgwYXZWVVVJb242b1FfQzVfdDBr?oc=5" target="_blank" rel="noopener noreferrer">米軍ヘリ基地 撤去要請 防衛省と都に 港区、アンケート結果受け</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -150,13 +220,6 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">8月25日</span>
-            <span class="source">日本経済新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNcWRDc1R1QjVjSlpOVHFWUTlPNkdUdVZjbVNiWC1iTXpDTkJEdVFNUDQtam5QeDNqOERVY3R6RHJYbkw0ZktkdkpCRkFFWlRORndNbVh3SWxIcEFVbkZ3ZjhXY19SLXBucEN6a1pLYVF3aEhsSDN5NGQ3R1ZrNXYxaEt1U0t4cUdxbDhGMVhJcVVReTVlRFo4cTRJUkdUcTl2RnBSQURibms3Skc1RkxTYVpHRVZNRWdONGlQUGxHSDJUWWFhUkJFYmhPMGs?oc=5" target="_blank" rel="noopener noreferrer">Ｔｅｒｒａ Ｄｒｏｎｅ[278A]：防衛装備庁の「迎撃ドローン早期取得プログラム」における実証試験の通過のお知らせ 2026年8月25日(適時開示) ：日経会社情報DIGITAL</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月25日</span>
             <span class="source">朝日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSblFqQ2JZTzJJTm5mMmkxdVpuRzB0YWstTFBOdmdRTk1HZk9mdzhOWjRwZWZobzZVZ2llQl9YbmpkdlBzaHdMYy01ZHRLMnJKYUVzX2s4X1h6cTZEMEdSOHZ3aXh5cm8?oc=5" target="_blank" rel="noopener noreferrer">防衛省、概算要求で「新しい守り方」の表現を見送り 自民の反発で [高市政権の安保見直し][安全保障関連3文書]</a>
@@ -167,13 +230,6 @@ layout: null
             <span class="source">日経クロステック</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1POGJyZVBkbWVFUkN1V01YMENmZjkwbjNTYklSbnJ4NlRvUUFoSVExYUFxQTVfRDFIWmZmci1lS2kwT2s3bDBmN1p6ZnJiYmlXbnhuY3R1MzVxcFNzTVVQenl3Unc3N3F4dERPMg?oc=5" target="_blank" rel="noopener noreferrer">防衛費増で増える防衛産業への転職、40代で年収増の事例も</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月24日</span>
-            <span class="source">日刊工業新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE80Qi05YmZ5VVA2cGIxd2dubHBXWkkzcFZmUXF3S0N3bklhRHo0b29sVW1qS3UxWWZfd3VNYVNuS3QyTEdfREVPVk1BQVg4OEFRQVB4c0kzRlM?oc=5" target="_blank" rel="noopener noreferrer">政府、防衛装備品の輸出緩和 移転三原則・運用指針改定、「5類型」規制撤廃</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -261,10 +317,10 @@ layout: null
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">8月20日</span>
-            <span class="source">産経ニュース</span>
+            <span class="date">8月21日</span>
+            <span class="source">読売新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE8xV2RjRVV6dWdLR1BTYXJnQWFmLXlkOUNOakZiS216MnZZZVZ5ZjVwamc2c0VEakFkTm9UbUhrZTdocHNVTlUtVDlqc3B3MmpkMDllaTZwaVdzUGVUc21hLTkxTk1PVGVaNEx4akoyM0xGYzRBWXc?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮の弾道ミサイルすでに落下か 防衛省発表</a>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5obmxWY1BGZTFKMnRxNV9jZXFFaWJTTWxQVGtEcEl5QzhkMnE3TVNyb196TXFnOTJDeUFYY0tRQzQ5dndwX2JWWXNkQzdZUG1iSVJHSUhoaTlpWWxJcFFwSFpPTFNtdw?oc=5" target="_blank" rel="noopener noreferrer">日印海洋安保 覚書署名…防衛装備品協力深化で一致</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -279,20 +335,6 @@ layout: null
             <span class="source">時事ドットコム</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVcTg2U0EzT3BMVlBhVnVHUU9zLXlhSVgwOGpKbnNjd2xQVlBvazJDYUtYX1hOc08tMC1fTXZyUmhUZUpYRHpvWWt2VU5OMXRnYjVpRXloRE5uREFiS0RwcDA5OWhwZw?oc=5" target="_blank" rel="noopener noreferrer">【速報】防衛省によると、弾道ミサイルの可能性のあるものは既に落下したとみられる</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月20日</span>
-            <span class="source">産経ニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBHaElSUmFBaklyTzlXQzhldkNnQVpHR1Y1X1ZlMXV2Sjl0ZVl1NGU1cVZxaWtpMEdOSC16d0JHRjZPQ0RRT1h6WG9jWXZ6cnJfS3N2WF9PMklHWGZWcWF5TEUtNi02MFNNTWlYTWpYM2ZmNG95WVE?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮が弾道ミサイル発射か 防衛省発表</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月20日</span>
-            <span class="source">NHKニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HeWdoXzhPVlFMS0s4V1RKei1YVWZkUjl2ZFoxSjdydHoySjRKS2hnd0xOd0pvVDVQdmdYNWUtYU5vXzdMM1ptQldlczc0WGVLaHM4MFo4ZEFMTGZQQWNn?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮が複数の弾道ミサイル発射 日本のEEZ外に落下か 防衛省</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -318,9 +360,23 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">8月20日</span>
-            <span class="source">朝日新聞</span>
+            <span class="source">読売新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxQLUFhSHF6aC1Rbm9pdWIwaVBUdUJIX1I0U21ZaTY1eThRV3Z2WTJBZTVxNzRFY3dmWGVSOTVKNDUwQ2taRFBpUlZPN21rUTktNWtkZmdsR0xPLV9DSVJ4Q1o0N3dmSlNGWmw2TDJEcV9RUHdvOHRBNzU4REI1LURLbjVUSDdBVFBCQkJKdHNR?oc=5" target="_blank" rel="noopener noreferrer">防衛省が組織改編、退職自衛官らの「支援庁」や3局増設を概算要求へ</a>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtRjI0UWNWcmMtODFpZVZaREZ1cDJJaWl4SGVJZ2tyZ0Y2VEUyMW9DTlNpRGw3eHpzWWUxOFp4bk1WV3otWUFEZGRxd2VtUm01cVRWRkoydHF4bUwyWnpEUkd1WUlhdw?oc=5" target="_blank" rel="noopener noreferrer">防衛省の来年度予算概算要求、過去最大８・９兆円…長距離攻撃できる無人機の開発盛り込む</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月20日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBHaElSUmFBaklyTzlXQzhldkNnQVpHR1Y1X1ZlMXV2Sjl0ZVl1NGU1cVZxaWtpMEdOSC16d0JHRjZPQ0RRT1h6WG9jWXZ6cnJfS3N2WF9PMklHWGZWcWF5TEUtNi02MFNNTWlYTWpYM2ZmNG95WVE?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮が弾道ミサイル発射か 防衛省発表</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月20日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE8xV2RjRVV6dWdLR1BTYXJnQWFmLXlkOUNOakZiS216MnZZZVZ5ZjVwamc2c0VEakFkTm9UbUhrZTdocHNVTlUtVDlqc3B3MmpkMDllaTZwaVdzUGVUc21hLTkxTk1PVGVaNEx4akoyM0xGYzRBWXc?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮の弾道ミサイルすでに落下か 防衛省発表</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -332,16 +388,9 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">8月20日</span>
-            <span class="source">読売新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtRjI0UWNWcmMtODFpZVZaREZ1cDJJaWl4SGVJZ2tyZ0Y2VEUyMW9DTlNpRGw3eHpzWWUxOFp4bk1WV3otWUFEZGRxd2VtUm01cVRWRkoydHF4bUwyWnpEUkd1WUlhdw?oc=5" target="_blank" rel="noopener noreferrer">防衛省の来年度予算概算要求、過去最大８・９兆円…長距離攻撃できる無人機の開発盛り込む</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月19日</span>
             <span class="source">朝日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IWTloVDFmNTMzVHlIZkZWR1BsazZIVXl4X0J4Q21RcXluNWFpUWl3ZUJITjluTkNmdGFCTjJuMFpQaksxRHQwNmJNTGtjeXpscFBKb0RrY2NqcEpJcnhUTnVzdzc4WGM?oc=5" target="_blank" rel="noopener noreferrer">防衛省、過去最大8.9兆円概算要求へ 水中発射型ミサイルの開発も</a>
+          <a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE5MNVZVTGxqTVF6d0dBYmt6Z0hfelZFMjlCellIemtUZWhKXzVLTUJ3N2pIMnFfZFVlVUVoajNILWZlWGZ3MWsyRlJnaHNVNUdhUlIzbmVFT3ZaOVkwZ0tBSDY4VmxoRk1Nb1FXZ1J3?oc=5" target="_blank" rel="noopener noreferrer">防衛省が組織改編、退職自衛官らの「支援庁」や3局増設を概算要求へ</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -349,6 +398,13 @@ layout: null
             <span class="source">日本経済新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE4zb1BCMG1kcU9HeHpJcmxUNllERVR4d1gwMkYweDJnWGxxRFd6ZnVhd3VzRGpEWlJxdVNtMXUtQ3Y0cFZJOGxIcXA0N0RDSGdSU1I4RkI0aHlWM1J5d3BQanpuMk9LaXhnNVI4WQ?oc=5" target="_blank" rel="noopener noreferrer">防衛省、27年度8.9兆円予算要求へ 長距離飛行の攻撃無人機開発</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月19日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IWTloVDFmNTMzVHlIZkZWR1BsazZIVXl4X0J4Q21RcXluNWFpUWl3ZUJITjluTkNmdGFCTjJuMFpQaksxRHQwNmJNTGtjeXpscFBKb0RrY2NqcEpJcnhUTnVzdzc4WGM?oc=5" target="_blank" rel="noopener noreferrer">防衛省、過去最大8.9兆円概算要求へ 水中発射型ミサイルの開発も</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -367,23 +423,16 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">8月18日</span>
-            <span class="source">朝日新聞</span>
+            <span class="source">日本経済新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOd25JS3k2LV9rTi11YmduRU9CQ0FxOFBJQzBqQUk1QUNpbUdjZlQ3ellHM2xCQnNPb183a0N5TUlYSTRYNHQ1d2FPbkRTRzZKaEZFR0doWVphVFlwUkVzWlphSkFLTzg?oc=5" target="_blank" rel="noopener noreferrer">防衛省が最大3局増を検討、小泉氏の肝いり構想 実現は不透明</a>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBkb2Vpb1F4X3FPMnl1Wkg5VXU0akZidXlmN3MzUnFyM2dXdl9IVmNRQkFyYVh3QzRuYTJhT2g4X3gwSC03amNnZ29fQmVrNnQ5aVpTaWc4UGN6LUN0NDNEanRtUjN5NmVrOE5iNQ?oc=5" target="_blank" rel="noopener noreferrer">日米同盟、老いとの戦い</a>
         </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">8月17日</span>
             <span class="source">時事ドットコム</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxOelhXTTFjVWU2ZE1fLUpRMHBORGg0VVAta0pxLUdic3RKQ1NTTjBIY2dnejZCTGFqUldOeklzRVN5cXFfY2VPLXFnMTNVWUx4aEtVZVRnSHVsM2ZQY2NsNXREVDVxU3JCbXJTanMzZ1IwSlI5dVFwWDdnVDlkcl94R19n?oc=5" target="_blank" rel="noopener noreferrer">退職自衛官支援庁、２７年度にも 成り手不足解消狙う―防衛省検討</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月17日</span>
-            <span class="source">日本経済新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFAyZU1fNVp3ZTYxNldZWXF3LU12RGVJYTcwYTFmT2tuUFg3NU5lbV9DZjJiWjFhR0tSZGlFN1Z1UU5ZdnlQdlM3V21tLXhBN2pDdHBrcW1TU1dlV0xoZVp4WWs1bEtLNW5Ib0VJeQ?oc=5" target="_blank" rel="noopener noreferrer">日米同盟、老いとの戦い 中国台頭がさらす安保体制の弱点</a>
+          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyTUJrdzJ3MG1ZM1BXNmFnSzZRRXFkTnd1Nm1YOGJFT3NnVmd1UjJqY3lwWjdZYTlIV2NSZ05iTWRXczI2UzBWcnlDNDBXaUw4OEdyZHhVeVFlYmNOREJKZUpOYw?oc=5" target="_blank" rel="noopener noreferrer">楽天、独ドローン新興と提携 攻撃型、防衛省納入に向け：時事ドットコム</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -405,6 +454,13 @@ layout: null
             <span class="source">毎日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBldWp5TGdvcHJGX1BrM3NTMWgyMlR3VF9MSTZwQ05LWmtyWTZmQVh6NWtEd0stVFpDQlRNX2c4UkNwcXM3bGhLWjVSVzZIaHRFWjI1Tnl0SlpvQWVSa1FxVjFBVVZMeVVS?oc=5" target="_blank" rel="noopener noreferrer">揺らぐ「平和」：軍拡の時代に 防衛産業、活況と葛藤</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">8月14日</span>
+            <span class="source">毎日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nY0txOW50Z1AxaW1jTHFBVVRkR1MzRFIzOWRYZ1FvVkw2dVFOaXktRXVPQnpfUHdUVElGZ3FTa0Z1c2NSQzhxaWVUdWIzSzB1YnBJWnJXOTZERWxvOVJCaHVuSC1EWlg1?oc=5" target="_blank" rel="noopener noreferrer">ポッドキャスト：日本の平和主義は守れるか 拡大する防衛産業の行方は</a>
         </li>
       </ol>
     </section>
