@@ -88,8 +88,8 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年09月09日 14:50</strong></div>
-      <div class="stat"><span>ARTICLES</span><strong>45件</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年09月10日 14:44</strong></div>
+      <div class="stat"><span>ARTICLES</span><strong>37件</strong></div>
       <div class="stat"><span>LATEST</span><strong>9月9日</strong></div>
     </section>
     <section>
@@ -107,17 +107,10 @@ layout: null
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">9月9日</span>
-            <span class="source">東洋経済オンライン</span>
+            <span class="date">9月8日</span>
+            <span class="source">読売新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TNlRCVzRDOHRMMkRGM096Qy1kMEpWMG5wYU1uVHRWQVp4U1phT2ZvdkhuRktKdkdUMC1OZFdDZDBKN1dmNEpDcjhGUExuNkpRdHc?oc=5" target="_blank" rel="noopener noreferrer">防衛省による国民の目を欺く前例なき160超の事項要求､｢事項要求｣で10兆円に膨らむ防衛費と文民統制への重大な疑問</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月9日</span>
-            <span class="source">東洋経済オンライン</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vRnVza1JjQU1zc09KQzlSWTJnbWx2MFB1R3I5ZjJrVXpGaHRpbHRWTWRFS2p0RjVjSTNlQmFVOC11Z2ttV2lfZk1FS2tZVFBMYVZaSW5EeW1ocnM?oc=5" target="_blank" rel="noopener noreferrer">防衛省による国民の目を欺く前例なき160超の事項要求､｢事項要求｣で10兆円に膨らむ防衛費と文民統制への重大な疑問</a>
+          <a href="https://news.google.com/rss/articles/CBMickFVX3lxTFB0aVFlbTdQUmh3Z19LQ2Z3NnVjWnRuNGhtdUUtNDh1SVNqeTZta3hrUTA1OXpQYVVtczI4NnBfcTFOVHY1aFdDalo4YkZSUkVET1BDWlY3bzNPeVNRMnBfYnNvNU04d243YU1ZWUxZQVp3QQ?oc=5" target="_blank" rel="noopener noreferrer">南西諸島の防衛力強化・南西シフトに「一定の理解」「さらなる強化は不要」…沖縄県知事選挙でも注目の争点に</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -135,10 +128,17 @@ layout: null
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">9月7日</span>
-            <span class="source">時事ドットコム</span>
+            <span class="date">9月8日</span>
+            <span class="source">読売新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yOXFPdVR2Z3hEa28zUkg2TGxLUnczYUNQa0JNUnBNb2x1bGRwdkJheWp4N1hZcDN2RHQ5MXVQS0R3d2EtZ3czZ3AybjUzdjQ3VjMwWVdINy13dVhmeFhPZEVuRQ?oc=5" target="_blank" rel="noopener noreferrer">独ＶＷ工場、防衛産業に転換 イスラエル投資会社に売却へ</a>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wWVlBSF9CdGtZMl92ZDBJYmxLaFNfVGZ4XzgyNUVKN1FIVXZ4SEFreklPOHRMc3RPTEdPNFprVUxxQ1NMYVJ2N2RKRkZUUGRYczl1NEVfcE9DeXh6YVkzNnB3a2NXak0?oc=5" target="_blank" rel="noopener noreferrer">社説：防衛装備品供与 同志国との連携強化に繋げよ</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月8日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE5STm52MU9ZaHp4SmlGeFB0azE2aU9KOFp6WVBubXMtMWxkd19IWnotS0NkV2h0Q0o3dGF3eFhYUmF6OHlneDVQNFJJR0RPNkFkTlAtSHpxTTJ5TXVtLTNrUWc0aw?oc=5" target="_blank" rel="noopener noreferrer">［社説］防衛装備品供与 同志国との連携強化に繋げよ</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -171,23 +171,9 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">9月7日</span>
-            <span class="source">日経ビジネス電子版</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wczZpNEpwdENvaFJ0U2ZjOXg4aURSbUJtS0NHaDUteGprZkhVRDhEczRfaW9DNEZsOHhXNGp2dkxfeVNRS1hCT2VuS2xxNTdWOWRueDlTYmk1RWxHTElNNVZNWVpxT3M?oc=5" target="_blank" rel="noopener noreferrer">笹川平和財団が提言 「防衛産業は防衛力そのもの」を具現化する法</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月7日</span>
             <span class="source">毎日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2cHRVOUI0clNHV0VWT19WdE0xSjcyUTZFdnZGTmFIeVowMVZaLVozOWxKM1pBazRtQ1lQX3JIR1k2RkdkTFM4TmtzNXA1ZGtsbFluTnlQX05hRzN5eEc5VlBqWVVFSzFh?oc=5" target="_blank" rel="noopener noreferrer">「防衛」に新興企業（その2止） 「商機」に沸く防衛産業</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月6日</span>
-            <span class="source">日本経済新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9peWFzb25jZzRreVdwOE9ocThmWFBLTmlGZWhBOHB4ajJsUThRSTlXQzZxUW41bXd2by1IeWxaZnloOFpCVlJFSWlpWlVHMFdiUUkyX1lJRUZJTktKcGZpOHZxLUp3ai1heFk3ZQ?oc=5" target="_blank" rel="noopener noreferrer">小泉防衛相を続投で調整 内閣改造で首相意向、安保3文書改定を控え</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -213,9 +199,9 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">9月4日</span>
-            <span class="source">日本経済新聞</span>
+            <span class="source">信濃毎日新聞デジタル</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5mWGtpaEZiV09uSzcwVXpfU3JYNldkN180ZEdCaHg1YjhMcUhyQTJGejVDbTk4MVlPdnpxd2lSTk90ZDZCdjk1b29XX0tVRXM5MllNcTVsVjZURmlZbFJKSm1EWmFSQThJLW1JMA?oc=5" target="_blank" rel="noopener noreferrer">防衛省が「AI衛星」開発へ 監視情報を宇宙で解析、迅速に反撃判断</a>
+          <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE56dXhBWVo5cU1JQ2VQYWt1QlZzc0hwbi1Xa1hhbTR6cC1rX3V4M3Zqb2R1UjNEUDZjejhIZmhpQy13RzR3Z2NfQ2pld2h1YkFpNWpTOUNLdnBUNEIxV05IWXE3TWRNdFUtcXdJ?oc=5" target="_blank" rel="noopener noreferrer">消えた「反省」、にじむ防衛力強化…たった一文字で打ち出した高市カラー 終戦の日、安倍氏への共感を上回るインパクトを残した表現とは</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -227,16 +213,9 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">9月4日</span>
-            <span class="source">日本経済新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9IRXl3U0hndmo3MzNab19hU3JvQjFoeERGZDN2QzJxUlU2MlVkNU01SWFaZ01jRlB3cm1EdUQyTFlpT2xEYmZ4VGtCaUk1R3g0ZVVSZy1qZ3RFa2NRUzJUZG1RTFNVNUNVallSeA?oc=5" target="_blank" rel="noopener noreferrer">防衛省が米イラン衝突を初分析 「無人機と地理的特性を生かした戦闘」</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月4日</span>
             <span class="source">時事通信ニュース</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TQ3F1bk96NDgyOFJlTGFwQzdGV3VFNWJaNU9JaUE4MkhISEIyR3NXZG44UWFPV1dZLVZ5Q3habFEyWTVQTWZuN2dFWmpIUEk?oc=5" target="_blank" rel="noopener noreferrer">【動画】【アーカイブ版】高市首相、防衛力強化へ「変化恐れず」 自衛隊幹部に訓示</a>
+          <a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TQ3F1bk96NDgyOFJlTGFwQzdGV3VFNWJaNU9JaUE4MkhISEIyR3NXZG44UWFPV1dZLVZ5Q3habFEyWTVQTWZuN2dFWmpIUEk?oc=5" target="_blank" rel="noopener noreferrer">【動画】【Archive】 高市首相、防衛力強化へ「変化恐れず」 自衛隊幹部に訓示</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -271,13 +250,6 @@ layout: null
             <span class="date">9月2日</span>
             <span class="source">産経ニュース</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE1WX0pwb1YzUDJiVU5FV1ZKQUYxa1RER1M2WkZHRXBjTDVGMzg0TTRtWEpPN2oxX2wtRElQd2prb0VNTEs1VHVZR2RCMVJWUkRwRGZoUzVDTTJGMDQ0WDNpTWNyQ185amhoazE2S3NmeWN6bzZlNmc?oc=5" target="_blank" rel="noopener noreferrer">ロシアがイランの超音速ミサイル開発支援か、英紙報道 武器輸出担当者ら何度も渡航</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月2日</span>
-            <span class="source">産経ニュース</span>
-          </div>
           <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNSE9KWkg4TWMzdngzNWY5dHlOcnNUcFRjbjVFNUR5VkVfTVptS0d1UEpDdno3UG9ldDMxNW52bC05eDlVRlkyTFBBdmRpUGhnQUNHM3hlNjBXdHJmb3pfN2sxUmc0R0p2bTFBelpQelZ1Y3F4UVYwYTRBSmNTYllpUVpTNVgwbXM1T3VpZ3N3aG96VTQwRW1qLWo0eWM4SG1Yd2c?oc=5" target="_blank" rel="noopener noreferrer">ロシアがイランの超音速ミサイル開発支援か、英紙報道 武器輸出担当者ら何度も渡航（写真・画像 1/1）</a>
         </li>
         <li class="news-card">
@@ -297,13 +269,6 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">9月2日</span>
-            <span class="source">日本経済新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBYRl9LNkk3am9rdzUwS1pTak1Mb2dqS2dJdU1XOUNfMnktY2MweGdWMlA4SUhoeXUtRDVpTnViZnhaaEV4dTgzV0dISEUxWHlfNXUxaVp3alVUaFV0QUVMckxwMHFyX0JXWG5tMA?oc=5" target="_blank" rel="noopener noreferrer">防衛装備の国内製造強化へ提言 笹川平和財団、自衛隊の外国人登用も</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月2日</span>
             <span class="source">時事通信ニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vYWwzR3BQUkhCYVFCZUVyQjZFWU1DbVZCRmgzYW5wZUlRbzJTc2laOGR1Q2s1Sm1NUEtLNnNhQ3FBU0dsQ2M0S2VWM2dlWUFOWWxiaw?oc=5" target="_blank" rel="noopener noreferrer">◎高市首相、防衛力強化へ「変化恐れず」</a>
@@ -318,16 +283,16 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">9月2日</span>
-            <span class="source">時事ドットコム</span>
+            <span class="source">時事通信ニュース</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPamo2ZlpPdGVDQjdleTNRODBqckVwRlAtcjVaZjl2NlZNWTN0MFJLLXdidXpheHQ2RW11ZU10MzhWRndnYjJxTjE0amUzYnh4V0g0cGViNVV6Q0Y2YUdhMlZhNkJjZEV6S1M1WmdXX1VnR3ktTGZDa282WjZDUElCTnRB?oc=5" target="_blank" rel="noopener noreferrer">高市首相、防衛力強化へ「変化恐れず」 自衛隊幹部に訓示</a>
+          <a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wampMd0ktaXVRUzhac0RHdEdOQ0NKbVFHaGdjc3lfcFY0M1J5dTBUdGRXVDR6NTZ1d2UxLXN6cEpodkVWcm5mYUNpdkhlb19FLWRLb0pqdTZ6bzMzT0E?oc=5" target="_blank" rel="noopener noreferrer">高市首相、防衛力強化へ「変化恐れず」＝自衛隊幹部に訓示</a>
         </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">9月2日</span>
-            <span class="source">時事通信ニュース</span>
+            <span class="source">時事ドットコム</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqZTRPT2FBdzZDdWkzQXAzQmlHblNWUlB3a3BXVnA1NjllRzZIRk5tck05NjFyRWhpdksyWnJNZlNJU1BwZlZIdjZmSzJmeHdqZWxwMA?oc=5" target="_blank" rel="noopener noreferrer">高市首相、防衛力強化へ「変化恐れず」＝自衛隊幹部に訓示</a>
+          <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPamo2ZlpPdGVDQjdleTNRODBqckVwRlAtcjVaZjl2NlZNWTN0MFJLLXdidXpheHQ2RW11ZU10MzhWRndnYjJxTjE0amUzYnh4V0g0cGViNVV6Q0Y2YUdhMlZhNkJjZEV6S1M1WmdXX1VnR3ktTGZDa282WjZDUElCTnRB?oc=5" target="_blank" rel="noopener noreferrer">高市首相、防衛力強化へ「変化恐れず」 自衛隊幹部に訓示</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -387,31 +352,10 @@ layout: null
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">8月27日</span>
-            <span class="source">日本経済新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5nRUpLT3A3OEgzSk1qWWN1ZVVWVll6UjBjVEh3OG5fcXVQa2g1SGhMZ0NtNnhKbnBTeDBQazNJNUlDR3RPR2lXNVo4cS0xUGQtUS1nTF9FQWgyTDl4TzlWUUdManEySG5JRFFhUw?oc=5" target="_blank" rel="noopener noreferrer">日米同盟不信は国益にあらず ICC赤根所長制裁で浮かぶ最悪シナリオ</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
             <span class="date">8月26日</span>
             <span class="source">毎日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQRk13SE0yS0NLeGZtSFpBZ3dGQlFKbURqckJzR3lqZDBTRGlMQkpMUmRwWTFWVDhrODdUT2VPSlZMRGg3LXQ4NWdqY2NjU2htZ2dwTk1iNzhRaDFmdDZiM0c4R2ItV3A3?oc=5" target="_blank" rel="noopener noreferrer">揺らぐ「平和」：軍拡の時代に インタビュー編 戦前回帰の武器輸出 他国への影響力拡大図る 纐纈厚・山口大名誉教授</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月25日</span>
-            <span class="source">日経クロステック</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1POGJyZVBkbWVFUkN1V01YMENmZjkwbjNTYklSbnJ4NlRvUUFoSVExYUFxQTVfRDFIWmZmci1lS2kwT2s3bDBmN1p6ZnJiYmlXbnhuY3R1MzVxcFNzTVVQenl3Unc3N3F4dERPMg?oc=5" target="_blank" rel="noopener noreferrer">防衛費増で増える防衛産業への転職、40代で年収増の事例も</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">8月25日</span>
-            <span class="source">Reuters</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5" target="_blank" rel="noopener noreferrer">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約</a>
         </li>
       </ol>
     </section>
