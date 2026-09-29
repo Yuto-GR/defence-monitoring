@@ -88,9 +88,9 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年09月28日 15:34</strong></div>
-      <div class="stat"><span>ARTICLES</span><strong>46件</strong></div>
-      <div class="stat"><span>LATEST</span><strong>9月27日</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年09月29日 15:43</strong></div>
+      <div class="stat"><span>ARTICLES</span><strong>47件</strong></div>
+      <div class="stat"><span>LATEST</span><strong>9月29日</strong></div>
     </section>
     <section>
       <div class="section-head">
@@ -100,24 +100,31 @@ layout: null
       <ol class="news-list">
         <li class="news-card">
           <div class="meta">
-            <span class="date">9月27日</span>
-            <span class="source">産経ニュース</span>
+            <span class="date">9月29日</span>
+            <span class="source">日本経済新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5hM0lCVVdqcWtjMzlhVHFYZkNpTzF2Y3Vyejdteml5Um93ckZFLUg0Rlc5NHZyUW1iRVNaeDlkeWRweW95TmlMNW5PekVCbS1WaWcwQW9hLWxEeDFZQXNFQ0FBdk5DRXQ1RnpoQVpmR29ETHRuWFE?oc=5" target="_blank" rel="noopener noreferrer">防衛産業報道に必要な視点 新聞に喝！ 国防ジャーナリスト・小笠原理恵</a>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1FM0FVVDRDbmh3bjNXSFhCYW45emQzYXJRb0N5LUpRS0F4aHMzbWxqam5DTndHRmtnYk1XcGFyRDVJajhFVnF6TDItUC1VYkxBQ1BMTTVMdzVzVEdKNGZka1Myazhrbm1uelFGRQ?oc=5" target="_blank" rel="noopener noreferrer">中国軍とどう向き合うか 安保3文書改定、日本の選択を専門家と解説</a>
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">9月27日</span>
-            <span class="source">産経ニュース</span>
+            <span class="date">9月29日</span>
+            <span class="source">日本経済新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOLUpYaGZzWkVlM3ZlNlVZd1ZUb0lEUExZOFdFRklhQy1rSVo3aDlCZUlPcURNbTg3Z1RrTUR3T0hYT3hGVTJ1dGVzQ1BPWGxTR1liclotZktBQnFaZkc4OV9LZU00eS0zdkIyWjRwdjhfVUJyMk5fQXdkajJGQ1VQSUdJSzV4Rlh6WU1OM0g4VFNHUkVYUkQxVWJIUExQTWFzbkE?oc=5" target="_blank" rel="noopener noreferrer">防衛産業報道に必要な視点 新聞に喝！ 国防ジャーナリスト・小笠原理恵（写真・画像 1/1）</a>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBScTVGZDZ0aUxhSkY3cUFKTXZtazE4cW9KMEo2dWZEdklWcS1vZVhOc0tCVFFqc2p6eXZVTzNRMkxsM0d5YTlCMGJBNjVJT3ptNFlQQnh5cng4Y082V1I5cDV1czQtVHFsdWFVMQ?oc=5" target="_blank" rel="noopener noreferrer">振るわぬ米ドローン株、中国製締め出しへ 日本は防衛産業優遇で好調</a>
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">9月27日</span>
-            <span class="source">東洋経済オンライン</span>
+            <span class="date">9月29日</span>
+            <span class="source">日本経済新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yY1AtSVRaY2NFbEt4UGxhLXJUVERaQWVrY3hnSGJvOXFPY2V1ZjNJN0hMa2NQdFBBbmhRQVoxVDJNUGZhSjR1M3Nqa0hiajVFaTctSl9xTDZBVlU?oc=5" target="_blank" rel="noopener noreferrer">｢飛べない国産哨戒機｣稼働率2～3割のP-1､なぜ失敗は放置されたのか―防衛省･経産省に欠けた航空産業を育てる能力</a>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1XTzljbjk2YnlWT3ZzeTN1eExLcFNCQ2YzbFFDUjgwMHFTSkQwWi1QblhwdUNQTElQbjRPR1RxM09ERHNuQ2RjMjBPNFM0YkY2NWhRUnJXbXpmZlN0N2JqN01INk9FVl9raVRobQ?oc=5" target="_blank" rel="noopener noreferrer">小泉防衛相、タブーなく核兵器・原潜保有を議論 安保3文書改定巡り</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月28日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsN0ZZeHFvbGJkZ2ZqMXZIODFKMzBibVVBLXFvaEVpUHVJSlRHMkdQUm9rSHNlYjhjNXViVG81LUZvcjZOcEtDT0xpTXFMNnFwN1BzcE5kVmgzMHMzZDZtbDFjdllGNGc?oc=5" target="_blank" rel="noopener noreferrer">隠す時代は終わった？ 防衛産業の積極発信に動く重工・電機大手</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -132,20 +139,6 @@ layout: null
             <span class="source">朝日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vQmFiX2xjckpUMVdaSXRMNmt5ZHUzZDVqRDJUV1FndlcxMXk2bjdxUkMwU0Jqb3NwMkRyNFBxUjdGeHdyU0YzMS0yQ1RnLVFfamVGOUJsOUFWXy00?oc=5" target="_blank" rel="noopener noreferrer">（フロントライン 政治）日米同盟と法の支配 国連で直面した難題 米のＩＣＣ制裁、深入り避けた首相</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月26日</span>
-            <span class="source">産経ニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBBYlppU3dsdjZyU3VWWXdad2tuVndhU0YwVUhkSHh6bE1RUlJfb2tzb2ROVWh0eGU3bEdPbHdIckVVeUFfaEVhUVdfbl84UmFLekE3bzV5OXgzbzZFZElwYTVNVjM5cWJhdlBFc0N1dmRiUm9KU0E?oc=5" target="_blank" rel="noopener noreferrer">長射程ミサイル「25式」日米演習に 敵基地攻撃、10月初投入 防衛省方針、熊本配備</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月25日</span>
-            <span class="source">産経ニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE16VC1xNVdVcmR1Wnc1QzVJaUR4aWVURHY5bTUwSzllN1o0TmlybjQ1TFh2Ym1sV3Azc19jcGJqaXBJZzh6ZU9mZkNXdVU2MnYwTjhIUHNIT1oxUFZhcjJrTURLcEREaHFFcnRTXzZFaHBqWU1VaHc?oc=5" target="_blank" rel="noopener noreferrer">先端技術取り込みへ防衛省が新たな調達制度 スタートアップの育成狙う</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -227,13 +220,6 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">9月23日</span>
-            <span class="source">NHKニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1STF9jRTZ3UV9abHRZRGg2eUh4UzdaZVpVWjNxYVFLN1NjdHg4dUdUX014b1RRY3ZmVUNjeW5EYVNMb1g0clVuMmNZNkg3dGtOanlkajNaQURuMVlKUXRZ?oc=5" target="_blank" rel="noopener noreferrer">高市首相 記者会見“日米同盟関係さらに揺るぎのないものに”</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月23日</span>
             <span class="source">朝日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XVk5wOGpHTWVsQzlMNWJTYm81ODdJcGI4cmQ3eDVSTjU5cm1FRU1CakU2TXFLZXo5Z09qa2dHZ3l0SXN2T2dQdG1LRmlXSi1SNGRuQkhZQ3FXODJl?oc=5" target="_blank" rel="noopener noreferrer">（大転換期の安全保障）新しい戦い方：１ 技術が変える、戦争の形態 防衛省も攻撃型ドローンの開発急ぐ</a>
@@ -251,13 +237,6 @@ layout: null
             <span class="source">Reuters</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5NYUp1RWRrY2RZaWpxTGVYMy1WZDYwcGVDRWo1bHYzclNtVDkxUjJXOEozY0c1SVVwc0J2MFlFVm1BOWFtMlJkNGtwWFZkWnRfVVFFc0QxQTVialpZTHRaSzl6N2VwbXNJLVRCUHFvMVdadzIwTm5iV3o1c3NFZm8?oc=5" target="_blank" rel="noopener noreferrer">日米首脳が会談、高市首相「日米同盟の強さ示す」</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月23日</span>
-            <span class="source">Bloomberg</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE9STm05VGx0VGg1a3IyMGxMUmxVMkhTWm9uU3docVk1MTVkOUdxM2ZOMTJMWUJ5ZjN2Vnhmc1JmQUtSUnF5d1QwMWZuRTBZWUJET2lyeXNjcVliRnptQlJFeHFzMWtmQkdHY1ZBbnhZVHZUVEdPemZJ?oc=5" target="_blank" rel="noopener noreferrer">高市首相がトランプ米大統領と会談、「日米同盟の強さ示す」と強調</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -289,10 +268,31 @@ layout: null
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">9月19日</span>
-            <span class="source">Reuters</span>
+            <span class="date">9月20日</span>
+            <span class="source">時事ドットコム</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPUFpkQWNHQjVpd0lRMXhBUi1MVVlxQzdkQjhiWE1rZGJLQWZPNVVLUUwtdnBoNWFMcDhjeVRWOUhRRnh2bXlyN2V0Y0E2aW9NLTVIZk11dHJnTU1fTWZ5Vm03dVl5b0VJcXFidVhLdG15M0haNTRfVXJnUEEwZkFkOTVocjU3Nms?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮から弾道ミサイルの可能性あるもの発射、すでに落下か＝防衛省</a>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZUVlyMFhHT0sxUWZXM2MzYUpJU1kwVkxoamlxcnVqZk9oeWI5aUxUSkFNVGRqV2h3V0pSOU96aFdFWnJmb1JlTjhqMlZLSTJXMFU0aWx5dS1jSGFFUV8zbTNySDNHdw?oc=5" target="_blank" rel="noopener noreferrer">【速報】防衛省によると、北朝鮮から午後６時すぎに発射された弾道ミサイルの可能性があるものは日本のＥＥＺ外に落下したとみられる</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月20日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE04T1pMeUtocm1BU0JVRndNZV9LejYzZmJvY3RGQ1hjN29IdFMtejdHa3duWTFjbnJpR3VDOE5lbEZDNUR6NEk4UFFwcERNb0RRR05sVUVfMU4wOFB4QVVzNnFjTEdFdw?oc=5" target="_blank" rel="noopener noreferrer">【速報】防衛省によると、北朝鮮から弾道ミサイルの可能性があるものが発射された</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月20日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ESVo3QWhtRmlLVHViTW9EMVVqaFBHaTVDd3BwMmFaWnUzZjBSQW5IUkFuQkF0R2RLa00yR1UzZk9FYmFsTkMta20zalpzUlhud29xY2dGdGFDTnA4dmhEVGYyNl9NZw?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮が「弾道ミサイル」発射、すでに日本のＥＥＺ外に落下か…防衛省発表</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月20日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wNzNwd09ONmdLSDc4TEJIU0NIMVI1OENVVHFtMDNYMlVjTjNmT0E4dU5hTEJwak92TmI4QTZtbndIV0VOYnVQZ2hjOFNZb3BDNkZKMHFCeTV2bWRuR0tadmlER2JWZw?oc=5" target="_blank" rel="noopener noreferrer">【速報】防衛省によると、弾道ミサイルの可能性があるものは既に落下したとみられる</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -352,10 +352,10 @@ layout: null
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">9月17日</span>
-            <span class="source">NHKニュース</span>
+            <span class="date">9月18日</span>
+            <span class="source">信濃毎日新聞デジタル</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRFlYOE5zUU1mcy1vNzRCQkVybUtoU18wR3FWc29CRXdoMnVwcDVBTUpxX21QNXBuOEZFMjNodmxNRTB2M3R2eGtEcmt5WVhjMTB1bUFvM292VTRnMXR3?oc=5" target="_blank" rel="noopener noreferrer">防衛産業への投融資 全銀協・加藤会長「個別に判断」</a>
+          <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTFBnV1M0Vkk5Ukd6WFhUS0JlMzBQSzJnRkpsaW9oZENVRVZKUVhCVm51LWh1SndocXlCSDlDeERUTmFfUDNjU0s1RTZYOVFIaVVGbkhKZ21FNmsxRTZCZUplU1FmTnRvY29qNWY4?oc=5" target="_blank" rel="noopener noreferrer">安保3文書「未来を左右」 留任小泉氏、改定へ決意</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -367,16 +367,16 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">9月17日</span>
-            <span class="source">朝日新聞</span>
+            <span class="source">日本経済新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMLWZET0JRNHd3YzljSkx6dEtIaUMxQ0UzYVFJWE5hV0hzcFplWjlhRGJoYWJTX1l4QVFOLVpIMEFlYmQzS0pmQ2ItaDlMWW94UnU4ZTNrdmp1VjVCWmdGcWxqZmw3Sk0?oc=5" target="_blank" rel="noopener noreferrer">安保3文書改定の有識者会議 政府横断的な取り組みや防衛費を議論</a>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE90ajNzN2VpMUI3N0ZqZTZnQkFNd3A1Y29NbUtkRi1iM1lfbWFueU5Jc1VYSnV1bU9qdTJaZ0RpNVdBSm1Rc2xhcWdVTlk0Z21RTVhabWZCQUhwMjVxU3g4N3ZMN1JxSU9DSjZNNg?oc=5" target="_blank" rel="noopener noreferrer">今日の株価材料（新聞など、17日）三菱UFJ、防衛産業に融資</a>
         </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">9月17日</span>
-            <span class="source">NHKニュース</span>
+            <span class="source">朝日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uR0hMbmVuVlIyaWM5ZUN6MEp1WU96bENuMmIwbGpLTm5zaTVoMHg5NUNEMkVkSW02dDc3R0ZZNzJqY2QtSlZ4bi1rYTZPTEJPS2VpRUlUbmM2SnZScGhZ?oc=5" target="_blank" rel="noopener noreferrer">安保3文書の改定に向けた有識者会議 AIの研究・開発求める意見</a>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMLWZET0JRNHd3YzljSkx6dEtIaUMxQ0UzYVFJWE5hV0hzcFplWjlhRGJoYWJTX1l4QVFOLVpIMEFlYmQzS0pmQ2ItaDlMWW94UnU4ZTNrdmp1VjVCWmdGcWxqZmw3Sk0?oc=5" target="_blank" rel="noopener noreferrer">安保3文書改定の有識者会議 政府横断的な取り組みや防衛費を議論</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -405,6 +405,13 @@ layout: null
             <span class="source">毎日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GZEtuNTV2VTJPZnNMcEpuS0QxQ0JiMGk0TkVGeGhqVGtvVzIzOEpxRXBHWEwxTi1hNzFSbkZ3RTlmdTBaZmlTMmZkX2JRRWZvRkFUczg4bFZBNlBvX1NrV19aRjRaTHV2?oc=5" target="_blank" rel="noopener noreferrer">防衛関連企業の融資、三菱UFJが慎重姿勢を転換 審査進めやすく</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月15日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE1ubjJoZEJBSUhOQldvaEVpM28telRnYTlxQkl1TXlkNFVIc2lfWUp2Ykg3S3ZzWlZSUHdGdmk0S2JCeGc0WFFuSWRDS04tb2hYMTNYd0dZQUpWR3YzQmpPbjFBQlI3MEZIRnc?oc=5" target="_blank" rel="noopener noreferrer">ＡＢＥＪＡ[5574]：防衛装備庁と「視覚言語行動モデルの検証及び運用基盤検討役務」の契約を締結 2026年9月15日(適時開示) ：日経会社情報DIGITAL</a>
         </li>
         <li class="news-card">
           <div class="meta">
