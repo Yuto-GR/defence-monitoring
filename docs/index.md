@@ -88,9 +88,9 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年10月04日 15:42</strong></div>
-      <div class="stat"><span>ARTICLES</span><strong>35件</strong></div>
-      <div class="stat"><span>LATEST</span><strong>10月3日</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年10月05日 15:45</strong></div>
+      <div class="stat"><span>ARTICLES</span><strong>37件</strong></div>
+      <div class="stat"><span>LATEST</span><strong>10月5日</strong></div>
     </section>
     <section>
       <div class="section-head">
@@ -100,10 +100,24 @@ layout: null
       <ol class="news-list">
         <li class="news-card">
           <div class="meta">
-            <span class="date">10月3日</span>
-            <span class="source">読売新聞</span>
+            <span class="date">10月5日</span>
+            <span class="source">産経ニュース</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKSzRKQmVDWUVraEx0ZDh3bGV0M2phMnRuazlJZW9Cb0R5dUFSV2t4VERuWC1LMEkxSVlPa3hqMERnRjJoY05zeFctWElTcmFqR3ZlTE50Z2E1V0M1aU9TS2pQQVNCdw?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮が弾道ミサイルの可能性があるものを発射、すでに落下…防衛省発表</a>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE53NngzcXc4cnFSbHpQdEpZcWtGaXZ2TVdsLUx4WHdCVlVJeHE2UUZBUFR2dkVqVXhoV3VKVUFIUktEbHJ0aGF6MXNCMXlURXVLMXI0dUhmT2N6a1RIbGE5MkpGczN3aVZSN0JkbndHTWNwZFY0ekE?oc=5" target="_blank" rel="noopener noreferrer">＜独自＞先端技術の防衛装備実装へ官民連携構想 安保3文書反映、米国の大学機関がモデル</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月5日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNaXlGRDBpR01DYk1wRVVGd0pSam80RkdFVmF1WG5VVEZNUTJrWFp2Vkl3NXczWDRsU1NuUGhLRkRGRVdRNGo4anFEX1ZUNU5BVzlCMVYxMmxEZlo3Y1VPbWwwSWNhVmU5R3FCMDJzbnU0Z0RYZHUtQUFfVkp3XzNzX1pCcDZSYXkxRXYxTWJoMzdPRVhyeHlVem1zVVVLUTVnQUE?oc=5" target="_blank" rel="noopener noreferrer">独自＞先端技術の防衛装備実装へ官民連携構想 安保3文書反映、米国の大学機関がモデル（写真・画像 1/1）</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月4日</span>
+            <span class="source">信濃毎日新聞デジタル</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5aZE5UMFBLR3R2YnlvamVVV0F4R3lveXdxaEVEU0djQW5Kcy1PWGFJUVJZM1VIVjlNdHJHSG95OFhKR1hEa2xoYTVqYldkT1BQN1h2NUhWSkYxMVVTbEYtZkg2ckhubnhBZ056TzRUZFI?oc=5" target="_blank" rel="noopener noreferrer">日米同盟と積極財政の行方 佐々木毅（東京大名誉教授）〈多思彩々〉</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -122,9 +136,16 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">9月30日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxObXJ0OEJBcnVLTnVGLWNtRVJkR3JlZVBYZjVidlNaRTBiRWNVc0pmQWk1MmZZR3ZRblowM1F4MVZrMXRQbHEyMnFtTFFLNjU2RVpsbVJ4WjRfaEN2cVNDdXVOS1dhaC1yUFUyUmhnaHVaN0swcTRqOHFzMUhMRjNlejFpRHFZdzJPSDBVYmpOOXpBY3dvX09ScFBORGdhZ0cwNnc?oc=5" target="_blank" rel="noopener noreferrer">防衛装備庁・下北試験場を捜索 青森県警、陸上自衛官が逮捕された贈収賄事件で（写真・画像 1/1）</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月30日</span>
             <span class="source">ニュースイッチ by 日刊工業新聞社</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiR0FVX3lxTE5mWjdmRW5IRTl3TGtNUENlVkhFV3R2dHd3Vi1xWGJLdldOb2hhS3ZOd1pnOVU3a3RDSUZUbV9MbWVnZWxISV8w?oc=5" target="_blank" rel="noopener noreferrer">垂直ミサイル発射システム搭載潜水艦、防衛省が開発推進…長距離防衛能力を向上</a>
+          <a href="https://news.google.com/rss/articles/CBMiQkFVX3lxTFAtT0lWV29zV21xdWxHY1FIVVl5N2dUckxDRTRZSnBvMzdZRXNUZUM3UURxNU9SdU9lUU04RDhGdU83QQ?oc=5" target="_blank" rel="noopener noreferrer">垂直ミサイル発射システム搭載潜水艦、防衛省が開発推進…長距離防衛能力を向上</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -139,6 +160,13 @@ layout: null
             <span class="source">日本経済新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9QRmdkdk5KZkNvbzVUMU5ZWjd5Y2xNdGFuYkNHS2J5eDQyRG80SGZORXB4ZDZPYXBFSS14RS05Y1hVUmNhOTRFNFBzVUszNExyOWtuRjFOdkVDOE1EaklnVGtpa3IxdDh1YXRfMA?oc=5" target="_blank" rel="noopener noreferrer">対外有償軍事援助 同盟国に防衛装備品</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月29日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBheXExT2JmSVZXN011amZVbnhFdG1EZzctTUtPLWNWQjV3MXBBQTVlbzEwRmNXN1pCczlaS2FTUHVrTVF0OHBXdGFNckx5N0oxdHVvdU9fUEVRSUtWV3R0VjBfR19mOTA?oc=5" target="_blank" rel="noopener noreferrer">陸上自衛官を収賄容疑で逮捕 防衛装備庁試験場の入札めぐり 青森 [青森県]</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -171,9 +199,16 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">9月28日</span>
-            <span class="source">読売新聞</span>
+            <span class="source">朝日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sa2w3M1V5bG5Kd2dfM2dKZ1pGQm5aVEVZa2wtVm9JVVVTd2lzZDRnX1I2eWpiVGhPOEJQeXJ3SnppYVJiZG1oXzFFc2N1WERhaS1xRHJHOVNkdmRvVndHWmIyc1k4QQ?oc=5" target="_blank" rel="noopener noreferrer">防衛省 装備品に新興企業技術 新支援制度 公募開始へ</a>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsN0ZZeHFvbGJkZ2ZqMXZIODFKMzBibVVBLXFvaEVpUHVJSlRHMkdQUm9rSHNlYjhjNXViVG81LUZvcjZOcEtDT0xpTXFMNnFwN1BzcE5kVmgzMHMzZDZtbDFjdllGNGc?oc=5" target="_blank" rel="noopener noreferrer">隠す時代は終わった？ 防衛産業の積極発信に動く重工・電機大手</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月28日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2VmpZenlyQWlRZHNPNjZqajR4TGhzLUVlUm5yYnZYYTFzTlptQUV4QTBsbnNkQk01Z1AtWGVmcVdpTkVzbnBUekJQay11QWpTRFFrX3lMU0NFVFh3dVp3Zk9TSUZBdWs?oc=5" target="_blank" rel="noopener noreferrer">防衛装備品にスタートアップの技術取り込み 参入促す調達方法を導入</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -198,10 +233,10 @@ layout: null
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">9月26日</span>
-            <span class="source">産経ニュース</span>
+            <span class="date">9月27日</span>
+            <span class="source">朝日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9tamJIOE1KWnhFMW9vWWg5XzEtcnhObUdad0xXMlBkSHVqeEt6c0NDV1V0NGJmNDZXQmNXX3ltTnZjSmFoVHlEa0U3SmJDWUkwcjVFQ2ExMm8ydldsTFRtWXE2MXNTSDNHeTZ1aVV1U3Rkak9hdnc?oc=5" target="_blank" rel="noopener noreferrer">「日米同盟ともに強化」小泉進次郎氏、米中「同盟」演出の日に強調 対中象徴の米司令官と</a>
+          <a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vQmFiX2xjckpUMVdaSXRMNmt5ZHUzZDVqRDJUV1FndlcxMXk2bjdxUkMwU0Jqb3NwMkRyNFBxUjdGeHdyU0YzMS0yQ1RnLVFfamVGOUJsOUFWXy00?oc=5" target="_blank" rel="noopener noreferrer">（フロントライン 政治）日米同盟と法の支配 国連で直面した難題 米のＩＣＣ制裁、深入り避けた首相</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -212,10 +247,17 @@ layout: null
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">9月25日</span>
+            <span class="date">9月26日</span>
             <span class="source">産経ニュース</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE16VC1xNVdVcmR1Wnc1QzVJaUR4aWVURHY5bTUwSzllN1o0TmlybjQ1TFh2Ym1sV3Azc19jcGJqaXBJZzh6ZU9mZkNXdVU2MnYwTjhIUHNIT1oxUFZhcjJrTURLcEREaHFFcnRTXzZFaHBqWU1VaHc?oc=5" target="_blank" rel="noopener noreferrer">先端技術取り込みへ防衛省が新たな調達制度 スタートアップの育成狙う</a>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9tamJIOE1KWnhFMW9vWWg5XzEtcnhObUdad0xXMlBkSHVqeEt6c0NDV1V0NGJmNDZXQmNXX3ltTnZjSmFoVHlEa0U3SmJDWUkwcjVFQ2ExMm8ydldsTFRtWXE2MXNTSDNHeTZ1aVV1U3Rkak9hdnc?oc=5" target="_blank" rel="noopener noreferrer">「日米同盟ともに強化」小泉進次郎氏、米中「同盟」演出の日に強調 対中象徴の米司令官と</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月25日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YNmdhRmxGYU1sVm5YaHVuYkswZ0ljaFlheU5IVm5kd0t6MmVsZ19zcUk2UVJnQ181a1huZHlSaHNvS2x4MVVYaW5GRGdzR1FoMzZ6WldWa1A5S3I2TTFabGZubw?oc=5" target="_blank" rel="noopener noreferrer">無人機開発へ新興企業支援 防衛省、資金配慮の新制度</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -229,35 +271,42 @@ layout: null
             <span class="date">9月25日</span>
             <span class="source">時事ドットコム</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YNmdhRmxGYU1sVm5YaHVuYkswZ0ljaFlheU5IVm5kd0t6MmVsZ19zcUk2UVJnQ181a1huZHlSaHNvS2x4MVVYaW5GRGdzR1FoMzZ6WldWa1A5S3I2TTFabGZubw?oc=5" target="_blank" rel="noopener noreferrer">無人機開発へ新興企業支援 防衛省、資金配慮の新制度</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月25日</span>
-            <span class="source">時事ドットコム</span>
-          </div>
           <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxNWGhGWjE2Snppek9Id0JrVlB5VlIwTUZzWDd3S2kyR3BMWU81YVl4cUVWRkVzZnhPajhmUVhyRXVjTUR2eDFwWVNfbmtIUFMxN3RnQ1E4OW0xWk5RZ2hHNzg0RnZhVjluYVY1bGtHbDJFWk55RzF0U0JOMHFXaWRrdkFB?oc=5" target="_blank" rel="noopener noreferrer">無人機開発へ新興企業支援 防衛省、資金配慮の新制度</a>
         </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">9月25日</span>
-            <span class="source">読売新聞</span>
+            <span class="source">産経ニュース</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMic0FVX3lxTFBINEFRU0hHT0R2TGxIdmJPemM5WlNFNDJOdnZFR1liMGF4TnU3VXM4UWNTbE9XblFGcmc4Sm5MTmI1SkZGaG5UNjFWdGo1RW5XM2g3ZTFseEdFcUVKUlhmODU0OFVsTnFZMHRKSERKREhNaHc?oc=5" target="_blank" rel="noopener noreferrer">鳥取：防衛省、情報提供遅れ謝罪 無人偵察機墜落で知事に ：地域ニュース</a>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE16VC1xNVdVcmR1Wnc1QzVJaUR4aWVURHY5bTUwSzllN1o0TmlybjQ1TFh2Ym1sV3Azc19jcGJqaXBJZzh6ZU9mZkNXdVU2MnYwTjhIUHNIT1oxUFZhcjJrTURLcEREaHFFcnRTXzZFaHBqWU1VaHc?oc=5" target="_blank" rel="noopener noreferrer">先端技術取り込みへ防衛省が新たな調達制度 スタートアップの育成狙う</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月25日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54aGx3UkRqY1JJRjc5OERvMTRSN19ZWjZGOVBVYVFIbVdqcFdjYUdsSEM2VjZiUmtxaVBJN21fMDlTaXEzUGJQR2o2SEZSTHViY1JmRmFmQmttRzJsZTNVenZkYXBuSUU?oc=5" target="_blank" rel="noopener noreferrer">スタートアップ企業、防衛産業へ続々参入「新しい戦い方」の担い手に [高市政権の安保見直し][安全保障関連3文書]</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月25日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0R4MHpfRG9jdnpJNHFwS2o5VUNOdGVFVmg4ZlhndUNWaWpBVml3SnhleWFQNlNPVnN3MmJDTV9oRlhLdHBTdXltby1BRUFTWUE0VDU1bld6bVMyZ0hVTDd6Vm81NVQ1ZlhlRHBiRXZwUGNTTTJwbGt6NE4yY2EyTVlYaDRxeVVfaGhqX2xhRzlOdw?oc=5" target="_blank" rel="noopener noreferrer">スタートアップ企業、防衛産業へ続々参入「新しい戦い方」の担い手に 動画</a>
         </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">9月24日</span>
-            <span class="source">読売新聞</span>
+            <span class="source">朝日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rR0h3MEVnSDBJMnJYR2pfWUJCZHJibldHRDdWLThaWFctTTg2WkFFUGFBcEl3WUlVdnBTTWwzWExuQWdKeUVrek1ZZnFNUUp3dGRGb0V5c0x4UTlmb2pKNnVZZzllUQ?oc=5" target="_blank" rel="noopener noreferrer">日米首脳会談、対中国で「緊密に連携」一致…ＡＩ・重要鉱物の協力で日米同盟「さらなる高みに」引き上げ</a>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55bjVZSGM5THZPWTZ3bGhVS3NtMEpvQzNxWjBzRS1IQmFGc3FkNmVzcFBDcnJjX0REQ0VGMmVqLXkyblh1eGxGakdkUUFTYnZYYkdsYWNqWWhVVHhhd1p0cWI2R0gxUVE?oc=5" target="_blank" rel="noopener noreferrer">高市首相、トルコ・エルドアン大統領と会談 防衛装備分野で協力確認</a>
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">9月24日</span>
-            <span class="source">読売新聞</span>
+            <span class="date">9月23日</span>
+            <span class="source">朝日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxdkZndWQ1QmxManNaZUZUMElpQllDOUdVSUtyeEFNU2k3ZlBMQ3IzblNscktGYUx6VlBUR0l3aUZkMjFYckJNQVBXM1VwcFBsNUJLMTRVc2FXWFdWY2ZYZ3dVWDliQQ?oc=5" target="_blank" rel="noopener noreferrer">［スキャナー］強い日米同盟誇示、米中会談前の「布石」に手応え…日米首脳会談</a>
+          <a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XVk5wOGpHTWVsQzlMNWJTYm81ODdJcGI4cmQ3eDVSTjU5cm1FRU1CakU2TXFLZXo5Z09qa2dHZ3l0SXN2T2dQdG1LRmlXSi1SNGRuQkhZQ3FXODJl?oc=5" target="_blank" rel="noopener noreferrer">（大転換期の安全保障）新しい戦い方：１ 技術が変える、戦争の形態 防衛省も攻撃型ドローンの開発急ぐ</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -276,23 +325,16 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">9月23日</span>
-            <span class="source">産経ニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFA0UXB6T1Y0cnJ0em95WmlPOGtZVUxLMXdLenNpRW5Yd0VlRWtrRDRhQ1dqYjVWWmtiOW4tQkptVmJBMlNoRlFPbHlhVU84N2NVVUZuOWdiNEtEbDVWSGYwSjgwVVZDQXpLS0RwUEVkVzJabkdiUkE?oc=5" target="_blank" rel="noopener noreferrer">高市首相「日米同盟の強さを世界に示す」米中会談2日前の日米会談、対中連携で示せた収穫</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月23日</span>
-            <span class="source">読売新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ESzNBckJlNjRhZE5vYTlKS2N0THg3SThzdWhJMFRxeVpXWFlzM3RmSV9IWm9CeHdIUDd5UVdiNlZCTjZVLXdGU0RqTmhuWDFFMHNoNFE2d3hKOUhJV2JubmlsblZLQQ?oc=5" target="_blank" rel="noopener noreferrer">高市首相とトランプ米大統領、約３５分間会談「日米同盟の強固さを世界に示せた」…ＩＣＣ巡る率直なやりとりも</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月23日</span>
             <span class="source">時事ドットコム</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE40bkJUSzlBQVlmeUo1SkRBZEpHa2paRGt2WWFqc1U5M254LWs3WlpWUDlMYTlza2NnWWRVOGZIZGtPUHhWcFNvWjVqMl85QmVWWUNFNEtidE1Ec0RucVdyVGNDVXo0dw?oc=5" target="_blank" rel="noopener noreferrer">【速報】高市首相は、日米首脳会談について「世界に向けて日米同盟の強さを示すことになる」と述べた</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月23日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFA0UXB6T1Y0cnJ0em95WmlPOGtZVUxLMXdLenNpRW5Yd0VlRWtrRDRhQ1dqYjVWWmtiOW4tQkptVmJBMlNoRlFPbHlhVU84N2NVVUZuOWdiNEtEbDVWSGYwSjgwVVZDQXpLS0RwUEVkVzJabkdiUkE?oc=5" target="_blank" rel="noopener noreferrer">高市首相「日米同盟の強さを世界に示す」米中会談2日前の日米会談、対中連携で示せた収穫</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -314,34 +356,6 @@ layout: null
             <span class="source">時事ドットコム</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE04T1pMeUtocm1BU0JVRndNZV9LejYzZmJvY3RGQ1hjN29IdFMtejdHa3duWTFjbnJpR3VDOE5lbEZDNUR6NEk4UFFwcERNb0RRR05sVUVfMU4wOFB4QVVzNnFjTEdFdw?oc=5" target="_blank" rel="noopener noreferrer">【速報】防衛省によると、北朝鮮から弾道ミサイルの可能性があるものが発射された</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月20日</span>
-            <span class="source">時事ドットコム</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wNzNwd09ONmdLSDc4TEJIU0NIMVI1OENVVHFtMDNYMlVjTjNmT0E4dU5hTEJwak92TmI4QTZtbndIV0VOYnVQZ2hjOFNZb3BDNkZKMHFCeTV2bWRuR0tadmlER2JWZw?oc=5" target="_blank" rel="noopener noreferrer">【速報】防衛省によると、弾道ミサイルの可能性があるものは既に落下したとみられる</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月19日</span>
-            <span class="source">時事ドットコム</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwZndqdXplZW9BMDVETjRTbnVPQXE0WG44VWM4dWdCaTF1QUZTcGhfM2dpczlPU1h0YzQxWU1iMHBPNGhWMk9PUzRRcWNxaFRBUjNTdk5OX1k1c3U0NmpCZk5ERQ?oc=5" target="_blank" rel="noopener noreferrer">日米同盟強化へ連携 防衛相電話協議：時事ドットコム</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月19日</span>
-            <span class="source">時事ドットコム</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQMmpheVV3QW5TSUg0NmpHaEpKLU41X1dSOUdNbHBWX1BEMDlWVU5DSzhUV1BBLU1KZmsxZ3lybVRvTlV0S0laUlljaTlSVTl5bng2MW8wUFlDZ0ppUTB4OGtWdVJVV3ZfSjBNcDNIUjE0emxqZm8zMl9ONzN4ZFdDODJn?oc=5" target="_blank" rel="noopener noreferrer">画像・写真：日米同盟強化へ連携 防衛相電話協議：時事ドットコム</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月19日</span>
-            <span class="source">時事通信ニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Wd2RYME4xaC1XUmg5TWhxdlo3bTROR3E2dzlSem9WNTVPNFV1d3lmemxsdmkyNFBIekM2MTFrdDlJMUFTWFNGdVVJdDBVZ1FBOUJ2ckttZFFWdWtMRHc?oc=5" target="_blank" rel="noopener noreferrer">日米同盟強化へ連携＝防衛相電話協議</a>
         </li>
       </ol>
     </section>
