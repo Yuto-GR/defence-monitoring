@@ -88,9 +88,9 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年10月07日 16:02</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年10月08日 16:11</strong></div>
       <div class="stat"><span>ARTICLES</span><strong>40件</strong></div>
-      <div class="stat"><span>LATEST</span><strong>10月7日</strong></div>
+      <div class="stat"><span>LATEST</span><strong>10月8日</strong></div>
     </section>
     <section>
       <div class="section-head">
@@ -98,6 +98,55 @@ layout: null
         <p class="note">Google News RSSから取得・フィルタリングした記事です。</p>
       </div>
       <ol class="news-list">
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月8日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5jeEFnSXdHV0FSVXRXRXY2cmt3N3BSQXFiZnR0XzdmbDVlaDRncjJJMkZtVmtjbXFaR0tIR0hBOXJjSUNxSXFQc2tkWmUwYkgxbGtDZVkxWjhKR2dJNHRrS0FXUU5tV1ZuR2t6Z04wMnY0SC1raVE?oc=5" target="_blank" rel="noopener noreferrer">安保3文書改定は「本質論で丁寧に議論進めたい」 自民・小林政調会長が記者会見</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月8日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE1kUzgxazZETTF1c2s4NU5waWJHSGV6WkhzeUVoN04xTGtpeW5SVDhyRU5OQ3MxRG1lUUdfRHg5Z0NqYTFaT3h0RTJOTnpKdDZETGd4T2NCbWhXRVpCT1l0Z3ZnTlhBV3NaMVRubjZKT0V1VUkycUE?oc=5" target="_blank" rel="noopener noreferrer">＜独自＞核持ち込み、緊急時の例外記載案浮上 安保3文書改定、非核三原則は維持へ</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月8日</span>
+            <span class="source">Reuters</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPRzYwUThaOTNBWHgwYlVTcS1zbDBFaEpweHZqdFVGd2FkRDNFX044dnVLLVc5bWdLd29lM3dpZWl5TG9IRTZJa2VjUzA4VFN2MkdjeFZZcWs0UmVjTi11OERkUmpNWHhLVmlGWUNrbkJOODhSR0pWLXJEUFhPdDg1eHI4bEk?oc=5" target="_blank" rel="noopener noreferrer">米台関係、米中首脳会談後も強固 防衛装備の適時引き渡し重要＝駐米代表 | ロイター</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月7日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFB1eEtYU2NvZXIyYUhNNlBmcVpIYThjaHVVc2MwZm5RcDBGa2YyTkkxc0dmcjBOclF6TjQ5OU9nV0o0b2tXQ1gyS2ZEWnJiREp0dlM0RW5wRG12aWdfdFBOZ2dKOVRIWFFXQ0pKTw?oc=5" target="_blank" rel="noopener noreferrer">スタートアップ参入促進へ5000億円 自民の防衛産業議連が提言案</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月7日</span>
+            <span class="source">NHKニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE96Uk1PRS1JUTJseFdGN2FKcnFmdGFlSlV1LTdyY1RqLU16TXJXdjc0dGowV1dxdUdmVE90X0VycTZzR1pldzc1T2MxdE9RM3BlOGk0b09zVFd1OHB4SlJV?oc=5" target="_blank" rel="noopener noreferrer">小泉防衛相 スタートアップ企業に防衛産業への参入呼びかけ | NHKニュース | 安全保障、防衛省・自衛隊、企業・経営</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月7日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE1VeXhwZGdpd25MSXVONzhqMGtYY1VLSWdMb0ZUU2xPY3lEQXU2aF9odXlXTHZwdnZOdUNGX2NrVHEzZEhLMEpZV0pQTThJTEZKSTRNRm5wRHRIU2dzTURxVUlWWlZlVFh6T24tNUp4aTdua0JmU2c?oc=5" target="_blank" rel="noopener noreferrer">防衛産業推進へ「独法」新設要求 自民議連、安保3文書改定への提言了承 予算規模数兆円</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月7日</span>
+            <span class="source">中日新聞Web</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GYWtvRmJpNkk1S1IzLWFvYmxVM3lxdEFLaTFPUmVOcTZ3bVQzYU5TOVlrSnpBZzJlSloxQkNtc2JkWXV6alN2SngtMGxIWDFSUnlHZ2NEMkRTa1hxY1RubHQ0RUVoZw?oc=5" target="_blank" rel="noopener noreferrer">防衛産業推進で独法新設を 来秋念頭、自民議連提言へ</a>
+        </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">10月7日</span>
@@ -150,13 +199,6 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">9月30日</span>
-            <span class="source">NHKニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jd1pHSmFTell2azA3WG5NZU5TSWlLbVpXd05VcGwyRkJBakcycDIzMU5MUUZzZ2d1U0w0c284M05DdFZSUUhyQVUxV2IzcVVfMmxfYTE0M3A?oc=5" target="_blank" rel="noopener noreferrer">自衛官贈収賄事件 防衛装備庁下北試験場を警察が捜索 東通村</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月30日</span>
             <span class="source">産経ニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5VdmhXRXhrRk1lR1JiV1hZakU2Q1JRNW1iS1JOVEVGUzhjZi1BbXJIeVNRNnVFUndLZ0lOX3J2X043Q3VqbFNtTUU2ZW9oRTJsaVdjODRVMUczaDE0OGdMeXVrOGx4VDZYanJMVDZ1eUtUazM0Wmc?oc=5" target="_blank" rel="noopener noreferrer">防衛装備庁・下北試験場を捜索 青森県警、陸上自衛官が逮捕された贈収賄事件で</a>
@@ -185,6 +227,20 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">9月29日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tTHZIa0xOTTdGZkJjQnZxNXNZT0haSUJZdDhQMno3T1E0S3VxeGpNUjlWcGFlam9DV3Q3S3ZTenRiWDZhRk5BaU8zcUFmVFJHOEhSb3o2WElJQ0d1bVFFa0JUOA?oc=5" target="_blank" rel="noopener noreferrer">２５式地対艦誘導弾を初展開へ 日米共同演習、反撃能力向上―防衛省</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月29日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBScTVGZDZ0aUxhSkY3cUFKTXZtazE4cW9KMEo2dWZEdklWcS1vZVhOc0tCVFFqc2p6eXZVTzNRMkxsM0d5YTlCMGJBNjVJT3ptNFlQQnh5cng4Y082V1I5cDV1czQtVHFsdWFVMQ?oc=5" target="_blank" rel="noopener noreferrer">振るわぬ米ドローン株、中国製締め出しへ 日本は防衛産業優遇で好調</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月29日</span>
             <span class="source">朝日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBheXExT2JmSVZXN011amZVbnhFdG1EZzctTUtPLWNWQjV3MXBBQTVlbzEwRmNXN1pCczlaS2FTUHVrTVF0OHBXdGFNckx5N0oxdHVvdU9fUEVRSUtWV3R0VjBfR19mOTA?oc=5" target="_blank" rel="noopener noreferrer">陸上自衛官を収賄容疑で逮捕 防衛装備庁試験場の入札めぐり 青森 [青森県]</a>
@@ -195,13 +251,6 @@ layout: null
             <span class="source">日本経済新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE90aW90aGRNSWxsOGNkdTRJa2dpQWNYQzVHWFBhTGNCaVZWcy05cm1iOGVxbWFDWkJqT2Fsb3FXdzNlVUNIeDctOVdBMGVuUUhYaFBLcmJ3dWhlMVU?oc=5" target="_blank" rel="noopener noreferrer">中国軍とどう向き合うか 安保3文書改定、日本の選択を専門家と解説</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月29日</span>
-            <span class="source">日本経済新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBScTVGZDZ0aUxhSkY3cUFKTXZtazE4cW9KMEo2dWZEdklWcS1vZVhOc0tCVFFqc2p6eXZVTzNRMkxsM0d5YTlCMGJBNjVJT3ptNFlQQnh5cng4Y082V1I5cDV1czQtVHFsdWFVMQ?oc=5" target="_blank" rel="noopener noreferrer">振るわぬ米ドローン株、中国製締め出しへ 日本は防衛産業優遇で好調</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -306,7 +355,7 @@ layout: null
             <span class="date">9月25日</span>
             <span class="source">朝日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0R4MHpfRG9jdnpJNHFwS2o5VUNOdGVFVmg4ZlhndUNWaWpBVml3SnhleWFQNlNPVnN3MmJDTV9oRlhLdHBTdXltby1BRUFTWUE0VDU1bld6bVMyZ0hVTDd6Vm81NVQ1ZlhlRHBiRXZwUGNTTTJwbGt6NE4yY2EyTVlYaDRxeVVfaGhqX2xhRzlOdw?oc=5" target="_blank" rel="noopener noreferrer">スタートアップ企業、防衛産業へ続々参入「新しい戦い方」の担い手に 動画</a>
+          <a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxOc2JtT0FIMWV2bGJpYXRuUXJtOTNZT2hJNUJXRFI0TFNPNURaeVd6Wk0xUjIzc2JQcENRQjJMdUxjSVJhSlFMRGtDMlZLbWlXVmpxU2lod1N0OUVHRnNKcDVYLWp3c2wyRFVmZ1BTYlpqOEc2eVZsQ2J3X2M1WXZnbVZ3OTBCbWVDX0I0Ti1SUDZuUQ?oc=5" target="_blank" rel="noopener noreferrer">スタートアップ企業、防衛産業へ続々参入「新しい戦い方」の担い手に 動画</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -328,55 +377,6 @@ layout: null
             <span class="source">読売新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxdkZndWQ1QmxManNaZUZUMElpQllDOUdVSUtyeEFNU2k3ZlBMQ3IzblNscktGYUx6VlBUR0l3aUZkMjFYckJNQVBXM1VwcFBsNUJLMTRVc2FXWFdWY2ZYZ3dVWDliQQ?oc=5" target="_blank" rel="noopener noreferrer">［スキャナー］強い日米同盟誇示、米中会談前の「布石」に手応え…日米首脳会談</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月23日</span>
-            <span class="source">日本経済新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9NaXZYLXprb3ZkbnlDYUVoZTlFMXhJNmdjdm5qbVk5em5VOEl1YXVlcldTRkdZcEtGOG9hSnF6SGUzUFNGWUpqUGp2SVpiZ2FsNTZQOVFTSk5jb2FMUmdsTmsyWlVqS09hTElXNg?oc=5" target="_blank" rel="noopener noreferrer">［社説］日米同盟の深化と法の支配ともに追求を</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月23日</span>
-            <span class="source">毎日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xN3RIT19Pb2ZIb1pRZ2NVaEkzWEdvd0NuQkkwVlFwd3dQdnFHc0FUOU00N09Icmg5US1oMGx1REoxcXQtd1NWQzIxc0s4YlNKLTU2WnpSUVNSWmNINy1fdGpybEphOFFq?oc=5" target="_blank" rel="noopener noreferrer">高市政権の行方,トランプ政権：高市首相、日米同盟演出に腐心 「頭越し」の米中接近を警戒</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月23日</span>
-            <span class="source">NHKニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1STF9jRTZ3UV9abHRZRGg2eUh4UzdaZVpVWjNxYVFLN1NjdHg4dUdUX014b1RRY3ZmVUNjeW5EYVNMb1g0clVuMmNZNkg3dGtOanlkajNaQURuMVlKUXRZ?oc=5" target="_blank" rel="noopener noreferrer">高市首相 記者会見“日米同盟関係さらに揺るぎのないものに”</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月23日</span>
-            <span class="source">時事ドットコム</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE40bkJUSzlBQVlmeUo1SkRBZEpHa2paRGt2WWFqc1U5M254LWs3WlpWUDlMYTlza2NnWWRVOGZIZGtPUHhWcFNvWjVqMl85QmVWWUNFNEtidE1Ec0RucVdyVGNDVXo0dw?oc=5" target="_blank" rel="noopener noreferrer">【速報】高市首相は、日米首脳会談について「世界に向けて日米同盟の強さを示すことになる」と述べた</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月23日</span>
-            <span class="source">産経ニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFA0UXB6T1Y0cnJ0em95WmlPOGtZVUxLMXdLenNpRW5Yd0VlRWtrRDRhQ1dqYjVWWmtiOW4tQkptVmJBMlNoRlFPbHlhVU84N2NVVUZuOWdiNEtEbDVWSGYwSjgwVVZDQXpLS0RwUEVkVzJabkdiUkE?oc=5" target="_blank" rel="noopener noreferrer">高市首相「日米同盟の強さを世界に示す」米中会談2日前の日米会談、対中連携で示せた収穫</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月23日</span>
-            <span class="source">読売新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ESzNBckJlNjRhZE5vYTlKS2N0THg3SThzdWhJMFRxeVpXWFlzM3RmSV9IWm9CeHdIUDd5UVdiNlZCTjZVLXdGU0RqTmhuWDFFMHNoNFE2d3hKOUhJV2JubmlsblZLQQ?oc=5" target="_blank" rel="noopener noreferrer">高市首相とトランプ米大統領、約３５分間会談「日米同盟の強固さを世界に示せた」…ＩＣＣ巡る率直なやりとりも</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月23日</span>
-            <span class="source">毎日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE04bTFtV1d2ckh5UWxYRDlvT0xsdmFEanBCVUktYkpHWTE5Mjl1Y0MwcWN6d3UzWWR3SXl4d19EMGZXNy1tZklYQ3pFd2M0cDRVOWxCZ0JKbWdDRy16MWpzNVdDSGlnNFFP?oc=5" target="_blank" rel="noopener noreferrer">日米同盟の強化を確認へ ICC制裁への言及焦点 日米首脳会談</a>
         </li>
       </ol>
     </section>
