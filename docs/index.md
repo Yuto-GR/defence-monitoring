@@ -88,9 +88,9 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年10月08日 16:11</strong></div>
-      <div class="stat"><span>ARTICLES</span><strong>40件</strong></div>
-      <div class="stat"><span>LATEST</span><strong>10月8日</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年10月09日 16:15</strong></div>
+      <div class="stat"><span>ARTICLES</span><strong>42件</strong></div>
+      <div class="stat"><span>LATEST</span><strong>10月9日</strong></div>
     </section>
     <section>
       <div class="section-head">
@@ -98,6 +98,34 @@ layout: null
         <p class="note">Google News RSSから取得・フィルタリングした記事です。</p>
       </div>
       <ol class="news-list">
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月9日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5lLWlPQUNtLURZckxiSTl3TUFKWVlfWkJJQmNPdmI3UmtLamFobGhpYndLaDJRcEx4Z1c0MVRFbld1cW4wdVZkSjBnUklZQlU0dWNaQWlPNXktcG94c0ZaZ3lxV1JWc0NlYnBzOA?oc=5" target="_blank" rel="noopener noreferrer">防衛省、衛星の迅速な打ち上げ研究へ 故障時も監視機能の回復早く</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月9日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rcEpsNlowVHNjY2J5RDRvOUw1QzVEd1hGVEVEOVVrdFJ5SU9zRnkzZEo4aGwwVEdNVWtrUGg4MW5ucmdRU1AtS2xzeWRKbm5XQVB2QW5PekswempnUlJrRVhuLUZvMkU?oc=5" target="_blank" rel="noopener noreferrer">防衛力強化へ特定利用空港じわり増加 都市部近接の神戸、懸念の声も [兵庫県]</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月9日</span>
+            <span class="source">NHKニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPVG9KNzZ6X00tOXFybHFsQUhwTkdmcldfR0d2MlNya1RQdnR6eDhmM1ZTRW4wcVhBYVBaR1pmX3hEMFhkdkVnaVlaN3BIM3p3OUthelY2QkhaemRGMjhn?oc=5" target="_blank" rel="noopener noreferrer">防衛省 宇宙への輸送能力強化に向けた調査研究開始へ | NHKニュース | 防衛省・自衛隊、宇宙</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月9日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1INDQ5VVlZQmp5amlYdm0xcS0xMF9hWVgyVjUtSnhfeEFZdlFzV0ZlODZhM1ZFTHVJLWpneUZINVB0eVFNeWZNeXBMdnh3VC1VYmQtdFFoZlZBNDdWemFtVU1wTHlQUQ?oc=5" target="_blank" rel="noopener noreferrer">衛星打ち上げロケットの短期製造、防衛省が調査研究へ…人工衛星への攻撃など有事に備え</a>
+        </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">10月8日</span>
@@ -131,7 +159,7 @@ layout: null
             <span class="date">10月7日</span>
             <span class="source">NHKニュース</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE96Uk1PRS1JUTJseFdGN2FKcnFmdGFlSlV1LTdyY1RqLU16TXJXdjc0dGowV1dxdUdmVE90X0VycTZzR1pldzc1T2MxdE9RM3BlOGk0b09zVFd1OHB4SlJV?oc=5" target="_blank" rel="noopener noreferrer">小泉防衛相 スタートアップ企業に防衛産業への参入呼びかけ | NHKニュース | 安全保障、防衛省・自衛隊、企業・経営</a>
+          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE96Uk1PRS1JUTJseFdGN2FKcnFmdGFlSlV1LTdyY1RqLU16TXJXdjc0dGowV1dxdUdmVE90X0VycTZzR1pldzc1T2MxdE9RM3BlOGk0b09zVFd1OHB4SlJV?oc=5" target="_blank" rel="noopener noreferrer">小泉防衛相 スタートアップ企業に防衛産業への参入呼びかけ</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -198,17 +226,10 @@ layout: null
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">9月30日</span>
-            <span class="source">産経ニュース</span>
+            <span class="date">10月3日</span>
+            <span class="source">時事ドットコム</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5VdmhXRXhrRk1lR1JiV1hZakU2Q1JRNW1iS1JOVEVGUzhjZi1BbXJIeVNRNnVFUndLZ0lOX3J2X043Q3VqbFNtTUU2ZW9oRTJsaVdjODRVMUczaDE0OGdMeXVrOGx4VDZYanJMVDZ1eUtUazM0Wmc?oc=5" target="_blank" rel="noopener noreferrer">防衛装備庁・下北試験場を捜索 青森県警、陸上自衛官が逮捕された贈収賄事件で</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月30日</span>
-            <span class="source">ニュースイッチ by 日刊工業新聞社</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiQkFVX3lxTFAtT0lWV29zV21xdWxHY1FIVVl5N2dUckxDRTRZSnBvMzdZRXNUZUM3UURxNU9SdU9lUU04RDhGdU83QQ?oc=5" target="_blank" rel="noopener noreferrer">垂直ミサイル発射システム搭載潜水艦、防衛省が開発推進…長距離防衛能力を向上</a>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uczhaNENueWFVT2x3T1puZV9VQTdqRXNKLXBfLUZISnBNR1RUaGxwZ3JaZElRMWxOLUNQWFVGa3dET0toSi0yYUFqNmtNbUJtcUh5OFlqc3c1MmY3LXB2OWhmaDdDUQ?oc=5" target="_blank" rel="noopener noreferrer">【速報】防衛省によると、ミサイルの可能性があるものは既に落下したとみられる</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -220,9 +241,23 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">9月30日</span>
+            <span class="source">ニュースイッチ by 日刊工業新聞社</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiQkFVX3lxTFAtT0lWV29zV21xdWxHY1FIVVl5N2dUckxDRTRZSnBvMzdZRXNUZUM3UURxNU9SdU9lUU04RDhGdU83QQ?oc=5" target="_blank" rel="noopener noreferrer">垂直ミサイル発射システム搭載潜水艦、防衛省が開発推進…長距離防衛能力を向上</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月30日</span>
             <span class="source">日本経済新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9QRmdkdk5KZkNvbzVUMU5ZWjd5Y2xNdGFuYkNHS2J5eDQyRG80SGZORXB4ZDZPYXBFSS14RS05Y1hVUmNhOTRFNFBzVUszNExyOWtuRjFOdkVDOE1EaklnVGtpa3IxdDh1YXRfMA?oc=5" target="_blank" rel="noopener noreferrer">対外有償軍事援助 同盟国に防衛装備品</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月30日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5VdmhXRXhrRk1lR1JiV1hZakU2Q1JRNW1iS1JOVEVGUzhjZi1BbXJIeVNRNnVFUndLZ0lOX3J2X043Q3VqbFNtTUU2ZW9oRTJsaVdjODRVMUczaDE0OGdMeXVrOGx4VDZYanJMVDZ1eUtUazM0Wmc?oc=5" target="_blank" rel="noopener noreferrer">防衛装備庁・下北試験場を捜索 青森県警、陸上自衛官が逮捕された贈収賄事件で</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -355,28 +390,7 @@ layout: null
             <span class="date">9月25日</span>
             <span class="source">朝日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxOc2JtT0FIMWV2bGJpYXRuUXJtOTNZT2hJNUJXRFI0TFNPNURaeVd6Wk0xUjIzc2JQcENRQjJMdUxjSVJhSlFMRGtDMlZLbWlXVmpxU2lod1N0OUVHRnNKcDVYLWp3c2wyRFVmZ1BTYlpqOEc2eVZsQ2J3X2M1WXZnbVZ3OTBCbWVDX0I0Ti1SUDZuUQ?oc=5" target="_blank" rel="noopener noreferrer">スタートアップ企業、防衛産業へ続々参入「新しい戦い方」の担い手に 動画</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月24日</span>
-            <span class="source">朝日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55bjVZSGM5THZPWTZ3bGhVS3NtMEpvQzNxWjBzRS1IQmFGc3FkNmVzcFBDcnJjX0REQ0VGMmVqLXkyblh1eGxGakdkUUFTYnZYYkdsYWNqWWhVVHhhd1p0cWI2R0gxUVE?oc=5" target="_blank" rel="noopener noreferrer">高市首相、トルコ・エルドアン大統領と会談 防衛装備分野で協力確認</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月24日</span>
-            <span class="source">読売新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rR0h3MEVnSDBJMnJYR2pfWUJCZHJibldHRDdWLThaWFctTTg2WkFFUGFBcEl3WUlVdnBTTWwzWExuQWdKeUVrek1ZZnFNUUp3dGRGb0V5c0x4UTlmb2pKNnVZZzllUQ?oc=5" target="_blank" rel="noopener noreferrer">日米首脳会談、対中国で「緊密に連携」一致…ＡＩ・重要鉱物の協力で日米同盟「さらなる高みに」引き上げ</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月24日</span>
-            <span class="source">読売新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxdkZndWQ1QmxManNaZUZUMElpQllDOUdVSUtyeEFNU2k3ZlBMQ3IzblNscktGYUx6VlBUR0l3aUZkMjFYckJNQVBXM1VwcFBsNUJLMTRVc2FXWFdWY2ZYZ3dVWDliQQ?oc=5" target="_blank" rel="noopener noreferrer">［スキャナー］強い日米同盟誇示、米中会談前の「布石」に手応え…日米首脳会談</a>
+          <a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0R4MHpfRG9jdnpJNHFwS2o5VUNOdGVFVmg4ZlhndUNWaWpBVml3SnhleWFQNlNPVnN3MmJDTV9oRlhLdHBTdXltby1BRUFTWUE0VDU1bld6bVMyZ0hVTDd6Vm81NVQ1ZlhlRHBiRXZwUGNTTTJwbGt6NE4yY2EyTVlYaDRxeVVfaGhqX2xhRzlOdw?oc=5" target="_blank" rel="noopener noreferrer">スタートアップ企業、防衛産業へ続々参入「新しい戦い方」の担い手に 動画</a>
         </li>
       </ol>
     </section>
