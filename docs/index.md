@@ -88,8 +88,8 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年10月10日 15:52</strong></div>
-      <div class="stat"><span>ARTICLES</span><strong>42件</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年10月11日 15:57</strong></div>
+      <div class="stat"><span>ARTICLES</span><strong>45件</strong></div>
       <div class="stat"><span>LATEST</span><strong>10月10日</strong></div>
     </section>
     <section>
@@ -98,6 +98,20 @@ layout: null
         <p class="note">Google News RSSから取得・フィルタリングした記事です。</p>
       </div>
       <ol class="news-list">
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月10日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IcElnVXBCR0NRQkl0R3M1NVl1R2hZVlVjX3phUHcwVXVzajdXMjlDVkt0NzRoRGx0MWZ2MGdhN0F1bDFTX0dpMkZXcndyV00zSUdyWWlldjhaSHRhNHZOVnhn?oc=5" target="_blank" rel="noopener noreferrer">台湾総統、無人機など低コスト兵器で中国に対抗する考え示す…防衛力強化は「挑発ではなく戦争を抑止するためだ」</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月10日</span>
+            <span class="source">NHKニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TT3E2X0tMWFVBWUIxUWFwWUk0TzBxZEZWaF9BZ25fZl9BS3ZxXzZfQnNwalFQeFdsazQ1Sl9tWmpyTDdZaXRYRm53MUJxaVZXZ2hpckVVd3NjTWFhRXZJ?oc=5" target="_blank" rel="noopener noreferrer">台湾総統「中国が現状変更」 防衛力強化強調し連携呼びかけ</a>
+        </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">10月10日</span>
@@ -181,6 +195,13 @@ layout: null
             <span class="source">産経ニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5jeEFnSXdHV0FSVXRXRXY2cmt3N3BSQXFiZnR0XzdmbDVlaDRncjJJMkZtVmtjbXFaR0tIR0hBOXJjSUNxSXFQc2tkWmUwYkgxbGtDZVkxWjhKR2dJNHRrS0FXUU5tV1ZuR2t6Z04wMnY0SC1raVE?oc=5" target="_blank" rel="noopener noreferrer">安保3文書改定は「本質論で丁寧に議論進めたい」 自民・小林政調会長が記者会見</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月8日</span>
+            <span class="source">NHKニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DOUpYei1ybnEwUU9Gd1JqS1hCdURiWTA0bDZTckVGa2xuVlRwWmhiRlpIWVdxa0lsUkRpVzJfVWJCYzF4aGJRQUtvNTJwTDcwSk5PREhRTGJrLXZ6c1VF?oc=5" target="_blank" rel="noopener noreferrer">青森県への「シーガーディアン」配備は2031年度ごろ 防衛省</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -331,6 +352,13 @@ layout: null
         </li>
         <li class="news-card">
           <div class="meta">
+            <span class="date">9月29日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1XTzljbjk2YnlWT3ZzeTN1eExLcFNCQ2YzbFFDUjgwMHFTSkQwWi1QblhwdUNQTElQbjRPR1RxM09ERHNuQ2RjMjBPNFM0YkY2NWhRUnJXbXpmZlN0N2JqN01INk9FVl9raVRobQ?oc=5" target="_blank" rel="noopener noreferrer">小泉防衛相、タブーなく核兵器・原潜保有を議論 安保3文書改定巡り</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
             <span class="date">9月28日</span>
             <span class="source">読売新聞</span>
           </div>
@@ -349,6 +377,13 @@ layout: null
             <span class="source">朝日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2VmpZenlyQWlRZHNPNjZqajR4TGhzLUVlUm5yYnZYYTFzTlptQUV4QTBsbnNkQk01Z1AtWGVmcVdpTkVzbnBUekJQay11QWpTRFFrX3lMU0NFVFh3dVp3Zk9TSUZBdWs?oc=5" target="_blank" rel="noopener noreferrer">防衛装備品にスタートアップの技術取り込み 参入促す調達方法を導入</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">9月27日</span>
+            <span class="source">東京新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lWUVXUkZ1VXE4OS1RdWhoWHQ5MXdZYnRxcUlYaDRIWFEwUkZiR3hxcWI0Yl9rQnZTUVFTbkhoRDdnUWliRnNZdG53eV9qakNjaHlj?oc=5" target="_blank" rel="noopener noreferrer">アメリカ企業の無人機「シーガーディアン」一挙大量購入計画 防衛省、2900億円超要求の「事情」</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -377,20 +412,6 @@ layout: null
             <span class="source">産経ニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9tamJIOE1KWnhFMW9vWWg5XzEtcnhObUdad0xXMlBkSHVqeEt6c0NDV1V0NGJmNDZXQmNXX3ltTnZjSmFoVHlEa0U3SmJDWUkwcjVFQ2ExMm8ydldsTFRtWXE2MXNTSDNHeTZ1aVV1U3Rkak9hdnc?oc=5" target="_blank" rel="noopener noreferrer">「日米同盟ともに強化」小泉進次郎氏、米中「同盟」演出の日に強調 対中象徴の米司令官と</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月25日</span>
-            <span class="source">朝日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54aGx3UkRqY1JJRjc5OERvMTRSN19ZWjZGOVBVYVFIbVdqcFdjYUdsSEM2VjZiUmtxaVBJN21fMDlTaXEzUGJQR2o2SEZSTHViY1JmRmFmQmttRzJsZTNVenZkYXBuSUU?oc=5" target="_blank" rel="noopener noreferrer">スタートアップ企業、防衛産業へ続々参入「新しい戦い方」の担い手に [高市政権の安保見直し][安全保障関連3文書]</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">9月25日</span>
-            <span class="source">朝日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0R4MHpfRG9jdnpJNHFwS2o5VUNOdGVFVmg4ZlhndUNWaWpBVml3SnhleWFQNlNPVnN3MmJDTV9oRlhLdHBTdXltby1BRUFTWUE0VDU1bld6bVMyZ0hVTDd6Vm81NVQ1ZlhlRHBiRXZwUGNTTTJwbGt6NE4yY2EyTVlYaDRxeVVfaGhqX2xhRzlOdw?oc=5" target="_blank" rel="noopener noreferrer">スタートアップ企業、防衛産業へ続々参入「新しい戦い方」の担い手に 動画</a>
         </li>
       </ol>
     </section>
