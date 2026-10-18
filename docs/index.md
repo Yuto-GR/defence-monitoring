@@ -88,9 +88,9 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年10月17日 14:26</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年10月18日 14:38</strong></div>
       <div class="stat"><span>ARTICLES</span><strong>59件</strong></div>
-      <div class="stat"><span>LATEST</span><strong>10月17日</strong></div>
+      <div class="stat"><span>LATEST</span><strong>10月18日</strong></div>
     </section>
     <section>
       <div class="section-head">
@@ -98,6 +98,20 @@ layout: null
         <p class="note">Google News RSSから取得・フィルタリングした記事です。</p>
       </div>
       <ol class="news-list">
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月18日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE42UUxERG1BSXIyMDlrbkhwUVNNRk9HSjB4SFZCNGRZcHNkQ0pvUGZyRU5sRXo2bW9IR1E2OXV0cEJGYng2cDFkYi1STV90UFlFRTBPWFE4bW1CWktI?oc=5" target="_blank" rel="noopener noreferrer">（フロントライン 政治）小泉進次郎防衛相 防衛力強化・積極発信、「将来の首相候補」が向かう先は</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月17日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBORGZ0cjUxUmNLczNkR2xMS2NVb0VtaVkyMnF1Y1JYZXB5SG1rbHpZWHZaOTY3ZEEteGdlOVdTZGZhTlZSN0tMR2FmSWRIeUFaaVBpVVZKdmtlRktkZ1dseEU1cDQ4dTU4enZZUmdZQXZoNHNld2c?oc=5" target="_blank" rel="noopener noreferrer">防衛財源に法人増税浮上 年間10兆円超へ膨張公算 安保3文書の改定巡り、財界反発も</a>
+        </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">10月17日</span>
@@ -325,13 +339,6 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">10月10日</span>
-            <span class="source">東京新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iQlhLOTNOT3EwdVNCbzJIZ0NIaFdpWDJKelNSWHlxVjNoNzZ0OFR5MlRpYi10aTg0VnFsSnZYV3NCUWZ3MXpMRGRhNWhOemlKS3Jr?oc=5" target="_blank" rel="noopener noreferrer">台湾総統、防衛力強化を訴え 中国に対抗、双十節で演説</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">10月10日</span>
             <span class="source">読売新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpUmhrRHVWeUhmMFgtYk9ybFZ5QjZRVmd0N1VYa3llUlZrLS1nU2xhMHA0OEpJR2xGLThkck5zcFd0U0YzdWpVMzg4bG5aN1NBeWpNN2VxSlhyZTByTzUwTlR6TlFRdw?oc=5" target="_blank" rel="noopener noreferrer">ロケット開発 事業者募集 防衛省 衛星迅速打ち上げ</a>
@@ -346,37 +353,16 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">10月9日</span>
-            <span class="source">時事ドットコム</span>
+            <span class="source">産経ニュース</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jMTJsYk9hYkNXYWVUcktBSTlDSXZraVJ4SFhJc0R2anFOS3k4clJDZFh0dFZ3T1dpU0R4dUs3UzhKS3dTaVp2VkxLdVRhcU1UazhHWTJNR1pyNGhpd253ZThNWQ?oc=5" target="_blank" rel="noopener noreferrer">ロケット打ち上げ、迅速化研究 防衛省、衛星攻撃に備え</a>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5Rd2M5Wk1DREJreklzczdVcEprZWhvR2QxWGRubjRFOWpmbXotWTA4SEFGVmg0QkN0X0NGQmFLNE12c1hkSm9GOXJ2R095WmQ3Rm5uR1VnWi01Ti00bFl3Q2dNMFFoaTVuakRqMDI3N20xcnNzTnc?oc=5" target="_blank" rel="noopener noreferrer">防衛省、硫黄島の設備で要件欠く随意契約 5.5億円、予定価格9820万円過大</a>
         </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">10月9日</span>
-            <span class="source">時事ドットコム</span>
+            <span class="source">毎日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPTTVmOXRFbHBTSVh1OVBuZWNrdEdVUm1ZUFRXd1lodU1iMXVGX0tfMVlyYUdYVzE5VnNKWjdUSEdsbDlnSVlTUFI4dFBxQUk3Y3FXblAzaThzY05MaXVUTUlDMWNWNFZRblJBb0wydDFlMzgzUkhnNU1KLVpfN09yN1Z3?oc=5" target="_blank" rel="noopener noreferrer">ロケット打ち上げ、迅速化研究 防衛省、衛星攻撃に備え</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">10月9日</span>
-            <span class="source">読売新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EWXRqNXJISDZJMThvWXJwVFdzY3IzS3dSRjdNS2l6SmJnTWFvQktrMDhvX25aNk05akRwTHVrVjhEek1lZGlRdVV1QU1pRXdzcTd0bDdROXdBU1plajlSanMtV05Hdw?oc=5" target="_blank" rel="noopener noreferrer">硫黄島の発電設備点検業務、防衛省が誤って随意契約…「特殊性を考慮する必要はなかった」と会計検査院</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">10月9日</span>
-            <span class="source">東京新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oWi1MbExwMkNxNDhXOFBPUHl4WU5HSG9vaTMyZDJXRkVBVmREQzhhQkpYRWh2Qm5POFV1cWVpNmdrZ0IyOHJPd05qVnBscFdkQU5R?oc=5" target="_blank" rel="noopener noreferrer">ロケット迅速発射へ調査 防衛省、宇宙輸送を強化</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">10月9日</span>
-            <span class="source">日本経済新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9nOU9LS1YzN2o4ZV94bUctbGVhb3o1ZjlHdnR1SEp0bEtEa2JUQlJmOHdpRXpwQTVzazRGZzJkQUxvNTRjaURMQmE4T1dxc0pIaXBVekRRd3JIM0ZSdGFIRWNHaDFIUmRFNGU0cA?oc=5" target="_blank" rel="noopener noreferrer">硫黄島の防衛省設備、随意契約4件「不適切」 予定価格9800万円過大</a>
+          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yMmpPdzJvXzFhTkNFYk5neDd5TU1HS2tYR0Z2OXZlakpuMGRhSHRvS0dDU2UxcXhYT1RaUmdQTm9Da21fdVVtSmMzT0NxYUxxMVR1X2JIcjdJQlFKN1ZWeHVoeHhmZldq?oc=5" target="_blank" rel="noopener noreferrer">防衛省、宇宙輸送能力強化へ 調査研究に7000万円</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -388,16 +374,9 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">10月9日</span>
-            <span class="source">日本経済新聞</span>
+            <span class="source">読売新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5lLWlPQUNtLURZckxiSTl3TUFKWVlfWkJJQmNPdmI3UmtLamFobGhpYndLaDJRcEx4Z1c0MVRFbld1cW4wdVZkSjBnUklZQlU0dWNaQWlPNXktcG94c0ZaZ3lxV1JWc0NlYnBzOA?oc=5" target="_blank" rel="noopener noreferrer">防衛省、衛星の迅速な打ち上げ研究へ 故障時も監視機能の回復早く</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">10月9日</span>
-            <span class="source">朝日新聞</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rcEpsNlowVHNjY2J5RDRvOUw1QzVEd1hGVEVEOVVrdFJ5SU9zRnkzZEo4aGwwVEdNVWtrUGg4MW5ucmdRU1AtS2xzeWRKbm5XQVB2QW5PekswempnUlJrRVhuLUZvMkU?oc=5" target="_blank" rel="noopener noreferrer">防衛力強化へ特定利用空港じわり増加 都市部近接の神戸、懸念の声も [兵庫県]</a>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1INDQ5VVlZQmp5amlYdm0xcS0xMF9hWVgyVjUtSnhfeEFZdlFzV0ZlODZhM1ZFTHVJLWpneUZINVB0eVFNeWZNeXBMdnh3VC1VYmQtdFFoZlZBNDdWemFtVU1wTHlQUQ?oc=5" target="_blank" rel="noopener noreferrer">衛星打ち上げロケットの短期製造、防衛省が調査研究へ…人工衛星への攻撃など有事に備え</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -409,9 +388,44 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">10月9日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5lLWlPQUNtLURZckxiSTl3TUFKWVlfWkJJQmNPdmI3UmtLamFobGhpYndLaDJRcEx4Z1c0MVRFbld1cW4wdVZkSjBnUklZQlU0dWNaQWlPNXktcG94c0ZaZ3lxV1JWc0NlYnBzOA?oc=5" target="_blank" rel="noopener noreferrer">防衛省、衛星の迅速な打ち上げ研究へ 故障時も監視機能の回復早く</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月9日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9nOU9LS1YzN2o4ZV94bUctbGVhb3o1ZjlHdnR1SEp0bEtEa2JUQlJmOHdpRXpwQTVzazRGZzJkQUxvNTRjaURMQmE4T1dxc0pIaXBVekRRd3JIM0ZSdGFIRWNHaDFIUmRFNGU0cA?oc=5" target="_blank" rel="noopener noreferrer">硫黄島の防衛省設備、随意契約4件「不適切」 予定価格9800万円過大</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月9日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jMTJsYk9hYkNXYWVUcktBSTlDSXZraVJ4SFhJc0R2anFOS3k4clJDZFh0dFZ3T1dpU0R4dUs3UzhKS3dTaVp2VkxLdVRhcU1UazhHWTJNR1pyNGhpd253ZThNWQ?oc=5" target="_blank" rel="noopener noreferrer">ロケット打ち上げ、迅速化研究 防衛省、衛星攻撃に備え</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月9日</span>
             <span class="source">読売新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1INDQ5VVlZQmp5amlYdm0xcS0xMF9hWVgyVjUtSnhfeEFZdlFzV0ZlODZhM1ZFTHVJLWpneUZINVB0eVFNeWZNeXBMdnh3VC1VYmQtdFFoZlZBNDdWemFtVU1wTHlQUQ?oc=5" target="_blank" rel="noopener noreferrer">衛星打ち上げロケットの短期製造、防衛省が調査研究へ…人工衛星への攻撃など有事に備え</a>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EWXRqNXJISDZJMThvWXJwVFdzY3IzS3dSRjdNS2l6SmJnTWFvQktrMDhvX25aNk05akRwTHVrVjhEek1lZGlRdVV1QU1pRXdzcTd0bDdROXdBU1plajlSanMtV05Hdw?oc=5" target="_blank" rel="noopener noreferrer">硫黄島の発電設備点検業務、防衛省が誤って随意契約…「特殊性を考慮する必要はなかった」と会計検査院</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月9日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPTTVmOXRFbHBTSVh1OVBuZWNrdEdVUm1ZUFRXd1lodU1iMXVGX0tfMVlyYUdYVzE5VnNKWjdUSEdsbDlnSVlTUFI4dFBxQUk3Y3FXblAzaThzY05MaXVUTUlDMWNWNFZRblJBb0wydDFlMzgzUkhnNU1KLVpfN09yN1Z3?oc=5" target="_blank" rel="noopener noreferrer">ロケット打ち上げ、迅速化研究 防衛省、衛星攻撃に備え</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月9日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rcEpsNlowVHNjY2J5RDRvOUw1QzVEd1hGVEVEOVVrdFJ5SU9zRnkzZEo4aGwwVEdNVWtrUGg4MW5ucmdRU1AtS2xzeWRKbm5XQVB2QW5PekswempnUlJrRVhuLUZvMkU?oc=5" target="_blank" rel="noopener noreferrer">防衛力強化へ特定利用空港じわり増加 都市部近接の神戸、懸念の声も [兵庫県]</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -426,13 +440,6 @@ layout: null
             <span class="source">産経ニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5jeEFnSXdHV0FSVXRXRXY2cmt3N3BSQXFiZnR0XzdmbDVlaDRncjJJMkZtVmtjbXFaR0tIR0hBOXJjSUNxSXFQc2tkWmUwYkgxbGtDZVkxWjhKR2dJNHRrS0FXUU5tV1ZuR2t6Z04wMnY0SC1raVE?oc=5" target="_blank" rel="noopener noreferrer">安保3文書改定は「本質論で丁寧に議論進めたい」 自民・小林政調会長が記者会見</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">10月8日</span>
-            <span class="source">NHKニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DOUpYei1ybnEwUU9Gd1JqS1hCdURiWTA0bDZTckVGa2xuVlRwWmhiRlpIWVdxa0lsUkRpVzJfVWJCYzF4aGJRQUtvNTJwTDcwSk5PREhRTGJrLXZ6c1VF?oc=5" target="_blank" rel="noopener noreferrer">青森県への「シーガーディアン」配備は2031年度ごろ 防衛省</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -503,13 +510,6 @@ layout: null
             <span class="source">産経ニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNaXlGRDBpR01DYk1wRVVGd0pSam80RkdFVmF1WG5VVEZNUTJrWFp2Vkl3NXczWDRsU1NuUGhLRkRGRVdRNGo4anFEX1ZUNU5BVzlCMVYxMmxEZlo3Y1VPbWwwSWNhVmU5R3FCMDJzbnU0Z0RYZHUtQUFfVkp3XzNzX1pCcDZSYXkxRXYxTWJoMzdPRVhyeHlVem1zVVVLUTVnQUE?oc=5" target="_blank" rel="noopener noreferrer">独自＞先端技術の防衛装備実装へ官民連携構想 安保3文書反映、米国の大学機関がモデル（写真・画像 1/1）</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">10月4日</span>
-            <span class="source">信濃毎日新聞デジタル</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5aZE5UMFBLR3R2YnlvamVVV0F4R3lveXdxaEVEU0djQW5Kcy1PWGFJUVJZM1VIVjlNdHJHSG95OFhKR1hEa2xoYTVqYldkT1BQN1h2NUhWSkYxMVVTbEYtZkg2ckhubnhBZ056TzRUZFI?oc=5" target="_blank" rel="noopener noreferrer">日米同盟と積極財政の行方 佐々木毅（東京大名誉教授）〈多思彩々〉</a>
         </li>
       </ol>
     </section>
