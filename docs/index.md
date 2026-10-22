@@ -88,9 +88,9 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年10月21日 14:51</strong></div>
-      <div class="stat"><span>ARTICLES</span><strong>51件</strong></div>
-      <div class="stat"><span>LATEST</span><strong>10月21日</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年10月22日 14:54</strong></div>
+      <div class="stat"><span>ARTICLES</span><strong>70件</strong></div>
+      <div class="stat"><span>LATEST</span><strong>10月22日</strong></div>
     </section>
     <section>
       <div class="section-head">
@@ -98,6 +98,41 @@ layout: null
         <p class="note">Google News RSSから取得・フィルタリングした記事です。</p>
       </div>
       <ol class="news-list">
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月22日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBPYkxEb05jekpLTUlSa3lvdktPdVhva2dfQTREZEk2QWdxaXREY2tVSUVMV2hyaVYxN0R3My03R1MxbTVxcTFqVFlSQ0Nqd1VTNVZUOGJUQ29nUFhQMnI4aFNqcERSQjN6NVJxN3phUUZqWXpJcEE?oc=5" target="_blank" rel="noopener noreferrer">＜高市政権1年＞外交ではトランプ氏と信頼構築で成果 防衛は安保3文書改定が正念場</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月22日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFdVcGJibmJGYlhrcWUwOVRGcDNtZ0premY2ZE81VXY4SWhvOXh5Z1NNR29LZ292S25EV0dBcjEtcS1Kbi1aWWZVaU9IZlRSODhWY1RnbGRBNjNHMnZVUlJqTW92Y2s3OWctUFVDWFBDT2FPcjZsY1owRjFrQmlXSllUaWxNSF9fOERVcDRlUUdvY1RwRWlMY05HbkZVMFA4elE?oc=5" target="_blank" rel="noopener noreferrer">高市政権1年＞外交ではトランプ氏と信頼構築で成果 防衛は安保3文書改定が正念場（写真・画像 1/1）</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月22日</span>
+            <span class="source">ニュースイッチ by 日刊工業新聞社</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uejQ3T200ZEFIRTRVMEd0Z25wTkZ3OHNhaWJtOTVySWdfZF9WOTFfeXBxUm5zeFQ1Z2hJSDFiLWFlUQ?oc=5" target="_blank" rel="noopener noreferrer">防衛省の安保技術研究採択、応募最多560件…「大学や学術界の見方が明らかに変わってきた」</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月22日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFA3VUczUjdFdzRIQk5YSXF3Wm5wbVFjcGEwMWNoY2ZzZWFETXU5M2RUTUJYRXdDZXRZTm9IX3o1RllHckVtTExlVTVSWjYzOHJheFdoQV9tVjdlYW45ZmNKZzFIcXU0OFA4WjZZTQ?oc=5" target="_blank" rel="noopener noreferrer">トルコなどイスラム教4カ国、防衛産業の協力で覚書 共同生産など</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月21日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE95TURzR2Y2cjhJZmpaTk5UbndwemNhQ3lVcGtfR0k0V2xGMXRmalljMEh5S3ZKWXpCaFZiOE5lRTVwYUxnUlBSUG1QS2plZ01RZ3pWbjNsa2NEWnJLWXU5ZkUwajJ4ZXYwSEUwSQ?oc=5" target="_blank" rel="noopener noreferrer">維新が原潜導入を要求、自民「歯止め役」に 安保3文書改定を協議へ</a>
+        </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">10月21日</span>
@@ -108,23 +143,9 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">10月21日</span>
-            <span class="source">信濃毎日新聞デジタル</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9fMEROTV9aUkstMllaamdWSHk0eEFQMzhHQ19jRjhqY0t6LXdfQ1RKbHc1STV1SXNIOVRwNkl3cnN0bUptektkYzBCVmVhbVlYMXlWWTFjR2w0WTNoVHMyNUVhTjJLaklTZEhjQktkRkY?oc=5" target="_blank" rel="noopener noreferrer">防衛省の研究費助成への応募、厳しさ増す研究資金の確保が背景に</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">10月21日</span>
             <span class="source">東京新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE93VGlpS3RVNzNSQVBWODhuRzlDcjVlQWR5SjNXMWJJNU9fWVVrLTNCcUNXbndXOE80aW9pLVhvYmU5TGc5N1RoQ1FfOTh2aktoajdB?oc=5" target="_blank" rel="noopener noreferrer">「軍事研究には従わない」はずの象牙の塔が防衛省の支援をアテにするなんて…識者は警鐘「責任持てるか」</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">10月21日</span>
-            <span class="source">NHKニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Id19DOW9vb2d5bWVva0tIUXB5RjdxX2RJamFUWTVSVjhMRHpsRnBuMFUyR0UyWXV3cnBxZUpwWUVSakJseG5KWXRSLU5WTVdNUkFmcVNFd1JoQTl4YlBJ?oc=5" target="_blank" rel="noopener noreferrer">高市内閣発足1年 消費税減税法案成立に全力 安保3文書取り組む | NHKニュース | 高市内閣、国会、消費税</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -185,6 +206,13 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">10月20日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxQb1o3dnE2UlVUTENvaXpabGkzTHVqRngtU3hZVlExTGoyUDhoS2RmeWt2M3FyYnJrVVM0U2hCekFhcjNUUi0xWmlHajNnUGx5S3V0SGdKM09ZeGVaV1gwQWd6RktoaTdNNmQyemNYRnZxV0o5ZVJZblpBNjdEVnZTVGFyQjhJaEJXYjNZRWdud0VIYVlGRTE0UUpn?oc=5" target="_blank" rel="noopener noreferrer">防衛省の研究費に手を伸ばした教授 「学生さえ節約させてしまった」</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月20日</span>
             <span class="source">日本経済新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1zSW1SWm9zR2hKeTl2VXFZckR4UDRoc3N1OUJ2QjVMTXlfUmNsSWZUWG1Tek1yN0xrZ3dXckw2U2Y0Mk15YjRWSEZsX3Z6bWlCYURfX1JieVk1UXE2djJLTkVoNlBCQXdReUxzRw?oc=5" target="_blank" rel="noopener noreferrer">防衛装備庁の安保技術助成制度、応募が過去最多560件 11大学初採択</a>
@@ -209,6 +237,13 @@ layout: null
             <span class="source">朝日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6TkRQQ2FkWVpCR2NLVWRfT0ZkQlE1Q1ViTXZvdjRqbGxTc2kycEV2aVVvY2VtN1NLWTBMV3p0MC1sS0NzcURxNHBJMFJhalZfZHpEVklHWUVmdmRtdkUwV2VxeHRSdlk?oc=5" target="_blank" rel="noopener noreferrer">防衛省ファンド、大学からの応募最多 名古屋大や大阪大など初採択</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月20日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3g2enBOd0UzaExMY1QzUF82SmEzNGVBRlVPMkhjSUNmQXBseGFpWGFhV2hiaGNIU09zQWlWemlqZDF0NkJ0NmNPV2xqR2dYRGxKYUI1WHBObTZxcWRreFpjTThlU0w5WHYzTldFTEhNckZOcXE1djA5S1hhRVZKdi1mdFA5dEE?oc=5" target="_blank" rel="noopener noreferrer">防衛省の研究費に手を伸ばした教授 「学生さえ節約させてしまった」</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -297,6 +332,20 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">10月15日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OQ19POHMtUGY4dThudkp2Vm1TdWE5QUFtdHh4ajV6QWZlRmJIanN3SDMteWFmZG96eVlKV3ZOVXktQ1R1LTh0ZG1JTXZjLXJodno0Y2F3XzMzdHRzcG4xWHQ3TQ?oc=5" target="_blank" rel="noopener noreferrer">中国空母「遼寧」、南シナ海へ 石垣島南方で訓練実施―防衛省</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月15日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPVlJjMTJUeWprWjJxaW1ITVRmOExCalp4T24ybEllbVdoUEoyTDJNU0VidDJtdkZTbVdJOXFtQ0phRUJGX0JRcDZnZVFGTzI4Uzd1dEQ0eFdGczd0Zl92ZTV6dWZRTFl1bGNjZjZSallvT3B6ak02QjBMWGFoWVFRMA?oc=5" target="_blank" rel="noopener noreferrer">中国空母「遼寧」、南シナ海へ 石垣島南方で訓練実施―防衛省</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月15日</span>
             <span class="source">日本経済新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE85aElrRDROUTVtcTZkMHFZN09LWWlrVkxCRjQ0SWtsYlJjRkx2NlcyZ255RkRRRlhjdTh6MmpjWktJaUg2eU1WZTdWeDk5VklndDNmUl9QWFI5Sk54b0lwWXV3eENpdGRyMlRBaA?oc=5" target="_blank" rel="noopener noreferrer">中国軍の空母「遼寧」が南シナ海へ航行 防衛省発表</a>
@@ -318,6 +367,13 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">10月15日</span>
+            <span class="source">日刊工業新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MWEE5S0RubzM4MmUxX3FIZkxEa2hRUHd3ckloMFhMaV9QSEcySk9hemFJc2NDdENYZXl4eEF4OVJyRndKSUhHdnNIblV2QkcyQUItQ3hvbW4?oc=5" target="_blank" rel="noopener noreferrer">点描／「防衛省版SBIR」始動 装備品に新興技術を反映</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月15日</span>
             <span class="source">日本経済新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5tZjQteW1mV3p5U21lSTlhRmdZaTgwbHZmcXhibDVqVUhzaFZiRmVsVUFpc0hyWTBDNnR4c0hZamw2Njd5RVlBWW5LX2pZVXQxR2hiVU5LbnJXNVQwQUt0bFZOMF9WcmloRGJLTA?oc=5" target="_blank" rel="noopener noreferrer">安保3文書改定で非核三原則「表現検討」 首相が言及、環境変化で</a>
@@ -328,6 +384,20 @@ layout: null
             <span class="source">日本経済新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBJWWZwdFFrTE5YTUNMNmZmdVJiZmlrQ0U4M0NXd3JKZGZlLWQ5S2JSZE14ZW53QmxXZFI1bUdkcFVFWDRLczlrMklkY0FEWGg5Z25hZ09ZcEJxU2c2c1JqNXhWd28tQ0F1TGlPTQ?oc=5" target="_blank" rel="noopener noreferrer">原子力潜水艦、安保3文書に導入の明記求める意見 有識者会議</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月14日</span>
+            <span class="source">中日新聞Web</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WY1JFQXF4Q3NmeU1pdDV4alh6M3FGZFR0WTZRd19VM1N5TkxqY0lxRXNxTk5Na05kOWNsWGpHa2VONThLOG1fbG1jZ3pKRG41NmRHdg?oc=5" target="_blank" rel="noopener noreferrer">小松基地の騒音区域見直し案、防衛省が地元に説明 住民らから分断懸念の声も</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月14日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE05TUlUVUhQUUROYXVFbGhudUhaQmxIcVF1a3drVXRBM3Z5X2xKLURuX1NHQ2VjWWxUeER6bGc0aVFUT3NFd3BhbW5IVFRYeFo0VDZJNmJybmFDb1EyVHo5Z1JLcw?oc=5" target="_blank" rel="noopener noreferrer">中国空母、戦闘機発着艦 沖縄通過後、石垣島南方で―防衛省</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -353,6 +423,13 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">10月14日</span>
+            <span class="source">NHKニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oYmtFWklTNmRsT1BRWm1TZmE4cXFTUW5vS2N1WHp3TE80eTFTNElUN21Jd29VX05RWFFXY2x4NDBDMEp6bXlHMFlJM0pSRnNVM1RHZFM1LUQ2Ymh0YUZR?oc=5" target="_blank" rel="noopener noreferrer">防衛省が小松基地周辺の住民に騒音区域の見直しを説明</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月14日</span>
             <span class="source">日本経済新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFAyb3dOQ19IS29ibnIwRlBZbDRWRm5YS1gtcGVxdXZqUDNRMkJsazZ6cUtnU194Q1lZR0dSc3BUcy1RUGo1TTJYZG1yRlNBM0tMODA4azV1bXd2dkltQndEakQtdlMtS05aeHlpYw?oc=5" target="_blank" rel="noopener noreferrer">高市首相、非核三原則「表現ぶりに検討の余地」 安保3文書改定で</a>
@@ -373,6 +450,20 @@ layout: null
         </li>
         <li class="news-card">
           <div class="meta">
+            <span class="date">10月12日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE42TnowUklUSmNYeXpkTVhfX2p5SE5sTjJTZWxZVnhBQmdFTG0xSWRtV1FtTkdLZlpxUnhWU1ViWVRtMGRIVGNaaFo3VDgtM2xpSEw0XzlabjZ0TFBkMUFjell6akg0NGF4NmpRZA?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮が弾道ミサイル2発を発射 防衛省、EEZ外に落下と推定</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月12日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE95VFhaZUZzQWhMbEFRa09wV19yRFp4dG1iQTBSQUNLLWNIRTNlQkZnY3lKM2VGdjhaRUZVQkY0SDZyZWF5Q3JjdVhqUXVZbFlPMndYZlFYT1M1LWN1UUNCWmVGSm9GMmpCTGRabm5qLTF2ejlhVUE?oc=5" target="_blank" rel="noopener noreferrer">北朝鮮が相次ぎ弾道ミサイル発射か、すでに落下 防衛省発表</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
             <span class="date">10月10日</span>
             <span class="source">NHKニュース</span>
           </div>
@@ -381,9 +472,30 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">10月10日</span>
-            <span class="source">東京新聞</span>
+            <span class="source">読売新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iQlhLOTNOT3EwdVNCbzJIZ0NIaFdpWDJKelNSWHlxVjNoNzZ0OFR5MlRpYi10aTg0VnFsSnZYV3NCUWZ3MXpMRGRhNWhOemlKS3Jr?oc=5" target="_blank" rel="noopener noreferrer">台湾総統、防衛力強化を訴え 中国に対抗、双十節で演説</a>
+          <a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IcElnVXBCR0NRQkl0R3M1NVl1R2hZVlVjX3phUHcwVXVzajdXMjlDVkt0NzRoRGx0MWZ2MGdhN0F1bDFTX0dpMkZXcndyV00zSUdyWWlldjhaSHRhNHZOVnhn?oc=5" target="_blank" rel="noopener noreferrer">台湾総統、無人機など低コスト兵器で中国に対抗する考え示す…防衛力強化は「挑発ではなく戦争を抑止するためだ」</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月9日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1INDQ5VVlZQmp5amlYdm0xcS0xMF9hWVgyVjUtSnhfeEFZdlFzV0ZlODZhM1ZFTHVJLWpneUZINVB0eVFNeWZNeXBMdnh3VC1VYmQtdFFoZlZBNDdWemFtVU1wTHlQUQ?oc=5" target="_blank" rel="noopener noreferrer">衛星打ち上げロケットの短期製造、防衛省が調査研究へ…人工衛星への攻撃など有事に備え</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月9日</span>
+            <span class="source">日本経済新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9nOU9LS1YzN2o4ZV94bUctbGVhb3o1ZjlHdnR1SEp0bEtEa2JUQlJmOHdpRXpwQTVzazRGZzJkQUxvNTRjaURMQmE4T1dxc0pIaXBVekRRd3JIM0ZSdGFIRWNHaDFIUmRFNGU0cA?oc=5" target="_blank" rel="noopener noreferrer">硫黄島の防衛省設備、随意契約4件「不適切」 予定価格9800万円過大</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月9日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YOTkyOGxZb1dUS1pmd1FvRExTMGFseGRDcXFFQzJsZXFhV0JVSndCV1NSandOLTdwdE1vcHQ1QnZUY1A4elNUM2dlS1pYNUE5VFJWclhDX1RzYkxzdnF5YThsZEJIVzA?oc=5" target="_blank" rel="noopener noreferrer">防衛省がロケット開発を研究へ 有事を念頭、短期間で衛星打ち上げ [高市政権の安保見直し][安全保障関連3文書]</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -395,6 +507,27 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">10月9日</span>
+            <span class="source">毎日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yMmpPdzJvXzFhTkNFYk5neDd5TU1HS2tYR0Z2OXZlakpuMGRhSHRvS0dDU2UxcXhYT1RaUmdQTm9Da21fdVVtSmMzT0NxYUxxMVR1X2JIcjdJQlFKN1ZWeHVoeHhmZldq?oc=5" target="_blank" rel="noopener noreferrer">防衛省、宇宙輸送能力強化へ 調査研究に7000万円</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月9日</span>
+            <span class="source">読売新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EWXRqNXJISDZJMThvWXJwVFdzY3IzS3dSRjdNS2l6SmJnTWFvQktrMDhvX25aNk05akRwTHVrVjhEek1lZGlRdVV1QU1pRXdzcTd0bDdROXdBU1plajlSanMtV05Hdw?oc=5" target="_blank" rel="noopener noreferrer">硫黄島の発電設備点検業務、防衛省が誤って随意契約…「特殊性を考慮する必要はなかった」と会計検査院</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月9日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPTTVmOXRFbHBTSVh1OVBuZWNrdEdVUm1ZUFRXd1lodU1iMXVGX0tfMVlyYUdYVzE5VnNKWjdUSEdsbDlnSVlTUFI4dFBxQUk3Y3FXblAzaThzY05MaXVUTUlDMWNWNFZRblJBb0wydDFlMzgzUkhnNU1KLVpfN09yN1Z3?oc=5" target="_blank" rel="noopener noreferrer">ロケット打ち上げ、迅速化研究 防衛省、衛星攻撃に備え</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月9日</span>
             <span class="source">朝日新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rcEpsNlowVHNjY2J5RDRvOUw1QzVEd1hGVEVEOVVrdFJ5SU9zRnkzZEo4aGwwVEdNVWtrUGg4MW5ucmdRU1AtS2xzeWRKbm5XQVB2QW5PekswempnUlJrRVhuLUZvMkU?oc=5" target="_blank" rel="noopener noreferrer">防衛力強化へ特定利用空港じわり増加 都市部近接の神戸、懸念の声も [兵庫県]</a>
@@ -402,9 +535,9 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">10月9日</span>
-            <span class="source">産経ニュース</span>
+            <span class="source">日本経済新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5tdmdJQ21vdnV0V1V0WHJpMWRwY3Byb0lha2d1U0U5bHN3cGNaa1VEQjR4djE5eU12QjYxZlZqT0xQcmdlNHJ3S2tvMWFnanJrOG9OUmJxLV93MTRlMFNhbmowRHZISlk0ZjUzZkdpMFEwTGdwSnc?oc=5" target="_blank" rel="noopener noreferrer">小泉進次郎防衛相、原潜保有「議論の必要性は国民も理解」 安保3文書改定</a>
+          <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9pNVNrTkQ1QnY3Y3dTOEh5WDBiZ3ZrQlpDM1dCSnBXNTZQSHJBMWItRUFoM0JOYzFZRmtfb3ppNlpmRHJZZkVvMjEyRUJWNV9ZdGRSNmlDRy1BUXY1bTNobmdyWVRfM0VZNGFaMQ?oc=5" target="_blank" rel="noopener noreferrer">原子力潜水艦の議論「国民も理解」 小泉防衛相、安保3文書改定巡り</a>
         </li>
         <li class="news-card">
           <div class="meta">
