@@ -88,9 +88,9 @@ layout: null
     </section>
 
     <section class="stats" aria-label="更新情報">
-      <div class="stat"><span>UPDATED</span><strong>2026年11月08日 16:04</strong></div>
-      <div class="stat"><span>ARTICLES</span><strong>53件</strong></div>
-      <div class="stat"><span>LATEST</span><strong>11月7日</strong></div>
+      <div class="stat"><span>UPDATED</span><strong>2026年11月09日 16:48</strong></div>
+      <div class="stat"><span>ARTICLES</span><strong>56件</strong></div>
+      <div class="stat"><span>LATEST</span><strong>11月9日</strong></div>
     </section>
     <section>
       <div class="section-head">
@@ -98,6 +98,27 @@ layout: null
         <p class="note">Google News RSSから取得・フィルタリングした記事です。</p>
       </div>
       <ol class="news-list">
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">11月9日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yemxIV1QtY2VyVzBCLVhJcUtDdlpoQXBzLXhSakxKQjBnM0FMUUJqX2VYczF4RWNraGFQeGtobnAyT0Z5RDREY3daOFRtbnk5XzdvcWk3UGIwWmtSMVpHdjNnQQ?oc=5" target="_blank" rel="noopener noreferrer">防衛装備完成品を初供与 政府、フィリピンに監視レーダー</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">11月9日</span>
+            <span class="source">朝日新聞</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zc244N1VpekE4RTFxTEhMR0h5UWpxQ0F3ZzIxMFJuOGtkQVlWckZOenhHVlV5ano3dU1veXo3QlBhOFJFYS1ZaHk4cUUzUWM1REVfa2t2WDI2M2t6aWZ5VFNlV1VCZ0E?oc=5" target="_blank" rel="noopener noreferrer">フィリピンに軍用監視レーダー供与 OSAで初の完成済み防衛装備品</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">11月9日</span>
+            <span class="source">中日新聞Web</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WUkI0TEgwM2NQTkYtQnd6TXZPbElHR0JZbk9VcnFNOGtoM2hKRHotQlM1bGxZWDRwYzJTUmpxQjVtTjBrQWN0QkJDYzlnMTZuUFYxZThuNlk5MzBNSzNVMFhVdFg?oc=5" target="_blank" rel="noopener noreferrer">「原潜」言及、増す現実味 安保3文書改定</a>
+        </li>
         <li class="news-card">
           <div class="meta">
             <span class="date">11月7日</span>
@@ -139,13 +160,6 @@ layout: null
             <span class="source">産経ニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ09TSFNYUmJlWW10UmNJMkR1bE5yWHdZY2VnNGxqY0Z6YjhEWDdQVGhwTGN1M2tnLUZfMTU0cmwzeHB2LTNGUzJ2WDgyOUFRbVpRMFJBUXowZzNFODZxSlJHdGhkbzF5dUk3YVNjZEJOMXEtNWNQSFVlZnhVTWpJZnNpQm9QZGgzcV9zaA?oc=5" target="_blank" rel="noopener noreferrer">高市首相「今後もトランプ大統領と協力」 米中間選挙巡り「日米同盟は外交安保の基軸」</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">11月5日</span>
-            <span class="source">産経ニュース</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE1OdEdBZENRTFZqZHNQX0h2bVpzdENsQmRZeEZuR1dHSExWcldQTVdPRDZkTXBzc1ZZdVBHX2ZSYVhNc3NJTXg5aVNIUHIzRGN5dk9EdDNES0FDTkd0UmQyZUNpeFhkLW5XX05oaE13OEp5LTNJWHc?oc=5" target="_blank" rel="noopener noreferrer">有事の財政支出に備えを 財務省提言、防衛力強化も財源は歳出改革で</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -199,13 +213,6 @@ layout: null
         <li class="news-card">
           <div class="meta">
             <span class="date">11月4日</span>
-            <span class="source">東洋経済オンライン</span>
-          </div>
-          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyV3UtelkxNG9LNzYxMm5PYVNKVHNPRnpBbUdIVnlkd1FwVmVQQldJMTdqaUdhb2pid1VaMGZJU1doRkxpLVZ5MDdXQU11TjNmRktjdTk0TXJTNEhrVWRV?oc=5" target="_blank" rel="noopener noreferrer">アクセルスペース､光学衛星4機故障で直面する防衛省大型案件のジレンマ…収益への影響はブラックボックスで株価低迷</a>
-        </li>
-        <li class="news-card">
-          <div class="meta">
-            <span class="date">11月4日</span>
             <span class="source">日本経済新聞</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9aTVNTNzlYRWdWbFpMS0V1NjhaLTlSVnd2S2c2V0hpZ1dkUnU4bTRYVVJGYzVVLXl2cTJpbFFQNHJYM043azBYUjI4bERsY0ZLd0FCNXFoczNPTlZtUUxDRk8yeUo2N2NQX19kSw?oc=5" target="_blank" rel="noopener noreferrer">防衛ドローン競争加速、スタートアップが変える日本の防衛産業</a>
@@ -215,7 +222,7 @@ layout: null
             <span class="date">11月3日</span>
             <span class="source">NHKニュース</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUTXA0OGZLZEhXRkxHdERUVVZqNVYtcnhiQ2NHYjF1Ul9RV3BmYUlWM29yUEUxY1RRLUZ6ZUJHTE1ubXE4MlRvOXQ5SVBuWnZoODFvMXV0S3JzS2ZUMWtJ?oc=5" target="_blank" rel="noopener noreferrer">小泉防衛相 防衛省のAI活用に関する基本方針見直す考え</a>
+          <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUTXA0OGZLZEhXRkxHdERUVVZqNVYtcnhiQ2NHYjF1Ul9RV3BmYUlWM29yUEUxY1RRLUZ6ZUJHTE1ubXE4MlRvOXQ5SVBuWnZoODFvMXV0S3JzS2ZUMWtJ?oc=5" target="_blank" rel="noopener noreferrer">小泉防衛相 防衛省のAI活用に関する基本方針見直す考え | NHKニュース | 防衛省・自衛隊、安全保障、ＡＩ・ネット・ＩＴ</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -237,6 +244,13 @@ layout: null
             <span class="source">産経ニュース</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0trTUIxN1dUNVI1aUdRQ0NSTGJpd0lFbkFjbld1a01tNnNVR1dZSTVFRG0yNGZlTVh2VUlyY3oxQWFrMEdDWjFqdnNGZDBhd0VjdXdzU2xEVXpIRm1fOGhic0Nvem5oT3g4S3I3djd2dGdDcUNOdmdwNmxQOVFzSDMtTG1paUJMaHdGbQ?oc=5" target="_blank" rel="noopener noreferrer">防衛産業強化へ新法人 防衛力の持続性確保図る 産業基盤戦略を年内策定、財政効率化狙い</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">11月1日</span>
+            <span class="source">産経ニュース</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGtfYVhITTd1dTFqSWtaNW41Uy03R0JoMk9FMjFTejd4TUh3X0x6UGlZekloMDBrSk5aVGVTMllWaFhEZjVIZ1MybVVocDYtdmJ0M1RSNExOcVBsT2lLNEtKMm0zRmdiM1VZaDBWY3R4UTVhaDVNYUFtWnIxOUxmUzBDeWs1RnZ5TXhBck1OVUlTbThrbU1XVlE2djZJVnZtdVE?oc=5" target="_blank" rel="noopener noreferrer">防衛産業強化へ新法人 防衛力の持続性確保図る 産業基盤戦略を年内策定、財政効率化狙い（写真・画像 1/1）</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -342,6 +356,13 @@ layout: null
             <span class="source">時事ドットコム</span>
           </div>
           <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rb3FCUlNGSHBVNlNvWS0welNPTVRuZmItdFB0cWZmeW9fWEZkTzF6SDdiN3JIQzVQQ1VtaUFDODl2NVZrU2Ntc1lKOHd5S2FMQ1M0Q0s5bi1RbmtOOTlUMmw2QQ?oc=5" target="_blank" rel="noopener noreferrer">中国海警船、海軍艦艇と同行 防衛省が初公表―鹿児島県沖</a>
+        </li>
+        <li class="news-card">
+          <div class="meta">
+            <span class="date">10月28日</span>
+            <span class="source">時事ドットコム</span>
+          </div>
+          <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOcXgwbnRxUFV3dDg5R1AxWmN4QlJSQ3lCTGEtVWZ4TXBhSmtZZ3d0OVlKektlUk9VNnJqN25ITTE5VVFOb19la2ZLXzhnRkM1NHRJTkViY2I5ZEpaRFlxUGd1YUhGcFlmanJaQk1rd3lvX1ZyeXlURnliZmQ2Ml81OQ?oc=5" target="_blank" rel="noopener noreferrer">中国海警船、海軍艦艇と同行 防衛省が初公表―鹿児島県沖</a>
         </li>
         <li class="news-card">
           <div class="meta">
@@ -464,10 +485,10 @@ layout: null
         </li>
         <li class="news-card">
           <div class="meta">
-            <span class="date">10月25日</span>
-            <span class="source">読売新聞</span>
+            <span class="date">10月26日</span>
+            <span class="source">毎日新聞</span>
           </div>
-          <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xYTlQYkptaHVDN25RZzFWeHVkVU5XNWZid0J1X25TaGVUdXNxQXRHSmRKdWhJUXlMN2FjNVl0T2Z2eEhQLW9fMjBOcy1lVW9aRmpwbVJUWnFGSnBTQnVLdHg0ZmJCQQ?oc=5" target="_blank" rel="noopener noreferrer">ＡＩなど「軍民両用」産業育成へ、政府が年内に「防衛産業基盤戦略」策定…継戦能力確保狙う</a>
+          <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nclJ4WmI5eW1GRTlab0dlLTE0T0JfMDhnb2syVGFxN2RKWUtCNWdOSmx4OWczbGxVTkhHakJQN3R6Q3U1bm9RSXpLMEFTVzUwNzBoVXhDbVFfWDZER25YYW8wbTVPaXli?oc=5" target="_blank" rel="noopener noreferrer">自民2議連、安保3文書改定で防衛相に提言 無人機への対応など</a>
         </li>
       </ol>
     </section>
